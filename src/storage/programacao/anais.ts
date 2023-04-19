@@ -45,7 +45,7 @@ export const Anais = [
     path: '/assets/anais/MODELAGEM DE SISTEMA DE PARTIDA E PARADA EM REDES PETRI (1).pdf'
   },
   {
-    title: 'PREDIÇÃO DA ALTURA DE QUEDA DA USINA DE JIRAU UTILIZANDO REDES NEURAIS ARTIFICIAIS RECORRENTES LSTM',
+    title: 'PREDIÇÃO DA ALTURA DE QUEDAanal DA USINA DE JIRAU UTILIZANDO REDES NEURAIS ARTIFICIAIS RECORRENTES LSTM',
     autor: 'Silva, D. F. C.',
     path: '/assets/anais/Diogof_pronto.pdf'    
   },
