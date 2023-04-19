@@ -1,0 +1,83 @@
+.miniCourse {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  grid-auto-rows: auto auto;
+  grid-template-areas: "title title" "info desc";
+  margin-bottom: 3rem;
+}
+.miniCourse h1, .miniCourse h2, .miniCourse h3, .miniCourse h4, .miniCourse h5, .miniCourse h6 {
+  text-transform: unset;
+  font-weight: unset;
+  color: initial;
+}
+.miniCourse .title {
+  grid-area: title;
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  border-bottom: 2px solid;
+  margin-bottom: 22px;
+}
+.miniCourse .title i {
+  font-size: 25pt;
+  margin-right: 15px;
+}
+.miniCourse .title h1 {
+  margin: 0;
+  font-size: 24pt;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.miniCourse .info-h {
+  grid-area: info;
+  padding-right: 15px;
+}
+.miniCourse .info-h > div:first-child {
+  font-style: italic;
+}
+.miniCourse .info-h > div:first-child h5, .miniCourse .info-h > div:first-child h6 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.miniCourse .info-h .date-time-place {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0 15px;
+  margin-top: 35px;
+}
+.miniCourse .info-h .date-time-place i {
+  text-align: center;
+  font-size: 32pt;
+  margin-bottom: 15px;
+}
+.miniCourse .info-h .date-time-place > div {
+  text-align: center;
+  font-size: 12pt;
+  font-weight: 700;
+}
+.miniCourse .desc {
+  grid-area: desc;
+}
+
+#true{
+  color:red;
+}
+
+@media screen and (max-width: 768px) {
+  .miniCourse {
+    grid-template-columns: 100%;
+    grid-auto-rows: repeat(3, auto);
+    grid-template-areas: "title" "desc" "info";
+  }
+  .miniCourse .title h1 {
+    white-space: unset;
+    font-size: 17pt;
+  }
+}
+@media screen and (max-width: 425px) {
+  .miniCourse .title h1 {
+    font-size: 14pt;
+  }
+}
