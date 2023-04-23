@@ -17,21 +17,21 @@
 
                 <div>
                   <div>
-                    <span class="date">09 a 11 de Maio</span>
+                    <span class="date">08 a 10 de Maio de 2023</span>
                   </div>
                   <hr />
                   <div>
-                    <span class="jcecec">I JCPOLI</span>
+                    <span class="jcecec">II JCPOLI</span>
                   </div>
                   <div>
                     <span class="jcecec-sub">
-                      Jornada Científica da Escola Politécnica
+                      Jornada Científica da Escola Politécnica e de Artes
                     </span>
                   </div>
                   <hr />
                   <div>
                     <span id="description">
-                      CULTURA, INOVAÇÃO e EMPREENDEDORISMO
+                      O papel da inteligência artificial nas ciências básicas e nas engenharias.
                     </span>
                   </div>
                 </div>
@@ -109,7 +109,7 @@ export default class Carousel extends Vue {
 }
 
 #description {
-  letter-spacing: 3px;
+  letter-spacing:
 }
 
 .jcecec {
@@ -123,7 +123,10 @@ export default class Carousel extends Vue {
 }
 
 #logo {
-  width: 6rem;
+  width: 10rem;
+  height: 6rem;
+  position:relative;
+  right: 1rem;
 }
 
 #cienciaemcasa {

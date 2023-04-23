@@ -20,8 +20,8 @@
                 <h5>QUANDO</h5>
               </div>
               <span id="quando">
-                De 09 a 11 de
-                <br />maio de 2022
+                De 08 a 10 de
+                <br />maio de 2023
               </span>
               <!-- </v-flex> -->
               <!-- <v-flex> -->

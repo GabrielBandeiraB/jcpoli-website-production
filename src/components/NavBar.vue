@@ -29,7 +29,7 @@
 
     <div class="nav-info">
       <div id="logo-nav-bar">
-        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 200px; height: auto;"> alt/></a>
+        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 220px; height: auto; position: absolute; float: right; top: -20px; "> alt/></a>
 
         <span class="title"></span>
         <br />
@@ -40,12 +40,12 @@
 
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
-          De 9 a 11 de Maio de 2022
+          De 8 a 10 de Maio de 2023
           <br />PUC Goiás <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 9 a 11 de Maio de 2022 PUC Goiás Goiânia-GO
+          De 8 a 10 de Maio de 2023 PUC Goiás Goiânia-GO
         </span>
       </div>
 

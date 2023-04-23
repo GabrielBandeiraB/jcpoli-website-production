@@ -2,16 +2,15 @@
   <div id="container-sobre">
     <v-layout p-3 row wrap>
       <v-flex xs12 class="text-xs-left" mt-5>
-        <h2>I Jornada Científica da Escola Politécnica</h2>
+        <h2>II Jornada Científica da Escola Politécnica e de Artes</h2>
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
           Temos a alegria de anunciar a realização da I Jornada Científica da
-          Escola Politécnica (I JCPOLI) da Pontifícia Universidade Católica de
-          Goiás (PUC Goiás) que será realizada de 9 a 11 de Maio de 2022. A I
-          JCPOLI tem como o tema Cultura, Inovação e Empreendedorismo,
-          oferecendo 51 atividades: palestras, mesa redonda, minicursos,
-          competições e exposições.
+          Escola Politécnica (II JCPOLI) da Pontifícia Universidade Católica de
+          Goiás (PUC Goiás) que será realizada de 8 a 10 de Maio de 2022. A II
+          JCPOLI tem como tema O papel da inteligência artificial (IA) nas ciências básicas e nas engenharias.
+          oferecendo atividades: palestras, mesa redonda, minicursos, competições e exposições.
         </p>
       </v-flex>
       <v-flex xs12 class="text-xs-left" mt-5>
@@ -21,7 +20,7 @@
         <p>
           Nesta edição da Jornada serão aceitos artigos de alunos de Trabalho de
           Conclusão de Curso – TCC II. Os artigos aceitos e publicados nos anais
-          da I Jornada Científica da Escola Politécnica podem substituir a
+          da II Jornada Científica da Escola Politécnica e de Artes podem substituir a
           escrita da monografia para os alunos da Escola Politécnica da PUC
           Goiás, exceto os cursos de Arquitetura e Urbanismo e Design, dada a
           especificidade do caráter projetual destes. Os autores dos artigos
