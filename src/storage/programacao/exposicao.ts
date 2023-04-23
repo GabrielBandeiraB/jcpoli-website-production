@@ -1,42 +1,59 @@
 const Exposicao_Design = [
   {
-    title: "Povos originários — os caminhos da memória",
-    instructor: "Marcos Costa de Freitas",
-    institution: "",
-    desc: `Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida iniciei um trabalho autoral para reconstruir imagens de alguns desses povos.
-        Trabalhando com descrições textuais, gravuras antigas do período colonial e estudo comparado de povos vizinhos, venho fazendo um percurso cujo objetivo é a reconstituição da memória perdida. Mas é um trabalho ainda em fase inicial, os desenhos e as abordagens de reconstituição representam apenas ensaios, o trabalho encontra-se na fase processual. 
-        A maioria dos desenhos da exposição são de povos de culturas vivas, essa abordagem é um estudo de situações similares, muito útil para tratar os registros dos povos antigos. Dessa forma, a exposição é um ensaio de um estudo exploratório de um tema muito extenso no tempo e na geografia. 
+    title: "Pormade Portas Showroom de materiais e equipamentos",
+    instructor: "",
+    institution: "PUC Goiás",
+    desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
+    O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
+    Ele apresenta em sua carroceria os modelos de portas da Pormade, as estampas dos papéis de parede, piso vinilico, rodapés e fechaduras. Além disso, mesas e cadeiras ficam dispostas próximas aos veículos para que os visitantes conversem com os especificadores e analisem os catálogos.
+    A arquitetura dos veículos do projeto conta ainda com uma televisão, na qual vídeos sobre a cultura Pormade são exibidos durante as participações nas feiras.
+    O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
-    date: "09/05 até 11/05",
-    time: "",
-    place: "PROA, área II",
-    image: "assets/img/slider/expo_design.jpeg"
+    date: "???",
+    time: "???",
+    place: "???",
+    image: "assets/img/slider/expo_pormade.png"
   },
+  
 ]
 
 const Exposicao_Arquitetura = [
   {
-    title: "TFC -1 | Trabalho de Fim de Ciclo 1",
+    title: "TFC1 - Trabalho de Fim de Ciclo 1 do curso de Arquitetura e Urbanismo",
     instructor: "",
     institution: "PUC Goiás",
-    desc: `É uma atividade de encerramento do Primeiro Ciclo de Aprendizagem, que se inicia no 1º período e finaliza no 3º período, para o turno matutino, e 4º período, para o turno noturno. Consiste em um projeto integrado que contempla a aplicação dos conteúdos das disciplinas que compõem esse ciclo.  
-
-      O trabalho tem por objetivo evidenciar os conhecimentos, habilidades e atitudes incorporadas pelo aluno durante o 1º ciclo, que são essenciais para sua passagem para o 2º ciclo.  Quais sejam:     
-      
-      Demonstrar criatividade e sensibilidade projetual e artística; 
-      
-      Evidenciar conhecimentos, habilidades e competências adquiridos nas disciplinas  
-      
-      que compõem o 1º ciclo;   
-      
-      Demonstrar capacidade de expressão oral e gráfica, por meio de desenhos e maquetes; 
-      
-      Desenvolver exercício integrado das disciplinas do 1º ciclo com experimentações de metodologia de projeto. `,
-    date: "09/05 até 16/05",
-    time: "Abertura da Exposição dia 09/05 às 18:00",
-    place: "Foyer dos auditórios 2 e 3 na área II",
+    desc: `Exposição dos trabalhos de TFC -1 | Trabalho de Fim de Ciclo 1, apresentados em 2022/2.
+    O TFC-1 é uma atividade prevista no Projeto Pedagógico do Curso de Arquitetura e Urbanismo no encerramento do Primeiro Ciclo de Aprendizagem, que se inicia no 1º período e finaliza no 3º período, para o turno matutino, e 4º período, para o turno noturno. Consiste em um projeto integrado que contempla a aplicação dos conteúdos das disciplinas que compõem esse ciclo.
+    `,
+    date: "???",
+    time: "???",
+    place: "???",
     image: "assets/img/slider/expo_arqui.jpg"
   },
+
+  {
+    title: "Pizzada",
+    instructor: "",
+    institution: "PUC Goiás",
+    desc: `Evento de produção de pizzas elaboradas pelos alunos do C.A. de Arquitetura e Urbanismo, e o Prof. Carlos Vaz de Campos`,
+    date: "???",
+    time: "???",
+    place: "???",
+    image: ""
+  },
+
+  {
+    title: "I Concurso de Fotografia da Escola Politécnica e de Artes",
+    instructor: "",
+    institution: "PUC Goiás",
+    desc: `I Concurso de Fotografia da Escola Politécnica e de Artes tem como objetivo fomentar a produção de imagens relacionadas ao tema Escola Politécnica e de Artes: o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura e arte entre a comunidade acadêmica.
+    `,
+    date: "???",
+    time: "???",
+    place: "???",
+    image: "assets/img/slider/expo_foto.jpg"
+  },
+
 ]
 
 

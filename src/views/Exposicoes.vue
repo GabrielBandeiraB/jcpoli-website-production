@@ -91,12 +91,13 @@ h5 {
 }
 
 .desc {
-  display: flex;
-  align-items: center;
+  text-align: center;
 }
 
 .desc img {
-  margin-right: 3rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2rem;
 }
 
 #photo {
