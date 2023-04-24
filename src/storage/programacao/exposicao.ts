@@ -39,7 +39,7 @@ const Exposicao_Arquitetura = [
     date: "???",
     time: "???",
     place: "???",
-    image: ""
+    image: "assets/img/slider/expo_pizzada.jpg"
   },
 
   {
