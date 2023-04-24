@@ -11,11 +11,9 @@
       <h4 class="text-center">Agenda</h4>
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
-        <button class="button" v-on:click="filterPalestras">
-          09/05
-        </button>
+        <button class="button" v-on:click="filterPalestras">08/05</button>
+        <button class="button" v-on:click="filterPalestras">09/05</button>
         <button class="button" v-on:click="filterPalestras">10/05</button>
-        <button class="button" v-on:click="filterPalestras">11/05</button>
         <!--<button class="button" v-on:click="filterPalestras">12/05</button>
         <button class="button" v-on:click="filterPalestras">13/05</button>-->
       </div>

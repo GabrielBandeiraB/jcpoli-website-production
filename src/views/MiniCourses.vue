@@ -12,11 +12,9 @@
 
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todos as datas</button>
-        <button class="button" v-on:click="filterCourses">
-          09/05
-        </button>
+        <button class="button" v-on:click="filterCourses">08/05</button>
+        <button class="button" v-on:click="filterCourses">09/05</button>
         <button class="button" v-on:click="filterCourses">10/05</button>
-        <button class="button" v-on:click="filterCourses">11/05</button>
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
