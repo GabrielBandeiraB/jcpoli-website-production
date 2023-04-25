@@ -35,11 +35,6 @@ export const ComiteListOrganization =
       coordenador: 'LUCIANA CASALETTI',
       area: 'Coordenadora de Engenharia de Alimentos e Engenharia de Produção'
     },
-    
-    {
-      coordenador: 'LUIZ ÁLVARO DE OLIVEIRA JÚNIOR',
-      area: 'Coordenador de Engenharia Civil'
-    },
     {
       coordenador: 'MARTHA NASCIMENTO CASTRO',
       area: 'Coordenadora de Agronomia'
@@ -47,11 +42,7 @@ export const ComiteListOrganization =
     {
       coordenador: 'SALMEN CHAQUIP BUKZEM',
       area: 'Coordenador de Ciências Aeronáuticas'
-    },       
-    {
-      coordenador: 'WANDERSON RAINER HILARIO DE ARAUJO',
-      area: 'Coordenador de Engenharia de Controle e Automação'
-    },
+    },      
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
@@ -59,14 +50,6 @@ export const ComiteListOrganization =
     {
       coordenador: 'LUDMILLA REIS PINHEIRO DOS SANTOS',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
-    },    
-    {
-      coordenador: 'Eric Souza Dantas',
-      area: 'Estagiário da Jornada Científica'
-    },
-    {
-      coordenador: 'WALCY SANTOS REZENDE RIOS',
-      area: 'Estagiário da Jornada Científica'
     },
     
   ]

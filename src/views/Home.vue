@@ -30,7 +30,7 @@
                 <h5>ONDE</h5>
               </div>
               <div>
-                <v-flex class="onde">Escola Politécnica</v-flex>
+                <v-flex class="onde">Escola Politécnica e de Artes</v-flex>
                 <v-flex class="onde"
                   >Pontifícia Universidade Católica de Goiás</v-flex
                 >
@@ -63,9 +63,9 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify text-center">
-                A I JCPOLI será realizada de 9 a 11 de Maio de 2022, com tema:
-                Cultura, Inovação e Empreendedorismo. É com alegria que o
-                convidamos para enviar um artigo para o comitê científico.
+                A I JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
+                O papel da inteligência artificial nas ciências básicas e nas engenharias. 
+                É com alegria que o convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>
           </v-layout>
@@ -90,7 +90,7 @@
             <v-flex>
               <hr />
               <p>
-                &copy; 1º Jornada Científica da Escola Politécnica - I JCPOLI 2022
+                &copy; 2º Jornada Científica da Escola Politécnica e de Artes - II JCPOLI 2023
               </p>
             </v-flex>
           </v-layout>

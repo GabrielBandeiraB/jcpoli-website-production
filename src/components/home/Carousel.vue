@@ -31,7 +31,7 @@
                   <hr />
                   <div>
                     <span id="description">
-                      O papel da inteligência artificial nas ciências básicas e nas engenharias.
+                      O papel da inteligência artificial nas ciências básicas e nas engenharias
                     </span>
                   </div>
                 </div>

@@ -8,7 +8,7 @@
 
     <Main>
       <Paragraph title="Cursos">
-        A Escola Politécnica da Pontifícia Universidade Católica de Goiás (PUC
+        A Escola Politécnica e de Artes da Pontifícia Universidade Católica de Goiás (PUC
         Goiás) foi criada em agosto de 2021 com a junção de três escolas: Escola
         de Artes e Arquitetura, Escola de Ciências Exatas e da Computação e
         Escola de Engenharia. Atualmente são oferecidos 18 cursos de graduação,
@@ -63,14 +63,6 @@
             >
               <li>
                 Design
-              </li>
-            </a>
-            <a
-              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-alimentos/"
-              target="_blank"
-            >
-              <li>
-                Engenharia de Alimentos
               </li>
             </a>
             <a
@@ -178,10 +170,10 @@
             </a>
           </ul>
         </div>
-        Além de oferecer os seus próprios cursos, a Escola Politécnica também é
+        Além de oferecer os seus próprios cursos, a Escola Politécnica e de Artes também é
         responsável pela área de Física, Matemática e Química com a criação do
-        Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. A Escola
-        Politécnica oferece o programa de pós-graduação intitulado Mestrado de
+        Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. Escola Politécnica e de Artes 
+        oferece o programa de pós-graduação intitulado Mestrado de
         Engenharia de Produção e Sistemas(
         <a
           id="mepros"

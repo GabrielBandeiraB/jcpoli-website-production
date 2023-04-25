@@ -1,3 +1,4 @@
+ <!--
 <template>
   <div style="margin:40px 0">
     <div>
@@ -30,6 +31,7 @@
   </div>
 </template>
 
+
 <script lang="ts">
 import { Component, Vue, Prop } from 'vue-property-decorator'
 
@@ -54,17 +56,17 @@ export default class Dates extends Vue {
 
   private dates = [
     {
-      date: 'Até 26 de Maio',
+      date: '?????',
       event: 'Período para encaminhamento dos artigos',
       disabled: false
     },
     {
-      date: 'até 06 de Junho',
+      date: '?????',
       event: 'Período para avaliação, revisão e correção dos artigos',
       disabled: false
     },
     {
-      date: '06 a 15 de Junho',
+      date: '?????',
       event: 'Apresentação do artigo durante as apresentações de TCC',
       disabled: false
     }
@@ -88,3 +90,4 @@ export default class Dates extends Vue {
   font-size: 16px;
 }
 </style>
+-->
