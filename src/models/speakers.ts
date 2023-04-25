@@ -162,7 +162,7 @@ const speakers_jcpoli = [
     speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
     description: ``,
     subjectResume: ``,
-    img: '/assets/img/speakers/',
+    img: '/assets/img/speakers/user-vector-woman.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
@@ -182,7 +182,7 @@ const speakers_jcpoli = [
     
     Guilherme de Andrade Bento - Possui graduação pela Pontifícia Universidade Católica de Goiás (2011) e Especialista em Docência no Ensino Superior pela FABEC (2014). Atualmente é sócio-fundador da RGB Estúdio, trabalha em parceria com o escritório Espaço Equipe de Planejamento e Arquitetura (Arquitetos Fernando Carlos Rabelo e Frederico André Rabelo), professor na Pontifícia Universidade Católica de Goiás (PUC GO). Experiência na área de Arquitetura e Urbanismo com ênfase em projetos de médio a grande porte.
     `,
-    img: '/assets/img/speakers/patrickmorais.jpg',
+    img: '/assets/img/speakers/rangel.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
