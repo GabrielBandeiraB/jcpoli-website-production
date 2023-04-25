@@ -6,7 +6,7 @@
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos a alegria de anunciar a realização da I Jornada Científica da
+          Temos a alegria de anunciar a realização da II Jornada Científica da
           Escola Politécnica (II JCPOLI) da Pontifícia Universidade Católica de
           Goiás (PUC Goiás) que será realizada de 8 a 10 de Maio de 2022. A II
           JCPOLI tem como tema O papel da inteligência artificial (IA) nas ciências básicas e nas engenharias.

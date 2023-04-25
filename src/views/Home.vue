@@ -63,7 +63,7 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify text-center">
-                A I JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
+                A II JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
                 O papel da inteligência artificial nas ciências básicas e nas engenharias. 
                 É com alegria que o convidamos para enviar um artigo para o comitê científico.
               </p>
