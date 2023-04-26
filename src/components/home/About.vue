@@ -9,7 +9,7 @@
           Temos a alegria de anunciar a realização da II Jornada Científica da
           Escola Politécnica (II JCPOLI) da Pontifícia Universidade Católica de
           Goiás (PUC Goiás) que será realizada de 8 a 10 de Maio de 2022. A II
-          JCPOLI tem como tema O papel da inteligência artificial (IA) nas ciências básicas e nas engenharias.
+          JCPOLI tem como tema O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida.
           oferecendo atividades: palestras, mesa redonda, minicursos, competições e exposições.
         </p>
       </v-flex>

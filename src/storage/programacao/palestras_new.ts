@@ -234,6 +234,17 @@ let Palestras = [
     time: "10:00-11:30",
     place: "Presencial",
   },
+
+  {
+    title: "Transformação Digital e Tendências",
+    instructor: "Aguinaldo Aragon Fernandes",
+    institution: "Pesquisador e consultor independente",
+    desc: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
+    date: "08/05",
+    time: "10:00-11:30",
+    place: "Online",
+  },
+
 ]
 
 const Palestras_Producao = [

@@ -64,7 +64,7 @@
             <v-flex>
               <p class="text-justify text-center">
                 A II JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
-                O papel da inteligência artificial nas ciências básicas e nas engenharias. 
+                O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida. 
                 É com alegria que o convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>
@@ -90,7 +90,7 @@
             <v-flex>
               <hr />
               <p>
-                &copy; 2º Jornada Científica da Escola Politécnica e de Artes - II JCPOLI 2023
+                &copy; 2º Jornada Científica da Escola Politécnica - II JCPOLI 2023
               </p>
             </v-flex>
           </v-layout>
@@ -170,7 +170,7 @@ export default class Home extends Vue {
         speaking: 'Processo construtivo da parede de concreto e produtividade.',
         description: `Processo construtivo da parede de concreto e produtividade.`,
         subjectResume: `Engenheiro Civil, formado na Uni-Goiás em 2019/2, atuando a 7 anos na construção civil e a 2 anos como Engenheiro residente de obras em parede de concreto pela MRV ENGENHARIA. Pós-Graduando em Gestão de Projetos e Processos pelo IPOG.`,
-        img: '/assets/img/speakers/lucasribeiro.png',
+        img: '/assets/img/speakers/lucasribeiro.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -186,7 +186,7 @@ export default class Home extends Vue {
         speaking: 'Mesa Bistrô URBS',
         description: `Mesa Bistrô URBS`,
         subjectResume: `Formada em Recursos Humanos pela Uni-Anhanguera. Pós -graduada em RH 4.0. Responsável pela área de treinamentos da URBS Connect.`,
-        img: '/assets/img/speakers/karinesouza.png',
+        img: '/assets/img/speakers/karinesouza.jpg',
         customSize: '100%',
         datentime: {
           date: '10/05',
@@ -297,7 +297,7 @@ export default class Home extends Vue {
         speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
         description: ``,
         subjectResume: ``,
-        img: '/assets/img/speakers/user-vector-woman.jpg',
+        img: '/assets/img/speakers/',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -317,7 +317,7 @@ export default class Home extends Vue {
         
         Guilherme de Andrade Bento - Possui graduação pela Pontifícia Universidade Católica de Goiás (2011) e Especialista em Docência no Ensino Superior pela FABEC (2014). Atualmente é sócio-fundador da RGB Estúdio, trabalha em parceria com o escritório Espaço Equipe de Planejamento e Arquitetura (Arquitetos Fernando Carlos Rabelo e Frederico André Rabelo), professor na Pontifícia Universidade Católica de Goiás (PUC GO). Experiência na área de Arquitetura e Urbanismo com ênfase em projetos de médio a grande porte.
         `,
-        img: '/assets/img/speakers/rangel.jpg',
+        img: '/assets/img/speakers/patrickmorais.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -337,7 +337,7 @@ export default class Home extends Vue {
         Também se dedica, desde 2015, à elaboração de Estudos de Impacto de Trânsito e de Vizinhança, de empreendimentos diversos. Em 2018/2019 atuou como analista de empreendimentos (PGV) no Município de Aparecida de Goiânia, na Secretaria de Mobilidade e Defesa Social, Departamento de Engenharia de Tráfego.   
         Atualmente coordena o Curso de Especialização em Mobilidade Urbana e Infraestrutura (IDS) e os cursos de Engenharia de Tráfego e Impactos de Trânsito (PUC GO) e Estudos de Impacto Urbano e Ambiental (PUC GO).   
         `,
-        img: '/assets/img/speakers/evelyncristine.png',
+        img: '/assets/img/speakers/evelyncristine.jpg',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -372,7 +372,7 @@ export default class Home extends Vue {
         speaking: 'Como trabalhar no lugar mais bonito do mundo.',
         description: ``,
         subjectResume: `Engenheiro Agrônomo`,
-        img: '/assets/img/speakers/rafael.jpg',
+        img: '/assets/img/speakers/rafaelgonçalves.jpg',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -392,7 +392,7 @@ export default class Home extends Vue {
         Maria José Pereira Dantas
         Matemática pela Universidade Católica de Goiás (1988), Especialista em Estatística pela PUC-MG (1992), Mestre em Engenharia Elétrica e da Computação, pela Universidade Federal de Goiás (2000), Dra. em Engenharia Elétrica pela Universidade de Brasília (2008), com a tese intitulada “Metodologia de Síntese de Filtros de Micro-ondas de Topologias Arbitrárias utilizando Algoritmo Evolucionário Híbrido (Memético) Associado a Conhecimento Especialista”. Atualmente é Professora e pesquisadora da Escola Politécnica e de Artes, da Pontifícia Universidade Católica de Goiás (PUC GO), atuando na graduação nos cursos de Computação e Engenharias; e na pós-graduação, no Mestrado em Engenharia de Produção e Sistemas. Coordena o Laboratório de Estatística e Modelagem Matemática. Atua nas Linhas de Pesquisa de Probabilidade e Estatística e Modelagem e Simulação de Sistemas. Tem experiência nas Áreas de Estatística Aplicada, Engenharia Elétrica e Ciência da Computação; com ênfase em Predição, Simulação e Otimização. Orienta alunos de iniciação científica e projetos finais de curso em otimização e predição, e alunos de mestrado, em modelagem e simulação de sistemas, desenvolvendo modelagens matemáticas e soluções de inteligência computacional, para resolver problemas de otimização combinatória e problemas não lineares.
         `,
-        img: '/assets/img/speakers/leonidasalbano.png',
+        img: '/assets/img/speakers/leonidasalbano.jpg',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -410,7 +410,7 @@ export default class Home extends Vue {
 
         Sandra C. Pantaleão Resende tem Doutorado em Arquitetura e Urbanismo pela Universidade de Brasília (2016). Mestre em Geografia - Dinâmica Sócio-Ambiental, pela UEL (2010). Graduada em Arquitetura e Urbanismo pela PUC Goiás (2006) e em Artes Visuais - habilitação Design Gráfico pela UFG (2000).  Líder do Grupo de Pesquisa Cidade, Morfologia, Paisagem e Morfologia (CIMPARQ - CNPQ/PUC Goiás). Professora do curso de Arquitetura e Urbanismo UEG e PUC Goiás e dos Mestrados de História e Desenvolvimento e Planejamento Territorial - PUc Goiás. Desenvolve pesquisas sobre historiografia urbana e dinâmicas contemporâneas, relacionadas às transformações da paisagem urbana, com os seguintes temas: expansão urbana, ordenamento territorial, metrópoles, aglomerados urbanos e cidades-região.
         `,
-        img: '/assets/img/speakers/deusamaria.png',
+        img: '/assets/img/speakers/deusamaria.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -454,7 +454,7 @@ export default class Home extends Vue {
         - As esferas da percepção, de Leo Battistelli
         - 4CM, de Daniel Mattar
         `,
-        img: '/assets/img/speakers/luciabertazzo.png',
+        img: '/assets/img/speakers/luciabertazzo.jpg',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -491,7 +491,7 @@ export default class Home extends Vue {
         speaking: 'Ai.rtista, uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte',
         description: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,
         subjectResume: `Possui graduação em Design pela Pontifícia Universidade Católica de Goiás(2005) e especialização em Publicidade e Audiovisual pela Universidade Estadual de Goiás(2008). Atualmente é Professor Auxiliar da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Artes, com ênfase em DESIGN GRÁFICO.`,
-        img: '/assets/img/speakers/joaopaulo.png',
+        img: '/assets/img/speakers/joaopaulo.jpg',
         customSize: '100%',
         datentime: {
           date: '08/05',
@@ -551,12 +551,27 @@ export default class Home extends Vue {
         
         Minha produção, sob encomenda ou não, é pensada em acompanhar seus donos por toda vida e por isso o uso de encaixes, no lugar de pregos ou parafusos. Por falar em encaixes, mora aí minha grande paixão ... O móvel com encaixes tem a beleza e durabilidade que acredito que a madeira mereça.
         `,
-        img: '/assets/img/speakers/thiagodamata.png',
+        img: '/assets/img/speakers/thiagodamata.jpg',
         customSize: '100%',
         datentime: {
           date: '10/05',
           time: '10:00-11:30',
           place: 'Online: Youtube'
+        }
+      },
+
+      {
+        name: 'Aguinaldo Aragon Fernandes',
+        institution: 'Pesquisador e consultor independente',
+        speaking: 'Transformação Digital e Tendências',
+        description: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
+        subjectResume: ` PhD em Engenharia pela Poli/USP. Autor de 9 livros sobre gestão e governança de tecnologia. Atualmente desenvolve projetos na área de Governança e Gestão de Dados, Governança de Cloud e implementação de Cidades Inteligentes. Atua no mercado a mais de 40 anos tendo observado as mudanças ocorridas nas empresas nas ultimas décadas. Como consultor já atuou em mais de 130 empresas, pública e privadas. Participa de grupos de pesquisa em indústria 4.0 e em governança da inteligência artificial. É professor convidado para bancas de mestrado e doutorado na FGV, USP, Uninove, Unip, UNIMEP.`,
+        img: '/assets/img/speakers/aguinaldoaragonfernandes.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '08/05',
+          time: '10:00-11:30',
+          place: 'Online'
         }
       },
     ]

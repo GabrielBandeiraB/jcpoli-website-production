@@ -541,7 +541,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/JCPOLI_template.docx"
+              href="/assets/JCPOLI_II_template.docx"
               target="_blank"
             >
               ACESSAR TEMPLATE
@@ -554,7 +554,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/edital_JCPOLI.pdf"
+              href="/assets/edital_II_JCPOLI_2023_final.pdf"
               target="_blank"
             >
               ACESSAR EDITAL

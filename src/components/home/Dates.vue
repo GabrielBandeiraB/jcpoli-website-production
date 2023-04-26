@@ -1,4 +1,4 @@
- <!--
+ 
 <template>
   <div style="margin:40px 0">
     <div>
@@ -56,18 +56,18 @@ export default class Dates extends Vue {
 
   private dates = [
     {
-      date: '?????',
-      event: 'Período para encaminhamento dos artigos',
+      date: '10 a 23 de Abril de 2023',
+      event: 'Período para encaminhamento dos artigos e resumos expandidos',
       disabled: false
     },
     {
-      date: '?????',
-      event: 'Período para avaliação, revisão e correção dos artigos',
+      date: 'Até 01 de Maio de 2023',
+      event: 'Período para avaliação, revisão e correção dos artigos e resumos expandidos',
       disabled: false
     },
     {
-      date: '?????',
-      event: 'Apresentação do artigo durante as apresentações de TCC',
+      date: '09 de Maio de 2023',
+      event: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
       disabled: false
     }
   ]
@@ -90,4 +90,3 @@ export default class Dates extends Vue {
   font-size: 16px;
 }
 </style>
--->

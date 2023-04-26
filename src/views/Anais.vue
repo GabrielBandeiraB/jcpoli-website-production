@@ -2,7 +2,7 @@
   <div class="obs-page view">
     <Main>
       
-      <h3>Anais da V Jornada Científica da ECEC</h3>
+      <h3>Anais da I JCPOLI</h3>
       <table>
         <tbody>
           <tr>
@@ -22,7 +22,7 @@
         </tbody>
       </table>
 
-      <h3>Anais da IV Jornada Científica da ECEC</h3>
+      <h3>Anais da II JCPOLI</h3>
       <table>
         <tbody>
           <tr>

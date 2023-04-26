@@ -31,7 +31,7 @@
                   <hr />
                   <div>
                     <span id="description">
-                      O papel da inteligência artificial nas ciências básicas e nas engenharias
+                      O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida
                     </span>
                   </div>
                 </div>

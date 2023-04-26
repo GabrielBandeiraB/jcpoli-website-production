@@ -8,7 +8,7 @@
     ></PhotoHeader>
 
     <Main>
-      <h4 class="text-center">Agenda</h4>
+      <h4 class="text-center">Agenda JCPOLI</h4>
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
         <button class="button" v-on:click="filterPalestras">08/05</button>

@@ -432,4 +432,20 @@ const speakers_jcpoli =
       place: 'Online: Youtube'
     }
   },
+
+  {
+    name: 'Aguinaldo Aragon Fernandes',
+    institution: 'Pesquisador e consultor independente',
+    speaking: 'Transformação Digital e Tendências',
+    description: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
+    subjectResume: ` PhD em Engenharia pela Poli/USP. Autor de 9 livros sobre gestão e governança de tecnologia. Atualmente desenvolve projetos na área de Governança e Gestão de Dados, Governança de Cloud e implementação de Cidades Inteligentes. Atua no mercado a mais de 40 anos tendo observado as mudanças ocorridas nas empresas nas ultimas décadas. Como consultor já atuou em mais de 130 empresas, pública e privadas. Participa de grupos de pesquisa em indústria 4.0 e em governança da inteligência artificial. É professor convidado para bancas de mestrado e doutorado na FGV, USP, Uninove, Unip, UNIMEP.`,
+    img: '/assets/img/speakers/aguinaldoaragonfernandes.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '10:00-11:30',
+      place: 'Online'
+    }
+  },
+
 ]
