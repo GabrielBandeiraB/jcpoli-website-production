@@ -50,7 +50,7 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'MARTA PEREIRA DA LUZ',
-      área: 'Coordenadora de Engenharia Civil'
+      area: 'Coordenadora de Engenharia Civil'
     },
 
     {
