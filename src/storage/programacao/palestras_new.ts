@@ -163,7 +163,7 @@ let Palestras = [
   },
   {
     title: "Desafio Produtivo",
-    instructor: "Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.",
+    instructor: "Santiago Meireles Rocha e Luciana Casaletti",
     institution: "PUC Goiás",
     desc: `Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.`,
     date: "10/05",
@@ -236,14 +236,36 @@ let Palestras = [
   },
 
   {
-    title: "Transformação Digital e Tendências",
-    instructor: "Aguinaldo Aragon Fernandes",
-    institution: "Pesquisador e consultor independente",
-    desc: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
-    date: "08/05",
+    title: "Inteligências Artificiais Generativas: impactos e oportunidades",
+    instructor: "Weber Martins",
+    institution: "PUC Goiás",
+    desc: `Explorar-se-á a evolução, implicações sociais e éticas, além das oportunidades e desafios das Inteligências Artificiais Generativas, apresentando reflexões importantes para a área de Engenharia de Computação.`,
+    date: "09/05",
     time: "10:00-11:30",
     place: "Online",
   },
+
+  {
+    title: "Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores",
+    instructor: "Prof. Dr. Alexandre Delbem",
+    institution: "ICMC USP São Carlos",
+    desc: `Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores`,
+    date: "08/05",
+    time: "19:00-20:30",
+    place: "Online",
+  },
+
+  {
+    title: "Cidades Inteligentes e Sustentáveis: Ferramentas e Desafios",
+    instructor: "Raphael de Aquino Gomes",
+    institution: "Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG)",
+    desc: `O crescimento populacional desordenado, a poluição, a mudança climática e a falta de infraestrutura adequada têm impactos significativos no meio ambiente e na qualidade de vida em centros urbanos. Diante desse cenário, o conceito de cidades inteligentes e sustentáveis surge como uma abordagem promissora para resolver os problemas destes centros, utilizando tecnologias inovadoras, planejamento inteligente e uma visão integrada para melhorar a qualidade de vida dos moradores e proteger o meio ambiente. Nesta perspectiva, esta palestra busca apresentar as ferramentas e desafios envolvidos no desenvolvimento de cidades inteligentes e sustentáveis, além de discutir o impacto dessa transformação na vida das pessoas e oportunidades a serem exploradas.`,
+    date: "09/05",
+    time: "19:00-20:30",
+    place: "Online",
+  },
+
+  
 
 ]
 

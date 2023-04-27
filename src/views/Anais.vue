@@ -22,7 +22,7 @@
         </tbody>
       </table>
 
-      <h3>Anais da II JCPOLI</h3>
+      <h3>Anais da IV JCPOLI</h3>
       <table>
         <tbody>
           <tr>

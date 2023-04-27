@@ -550,6 +550,19 @@
           </div>
 
           <div class="info-arquivo">
+            <h4>Template de resumo estendido:</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/Template_resumo_expandido_JCPOLI.docx"
+              target="_blank"
+            >
+              ACESSAR TEMPLATE
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
             <h4>Edital para submissão de artigo:</h4>
             <v-btn
               type="submit"
