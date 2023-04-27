@@ -39,7 +39,7 @@ const speakers_jcpoli = [
     customSize: '100%',
     datentime: {
       date: '09/05',
-      time: '09:00-10:30',
+      time: '08:00-09:30',
       place: 'Presencial: A definir'
     }
   },
@@ -151,7 +151,7 @@ const speakers_jcpoli = [
     customSize: '100%',
     datentime: {
       date: '10/05',
-      time: '09:00-10:30',
+      time: '10:00-11:30',
       place: 'Presencial: A definir'
     }
   },
@@ -461,6 +461,66 @@ const speakers_jcpoli = [
       time: '19:00-20:30',
       place: 'Online'
     }
+  },
+  
+  {
+    name: 'Camila Christina Moreira.',
+    institution: 'Accenture Brasil.',
+    speaking: 'Como soft skills podem lhe garantir uma vaga ou salvar o seu emprego',
+    description: `Camila Christina Moreira é goiana, formada em ciência da computação pela PUC Goiás e possui MBA em Design thinking e Gestão de Pessoas, analista senior na empresa Accenture Brasil. Passou por cursos de inovação e liderança, aplicando o desenvolvimento de pessoas na área de tecnologia.`,
+    subjectResume: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '20:30-22:00',
+      place: 'Presencial'
+   }
+  },
+
+  {
+    name: 'DANILO GREGÓRIO.',
+    institution: 'Como se comportar em uma entrevista de estágio.',
+    speaking: '',
+    description: ``,
+    subjectResume: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '18:00-19:30',
+      place: 'Online'
+   }
+  },
+
+  {
+    name: 'Miguel Moreira',
+    institution: '',
+    speaking: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    description: ``,
+    subjectResume: `O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '09:00-10:30',
+      place: 'Online'
+   }
+  },
+
+  {
+    name: 'Gabriella Meireles',
+    institution: '',
+    speaking: 'Setor Aeroagrícola Brasileiro.',
+    description: ``,
+    subjectResume: `Apresentação do setor aeroagricola do Brasil.`,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '09:00-10:30',
+      place: 'Online'
+  }
   },
   
 ];

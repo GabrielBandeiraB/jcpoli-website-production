@@ -7,51 +7,91 @@ export const ComiteListOrganization =
       coordenador: 'MÍRIAN SANDRA ROSA GUSMÃO',
       area: 'Diretora da Escola Politécnica'
     },
+
     {
       coordenador: 'ANDRÉ LUIZ ALVES',
       area: 'Coordenador de Engenharia de Computação'
     },
+
     {
       coordenador: 'CARMEN CECÍLIA CENTENO',
       area: 'Coordenadora de Ciência da Computação'
     },
+
+    {
+      coordenador: 'CASSIO HIDEKI FUJISAWA',
+      area: 'Coordenador de Engenharia de Controle e Automação'
+    },
+
     {
       coordenador: 'FELIPE DE SOUSA NOBRE',
       area: 'Coordenador de Engenharia Elétrica'
     },
+
     {
       coordenador: 'FREDERICO ANDRÉ RABELO',
       area: 'Coordenador de Arquitetura e Urbanismo'
     },
+
     {
       coordenador: 'GENILDA DA SILVA ALEXANDRIA SOUSA',
       area: 'Coordenadora de Design'
     },
+
     {
       coordenador: 'JORIVER RODRIGUES CANEDO',
       area: 'Coordenador de Análise e Desenvolvimento de Sistemas'
     },
+
     {
       coordenador: 'LUCIANA CASALETTI',
       area: 'Coordenadora de Engenharia de Alimentos e Engenharia de Produção'
     },
+
+    {
+      coordenador: 'MARTA PEREIRA DA LUZ',
+      área: 'Coordenadora de Engenharia Civil'
+    },
+
     {
       coordenador: 'MARTHA NASCIMENTO CASTRO',
       area: 'Coordenadora de Agronomia'
     },
+
     {
       coordenador: 'SALMEN CHAQUIP BUKZEM',
       area: 'Coordenador de Ciências Aeronáuticas'
-    },      
+    }, 
+
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
+
     {
       coordenador: 'LUDMILLA REIS PINHEIRO DOS SANTOS',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
-    
+
+    {
+      coordenador: 'LURI SABINA COSME DA SILVA MATOS',
+      area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+    },
+
+    {
+      coordenador: 'NERCÍLIO A. U. C. JÚNIOR',
+      area: 'Estagiário da II JCPOLI'
+    },
+
+    {
+      coordenador: 'GABRIEL BANDEIRA',
+      area: 'Estagiário da II JCPOLI'
+    },
+
+    {
+      coordenador: 'GABRIEL SOARES RIBEIRO',
+      area: 'Estagiário da II JCPOLI'
+    },
   ]
 
 export const ComiteListCientific = 

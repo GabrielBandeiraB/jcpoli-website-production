@@ -502,7 +502,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/orientações professores e alunos I JCPOLI.pdf"
+              href="/assets/orientações professores e alunos II JC POLI_v2.pdf"
               target="_blank"
             >
               ACESSAR ORIENTAÇÕES

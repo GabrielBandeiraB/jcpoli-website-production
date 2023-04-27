@@ -5,11 +5,11 @@ let Palestras = [
     institution: "MRV Engenharia",
     desc: `Processo construtivo da parede de concreto e produtividade.`,
     date: "09/05",
-    time: "09:00-10:30",
+    time: '08:00-09:30',
     place: "Presencial",
     link:
       "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651759271281?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
-  },
+    },
   {
     title: "Mesa Bistrô URBS",
     instructor: "Karine de Souza Costa",
@@ -21,7 +21,7 @@ let Palestras = [
     place: "Online",
     link:
       "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582149520?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
-  },
+   },
   {
     title: "Engenharia de Segurança no Agronegócio",
     instructor: "Engº André Luiz Dias da Silva",
@@ -70,7 +70,7 @@ let Palestras = [
     institution: "Nortene Plásticos",
     desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
     date: "10/05",
-    time: "09:00-10:30",
+    time: '10:00-11:30',
     place: "Presencial",
   },
 
@@ -263,6 +263,50 @@ let Palestras = [
     date: "09/05",
     time: "19:00-20:30",
     place: "Online",
+  },
+  
+  { 
+    title: 'Como soft skills podem lhe garantir uma vaga ou salvar o seu emprego',
+    instructor: 'Camila Christina Moreira.',
+    institution: 'Accenture Brasil.',
+    desc: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`, 
+    date: '10/05',
+    time: '20:30-22:00',
+    place: 'Presencial'
+   },
+  
+
+  {
+    title: 'Como se comportar em uma entrevista de estágio.',
+    instructor: 'DANILO GREGÓRIO.',
+    institution: '',
+    desc: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
+    date: '08/05',
+    time: '18:00-19:30',
+    place: 'Online'
+   
+  },
+
+  {
+    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    instructor: 'Miguel Moreira',
+    institution: '',
+    desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
+    date: '09/05',
+    time: '09:00-10:30',
+    place: 'Online'
+   
+  },
+
+  {
+    title: 'Setor Aeroagrícola Brasileiro.',
+    instructor: 'Gabriella Meireles',
+    institution: '',
+    desc: `Apresentação do setor aeroagricola do Brasil.`,
+    date: '08/05',
+    time: '09:00-10:30',
+    place: 'Online'
+  
   },
 
   
