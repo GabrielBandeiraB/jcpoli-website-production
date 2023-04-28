@@ -91,7 +91,7 @@ let Palestras = [
       "Rangel Henrique Brandão Silva - UEG e RGB Estúdio, Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio, Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio",
     desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
     date: "09/05",
-    time: "09:00-11:00",
+    time: "08:00-10:00",
     place: "Presencial: Auditório Marisa Roriz (Área III)",
   },
   {

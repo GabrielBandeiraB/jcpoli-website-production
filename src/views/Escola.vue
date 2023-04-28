@@ -411,7 +411,7 @@ export default class Escola extends Vue {
     customSize: '100%',
     datentime: {
       date: '09/05',
-      time: '09:00-11:00',
+      time: '08:00-10:00',
       place: 'Presencial: Auditório Marisa Roriz (Área III)'
     }
   },
