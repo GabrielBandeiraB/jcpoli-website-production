@@ -40,7 +40,7 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'JORIVER RODRIGUES CANEDO',
-      area: 'Coordenador de Análise e Desenvolvimento de Sistemas'
+      area: 'Coordenador de Análise e Desenvolvimento de Sistemas (NAP)'
     },
 
     {
@@ -65,11 +65,21 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
-      area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+      area: 'Coordenadora do curso de Análise e Desenvolvimento EAD e Membro do Núcleo de Apoio Pedagógico (NAP)'
+    },
+
+    {
+      coordenador: 'GUSTAVO SIQUEIRA VINHAL',
+      area: 'Coordenador do curso de Big Data e Inteligência Artificial EAD'
     },
 
     {
       coordenador: 'LUDMILLA REIS PINHEIRO DOS SANTOS',
+      area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+    },
+
+    {
+      coordenador: 'LUIZ ÁLVARO DE OLIVERIA JÚNIOR',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
 

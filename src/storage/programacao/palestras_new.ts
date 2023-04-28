@@ -6,10 +6,9 @@ let Palestras = [
     desc: `Processo construtivo da parede de concreto e produtividade.`,
     date: "09/05",
     time: '08:00-09:30',
-    place: "Presencial",
-    link:
-      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651759271281?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
-    },
+    place: 'Presencial: Auditório 3',
+    
+   },
   {
     title: "Mesa Bistrô URBS",
     instructor: "Karine de Souza Costa",
@@ -18,9 +17,8 @@ let Palestras = [
       
     date: "09/05",
     time: "19:00-20:30",
-    place: "Online",
-    link:
-      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582149520?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
+    place: 'Presencial: Auditório 2',
+      
    },
   {
     title: "Engenharia de Segurança no Agronegócio",
@@ -39,7 +37,7 @@ let Palestras = [
     ,
     date: "08/05",
     time: "08:00-09:30",
-    place: "Presencial",
+    place: 'Presencial: Auditório 2',
   },
   {
     title: "Uso de drones para liberação de macrobiológicos ",
@@ -52,7 +50,7 @@ let Palestras = [
     `,
     date: "08/05",
     time: "10:00-11:30",
-    place: "A definir",
+    place: "Presencial: Auditório 2",
   },
   {
     title: "Durabilidade de Geossintéticos",
@@ -61,7 +59,8 @@ let Palestras = [
     desc: `Durabilidade de Geossintéticos`,
     date: "09/05",
     time: "19:00-20:30",
-    place: "Online",
+    place: "Online: YouTube",
+    link:"https://www.youtube.com/watch?v=8kJZoBHnn_4"
   
   },
   {
@@ -71,7 +70,7 @@ let Palestras = [
     desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
     date: "10/05",
     time: '10:00-11:30',
-    place: "Presencial",
+    place: "Presencial: Auditório 2",
   },
 
   {
@@ -81,7 +80,7 @@ let Palestras = [
     desc: ``,
     date: "08/05",
     time: "19:00-20:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 2",
   },
 
   {
@@ -93,7 +92,7 @@ let Palestras = [
     desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
     date: "09/05",
     time: "09:00-11:00",
-    place: "Presencial",
+    place: "Presencial: Auditório Marisa Roriz (Área III)",
   },
   {
     title:
@@ -103,7 +102,7 @@ let Palestras = [
     desc: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
     date: "08/05",
     time: "19:00-20:30",
-    place: "A definir",
+    place: "Presencial: Auditório 3",
   },
   {
     title: "Sistema Agroflorestal Biodiverso no Cerrado: Princípios e Dinâmicas",
@@ -118,7 +117,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 2",
     },
 
   {
@@ -129,7 +128,7 @@ let Palestras = [
     desc: ``,
     date: "08/05",
     time: "19:00-20:30",
-    place: "Online",
+    place: "Presencial: Auditório 1",
   },
 
   {
@@ -148,7 +147,7 @@ let Palestras = [
     desc: `Discussões com o time da startup Lion xPRO a respeito das possibilidades atuais de inovação tecnológica, a partir da aplicação de inteligência artificial a ferramentas de avaliação ambiental e energética integradas ao desenvolvimento de projetos de edifícios, contribuindo com processos evolutivos de metodologias BIM (Building Information Modeling) a conceitos BEM (Building Energy Model).`,
     date: "08/05",
     time: "10:00-11:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 3",
     
   },
   {
@@ -159,7 +158,7 @@ let Palestras = [
     desc: `Discussões a respeito da realização de projeto de pesquisa e de cursos de pós-graduação ligados aos cursos da Escola Politécnica e de Artes.`,
     date: "09/05",
     time: "19:00-20:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 2",
   },
   {
     title: "Desafio Produtivo",
@@ -168,7 +167,7 @@ let Palestras = [
     desc: `Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.`,
     date: "10/05",
     time: "09:00-12:15",
-    place: "Presencial",
+    place: "Presencial: Auditório 1",
   },
   {
     title: "Experimentações Editoriais ",
@@ -177,7 +176,8 @@ let Palestras = [
     desc: `A palestra da egressa do curso de Design da PUC Goiás, Lucia Bertazzo, vai abordar sua trajetória com experimentações gráficas que busca a melhor forma de unir artes plásticas e literatura. Seu trabalho é transformar livros em verdadeiras obras de arte com uma série de edições que contam com uma grande pesquisa de materiais e a colaboração de dezenas de tipógrafos, impressores de gravuras ou serigrafias, marceneiros, artífices em acrílico ou aço, fabricantes de papéis artesanais, moldureiros...e importantes artesãos. `,
     date: "08/05",
     time: "10:00-11:30",
-    place: "Microsoft Teams",
+    place: "Online: YouTube",
+    link: "https://www.youtube.com/watch?v=z-jTl09YYlI"
   },
   {
     title: "Projeto Pormade Móvel",
@@ -191,7 +191,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "09:00-10:30",
-    place: "A definir",
+    place: "Presencial: Auditório 1",
   },
 
   {
@@ -212,7 +212,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 3",
   },
   {
     title:
@@ -223,7 +223,7 @@ let Palestras = [
     `,
     date: "10/05",
     time: "08:00-09:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 3",
   },
   {
     title: "Oficina Damata - Design e marcenaria tradicional",
@@ -232,7 +232,7 @@ let Palestras = [
     desc: `A Oficina Damata é uma marcenaria com foco em trabalhos em madeira, não uma Indústria. Aqui as peças são produzidas a partir de técnicas de marcenaria tradicional. Penso em peças que tragam conexão! Desejo que a textura, a cor, o cheiro, de cada cadeira, banco ou mesa, que você se sentará para sua refeição ou trabalho, te levem a vivências e lembranças.`,
     date: "10/05",
     time: "10:00-11:30",
-    place: "Presencial",
+    place: "Presencial: Auditório 3",
   },
 
   {
@@ -272,7 +272,7 @@ let Palestras = [
     desc: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`, 
     date: '10/05',
     time: '20:30-22:00',
-    place: 'Presencial'
+    place: 'Presencial: Auditório 2'
    },
   
 

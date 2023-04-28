@@ -175,7 +175,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '08:00-09:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -191,16 +191,16 @@ export default class Home extends Vue {
     datentime: {
       date: '10/05',
       time: '19:00-20:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
   {
     name: 'Jefferson Lins',
     institution: 'Universidade de São Paulo',
-    speaking: 'Geossintéticos aplicados a Engenharia Civil e Durabilidade de Geossintéticos',
+    speaking: 'Geossintéticos aplicados a Engenharia Civil.',
     description: `Professor Associado da USP, Depto. de Geotecnia da EESC. Graduado em Engenheiro Civil - UFAL (2004), Mestre em Geotecnia - EESC/USP (2006), Doutor em Eng. Civil (Eng. de Estruturas) - EESC/USP (2011) com período sanduíche na University of Nebraska-Lincoln - EUA (2010). Pós-Doutor em Eng. Civil pela EESC/USP (2013) e pela Universidade do Porto - Portugal (2017). Livre-docente em Geotecnia pelo SGS-EESC-USP (2019). Leciona para os cursos de graduação em Engenharia Civil e Engenharia Ambiental sobre temas relacionados à Mecânica dos solos e Geossintéticos. É professor permanente no Programa de Pós-Graduação em Geotecnia e no Programa de Pós-graduação em Engenharia de Transportes, ambos na EESC/USP. Responsável pelo Laboratório de Geossintéticos da EESC/USP. Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. Coordenador da Comissão de Estudo Especial de Geossintéticos da Associação Brasileira de Normas Técnicas (ABNT) de 2014 a 2020. Parecerista de agências de fomento e de congressos e revistas nacionais e internacionais. Membro de sociedades de cunho científico e tecnológico, cultural e profissional: ABMS, ANPET, IGS e ABRATEC.`,
-    subjectResume: `Geossintéticos aplicados a Engenharia Civil e Durabilidade de Geossintéticos`,
+    subjectResume: `Geossintéticos aplicados a Engenharia Civil.`,
     img: '/assets/img/speakers/jeffersonlins.jpg',
     customSize: '100%',
     datentime: {
@@ -221,7 +221,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '08:00-09:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -236,7 +236,7 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '08:00-09:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -254,11 +254,10 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '10:00-11:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
-/*
   {
     name: 'Jefferson Lins',
     institution: 'Universidade de São Paulo',
@@ -271,10 +270,11 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '19:00 - 20:30',
-      place: 'Online: A definir'
+      place: 'Online: YouTube',
+      link:'https://www.youtube.com/watch?v=8kJZoBHnn_4'
     }
   },
-*/
+
   {
     name: 'MSc. Maria Alejandra Aparicio Ardila',
     institution: 'Nortene Plásticos',
@@ -286,7 +286,7 @@ export default class Home extends Vue {
     datentime: {
       date: '10/05',
       time: '10:00-11:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -296,12 +296,12 @@ export default class Home extends Vue {
     speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
     description: ``,
     subjectResume: ``,
-    img: '/assets/img/speakers/user-vector-woman.jpg',
+    img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -318,7 +318,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '09:00-11:00',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório Marisa Roriz (Área III)'
     }
   },
 
@@ -337,7 +337,7 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -356,7 +356,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -371,7 +371,7 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Online: A definir'
+      place: 'Presencial: Auditório 1'
     }
   },
 
@@ -389,7 +389,7 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '10:00-11:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -405,7 +405,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '19:00 - 20:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 2'
     }
   },
 
@@ -420,7 +420,7 @@ export default class Home extends Vue {
     datentime: {
       date: '10/05',
       time: '09:00-12:15',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 1'
     }
   },
 
@@ -448,7 +448,8 @@ export default class Home extends Vue {
     datentime: {
       date: '08/05',
       time: '10:00-11:30',
-      place: 'Online: A definir'
+      place: 'Online: YouTube',
+      link: 'https://www.youtube.com/watch?v=z-jTl09YYlI '
     }
   },
 
@@ -468,7 +469,7 @@ export default class Home extends Vue {
     datentime: {
       date: '09/05',
       time: '09:00-10:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 1'
     }
   },
 
@@ -495,12 +496,12 @@ export default class Home extends Vue {
     Federico Mael, Advogado e Historiador. É bacharel em Direito, especialista em Direito Civil e Processo Civil, licenciado e mestre em História pela Pontifícia Universidade Católica de Goiás. No mestrado, foi bolsista pesquisador da Fundação de Amparo à Pesquisa do Estado de Goiás (FAPEG) e na licenciatura foi bolsista de iniciação científica pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPQ). Atualmente advoga na área cível e trabalha no Instituto Goiano de Pré-história e Antropologia do IGPA/PUC Goiás.`,
     subjectResume: `O IGPA possui um acervo muito vasto, para cada peça há uma história, às vezes uma aventura perigosa, às vezes uma história engraçada. Assim, parte da "vida" dos artefatos está nessas histórias que expandem os seus sentidos. Nessa proposta vamos valorizar as crônicas e expor algumas peças do acervo. 
     Faremos uma apresentação breve de alguns cortes de vídeos que retratam momentos de produção de registros do acervo. Os relatos das crônicas do trabalho de campo serão trabalhados ao longo da projeção.`,
-    img: '/assets/img/speakers/user-vector-woman.jpg',
+    img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Presencial: A definir'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -516,7 +517,7 @@ export default class Home extends Vue {
     datentime: {
       date: '10/05',
       time: '08:00-09:30',
-      place: 'Online: Youtube'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -534,7 +535,7 @@ export default class Home extends Vue {
     datentime: {
       date: '10/05',
       time: '10:00-11:30',
-      place: 'Online: Youtube'
+      place: 'Presencial: Auditório 3'
     }
   },
 
@@ -603,12 +604,12 @@ export default class Home extends Vue {
     speaking: 'Como soft skills podem lhe garantir uma vaga ou salvar o seu emprego',
     description: `Camila Christina Moreira é goiana, formada em ciência da computação pela PUC Goiás e possui MBA em Design thinking e Gestão de Pessoas, analista senior na empresa Accenture Brasil. Passou por cursos de inovação e liderança, aplicando o desenvolvimento de pessoas na área de tecnologia.`,
     subjectResume: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`,
-    img: '',
+    img: '/assets/img/speakers/camila-christina-moreira.jpg',
     customSize: '100%',
     datentime: {
       date: '10/05',
       time: '20:30-22:00',
-      place: 'Presencial'
+      place: 'Presencial: Auditório 2'
    }
   },
 
@@ -618,7 +619,7 @@ export default class Home extends Vue {
     speaking: '',
     description: ``,
     subjectResume: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
-    img: '',
+    img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
@@ -633,7 +634,7 @@ export default class Home extends Vue {
     speaking: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
     description: ``,
     subjectResume: `O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
-    img: '',
+    img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -648,7 +649,7 @@ export default class Home extends Vue {
     speaking: 'Setor Aeroagrícola Brasileiro.',
     description: ``,
     subjectResume: `Apresentação do setor aeroagricola do Brasil.`,
-    img: '',
+    img: '/assets/img/speakers/user-vector-woman.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
