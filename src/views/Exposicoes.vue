@@ -166,6 +166,7 @@ svg {
   grid-template-columns: repeat(3, 1fr);
   gap: 0 15px;
   margin-top: 35px;
+  margin-bottom: 5rem;
 }
 .exposicoes .info-h .date-time-place i {
   text-align: center;
