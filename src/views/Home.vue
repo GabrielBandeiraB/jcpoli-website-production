@@ -657,6 +657,120 @@ export default class Home extends Vue {
       place: 'Online'
   }
   },
+  {
+    name: 'Eliezer Furtado de Carvalho.',
+    institution: 'Perito judicial',
+    speaking: 'Perícia e assistência técnica em perícia agronômica.',
+    description: `Engenheiro Agrônomo, perito judicial e assistente técnico com mais de ampla experiência em laudos pericias e pareceres;
+
+    – professor de cursos de aperfeiçoamento e pós-graduação em perícias, patrocinados por instituições como CONFEA, CONFAEAB, CREAs, IBAPE, INEAA, associações profissionais;
+    – autor dos livros: Perícia agronômica: elementos básicos; Perícia agronômica e ambiental: conduta do perito, lados e pareceres, em face da legislação e co-autor do livro Perícia ambiental e assistência técnica: instrumento de defesa dos interesses individuais e coletivos.`,
+    subjectResume: `A atividade de perícia relacionada a imóveis rurais e/ou atividades e produtos rurais, na sua quase totalidade, são da competência exclusiva do engenheiro agrônomo. Trata-se de atividade que possibilita melhores níveis de remuneração, quando comparada com outras áreas de atuação dos profissionais de agronomia.`,
+    img: '/assets/img/speakers/eliezer-furtado-de-carvalho.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '10:00-11:30',
+      place: 'Presencial: Auditório Marisa Roriz (Área III)'
+  }
+  },
+
+  {
+    name: 'João Paulo Martins.',
+    institution: '',
+    speaking: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro.',
+    description: `João Paulo Martins é um Cientista de Dados e Engenheiro de Machine Learning trabalhando com projetos de ponta envolvendo Inteligência Artificial.`,
+    subjectResume: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`,
+    img: '/assets/img/speakers/joao-paulo-martins.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '19:00-20:30',
+      place: 'Presencial: Auditório 3'
+  }
+  },
+
+  {
+    name: 'Profa. Me. Marília Rabelo Holanda Camarano',
+    institution: 'PUC Goiás',
+    speaking: 'Desenvolvendo Habilidades Sociais e de Liderança, por meio da Experiência de Monitoria: Celebrando 50 Anos na PUC Goiás',
+    description: `Professora da Unidade Acadêmica de Fonoaudiologia da Pontifícia Universidade Católica de Goiás, nas disciplinas de Audição na Infância e na Adolescência, Audiologia Clínica I e II, Estágios Supervisionados em Audiologia, Otorrinolaringologia Aplicado à Fonoaudiologia e Metodologia do Trabalho Científico. Orienta Trabalho de Conclusão de Curso e Iniciação Científica. Atua na Educação Inclusiva. Atualmente é coordenadora da Coordenação de Estágio, Monitoria, Egressos e Empresa Juniores vinculada a Pró-Reitoria de Graduação da PUC Goiás. Membro do Núcleo Estruturante Docente do curso de Fonoaudiologia. Possui Mestrado (2003) em Ciências de Saúde pela Universidade de Brasília. É especialista (2010) em Saúde da Família pela Universidade Federal de Goiás - UFG. Especialização (1998) em Audiologia Clínica e Ocupacional pela Universidade de Franca/SP. Licenciatura em Português (2010) pela Universidade Estadual do Vale do Acaraú - UEVA. Membro Efetivo do Conselho Editorial da Revista Eletrônica Ciência e Saúde/CEAFI. Atua principalmente na docência, pesquisa e gestão no ensino superior.`,
+    subjectResume: `Mesa redonda da Monitoria como processo de desenvolvimento de liderança e soft skills, para a o futuro profissional.`,
+    img: '/assets/img/speakers/marília-rabelo-holanda-camarano.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '08:00-09:30',
+      place: 'Presencial: Auditório 2'
+  }
+  },
+  {
+    name: 'Ivan Lourenço Costa',
+    institution: 'Project Management Institute (PMI), Goiás, Go.',
+    speaking: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    description: `Ampla experiência na área de TI (22 anos) e em consultoria em gestão de projetos e de negócios digitais. Presidente do PMI-Go e Diretor de Projetos do Instituto Goiano de Direito Digital.`,
+    subjectResume: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
+    img: '/assets/img/speakers/ivan-lourenço-costa.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '08:00-09:30',
+      place: 'Presencial: Auditório 3'
+  }
+  },
+
+  {
+    name: 'Lhiego Rodrigues de Paula.',
+    institution: 'Project Management Institute (PMI), Goiânia, Go.',
+    speaking: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    description: `Engenheiro Mecânico e membro da Diretoria do Project Management Institute (PMI), Goiânia, Go.`,
+    subjectResume: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
+    img: '/assets/img/speakers/lhiego-rodrigues-de-paula.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '19:00-20:30',
+      place: 'Online'
+  }
+  },
+
+  {
+    name: 'Marta Pereira da Luz.',
+    institution: 'PUC Goiás.',
+    speaking: 'Enade engenharia civil 2023',
+    description: `Pós doutorado em geotecnia e construções sustentáveis. Pesquisadora com bolsa produtividade CNPq. Editora associada da revista soils and rocks. Diretora de eventos técnicos da ABMS. Professora adjunta PUC Goiás.`,
+    subjectResume: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil.`,
+    img: '/assets/img/speakers/marta-pereira-da-luz.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '19:00-20:30',
+      place: 'Presencial: Auditório 1'
+  }
+  },
+
+  {
+    name: 'Rener Baptista.',
+    institution: 'iNexxus Global (USA).',
+    speaking: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção.',
+    description: `CEO na iNexxus Global.
+    Informática com ênfase em Gestão de Negócios - Fatec - 2009 - 201
+    Engenharia de Produção - UNIP - 2009 - 2014
+    CEO - iNexxus Global - 2023
+    COO - Learnia - 2023
+    CMO - Netshoes Miners - 2017 - 2023
+    CMO - OligoFlora - 2013 - 2019
+    CEO - iNexxus Brasil - 2013 - 2022
+    Analista de Atendimento Senior - SHIFT - 2011 a 2013`,
+    subjectResume: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
+    img: '/assets/img/speakers/rener-baptista.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '19:00-20:30',
+      place: 'Online'
+  }
+  },
   
 ]
   }
