@@ -28,6 +28,25 @@
               <p>
                 {{ expo.desc }}
               </p>
+              <div v-if="expo.inscrevase">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="expo.inscrevase">inscreva-se
+                </v-btn>
+                24 a 3 de maio de 2023
+                </p>
+              </div>
+              <div v-if="expo.voteaqui">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="expo.voteaqui">vote aqui
+                </v-btn>
+                8 a 10 de maio de 2023//
+                Local de exibição: Hall da Área 2, entre os Auditórios 2 e 3.
+                </p>
+              </div>
               <h5 v-if="expo.instructor" :title="expo.instructor">
                 Artista: {{ expo.instructor }}
               </h5>
@@ -204,3 +223,4 @@ svg {
   }
 }
 </style>
+

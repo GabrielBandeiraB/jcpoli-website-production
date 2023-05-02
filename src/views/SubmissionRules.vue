@@ -511,6 +511,19 @@
           </div>
 
           <div class="info-arquivo">
+            <h4>Edital do I Concurso de Fotografia da Escola Politécnica e de Artes</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/Concurso de Fotografia da Escola Politécnica e de Artes.pdf"
+              target="_blank"
+            >
+              ACESSAR EDITAL
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
             <h4>Edital Ciência de dados</h4>
             <v-btn
               type="submit"

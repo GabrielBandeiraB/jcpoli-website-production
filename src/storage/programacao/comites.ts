@@ -40,17 +40,22 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'JORIVER RODRIGUES CANEDO',
-      area: 'Coordenador de Análise e Desenvolvimento de Sistemas (NAP)'
+      area: 'Coordenador de Análise e Desenvolvimento de Sistemas (ADS)'
     },
 
     {
       coordenador: 'LUCIANA CASALETTI',
-      area: 'Coordenadora de Engenharia de Alimentos e Engenharia de Produção'
+      area: 'Coordenadora de Engenharia de Produção'
     },
 
     {
       coordenador: 'MARTA PEREIRA DA LUZ',
       area: 'Coordenadora de Engenharia Civil'
+    },
+
+    {
+      coordenador: '',
+      area: ''
     },
 
     {
@@ -65,7 +70,7 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
-      area: 'Coordenadora do curso de Análise e Desenvolvimento EAD e Membro do Núcleo de Apoio Pedagógico (NAP)'
+      area: 'Coordenadora do curso de Análise e Desenvolvimento de Sistemas EAD e Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
 
     {
@@ -89,7 +94,7 @@ export const ComiteListOrganization =
     },
 
     {
-      coordenador: 'NERCÍLIO A. U. C. JÚNIOR',
+      coordenador: 'NERCÍLIO ANTÔNIO URIAS CAVALCANTE JÚNIOR',
       area: 'Estagiário da II JCPOLI'
     },
 

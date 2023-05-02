@@ -1,5 +1,19 @@
 const Exposicao_Design = [
   {
+    title: "I Concurso de Fotografia da Escola Politécnica e de Artes",
+    instructor: "",
+    institution: "PUC Goiás",
+    desc: `I Concurso de Fotografia da Escola Politécnica e de Artes tem como objetivo fomentar a produção de imagens relacionadas ao tema Escola Politécnica e de Artes: 
+    o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura 
+    e arte entre a comunidade acadêmica.`,
+    inscrevase:"https://forms.office.com/r/tmZtXUnWB0",
+    voteaqui:"https://forms.office.com/r/XZmqw2m1Kx",
+    date: "???",
+    time: "???",
+    place: "???",
+    image: "assets/img/slider/expo_foto.jpg",
+  },
+  {
     title: "Pormade Portas Showroom de materiais e equipamentos",
     instructor: "",
     institution: "PUC Goiás",
@@ -9,6 +23,7 @@ const Exposicao_Design = [
     A arquitetura dos veículos do projeto conta ainda com uma televisão, na qual vídeos sobre a cultura Pormade são exibidos durante as participações nas feiras.
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
+    
     date: "???",
     time: "???",
     place: "???",
@@ -25,6 +40,7 @@ const Exposicao_Arquitetura = [
     desc: `Exposição dos trabalhos de TFC -1 | Trabalho de Fim de Ciclo 1, apresentados em 2022/2.
     O TFC-1 é uma atividade prevista no Projeto Pedagógico do Curso de Arquitetura e Urbanismo no encerramento do Primeiro Ciclo de Aprendizagem, que se inicia no 1º período e finaliza no 3º período, para o turno matutino, e 4º período, para o turno noturno. Consiste em um projeto integrado que contempla a aplicação dos conteúdos das disciplinas que compõem esse ciclo.
     `,
+    
     date: "???",
     time: "???",
     place: "???",
@@ -36,6 +52,7 @@ const Exposicao_Arquitetura = [
     instructor: "",
     institution: "PUC Goiás",
     desc: `Evento de produção de pizzas elaboradas pelos alunos do C.A. de Arquitetura e Urbanismo, e o Prof. Carlos Vaz de Campos`,
+    
     date: "???",
     time: "???",
     place: "???",
@@ -46,8 +63,10 @@ const Exposicao_Arquitetura = [
     title: "I Concurso de Fotografia da Escola Politécnica e de Artes",
     instructor: "",
     institution: "PUC Goiás",
-    desc: `I Concurso de Fotografia da Escola Politécnica e de Artes tem como objetivo fomentar a produção de imagens relacionadas ao tema Escola Politécnica e de Artes: o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura e arte entre a comunidade acadêmica.
-    `,
+    desc: `I Concurso de Fotografia da Escola Politécnica e de Artes tem como objetivo fomentar a produção de imagens relacionadas ao tema Escola Politécnica e de Artes: 
+    o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura 
+    e arte entre a comunidade acadêmica.`, 
+    
     date: "???",
     time: "???",
     place: "???",
