@@ -34,7 +34,7 @@
                   color="primary"
                   :href="expo.inscrevase">inscreva-se
                 </v-btn>
-                24 a 3 de maio de 2023
+                24 de abril a 3 de maio de 2023
                 </p>
               </div>
               <div v-if="expo.voteaqui">

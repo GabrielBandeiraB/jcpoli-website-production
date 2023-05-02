@@ -9,7 +9,7 @@ const Exposicao_Design = [
     inscrevase:"https://forms.office.com/r/tmZtXUnWB0",
     voteaqui:"https://forms.office.com/r/XZmqw2m1Kx",
     image: "assets/img/slider/expo_foto.jpg",
-    date: "8-10",
+    date: "8-10 de maio de 2023",
     place: "Hall Área 2 PUC",
   },
   {
