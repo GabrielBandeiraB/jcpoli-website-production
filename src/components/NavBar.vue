@@ -78,6 +78,7 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator'
+import { NavigationGuard } from 'vue-router'
 
 @Component
 export default class NavBar extends Vue {
