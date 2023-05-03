@@ -17,7 +17,7 @@ let Palestras = [
       
     date: "09/05",
     time: "19:00-20:30",
-    place: 'Presencial: Auditório 2',
+    place: 'Presencial: Hall de entrada da Área III',
       
    },
   {
@@ -131,7 +131,7 @@ let Palestras = [
     place: "Presencial: Auditório 1",
   },
 
-  {
+  /*{
     title: "Geossintéticos aplicados a Engenharia Civil.",
     instructor: "Jefferson Lins",
     institution: "Universidade de São Paulo",
@@ -139,7 +139,7 @@ let Palestras = [
     date: "09/05",
     time: "19:00-20:30",
     place: "Online",
-  },
+  },*/
   {
     title: "LION XPRO: DO BIM AO BEM INTELIGÊNCIA ARTIFICIAL APLICADA AO DESENVOLVIMENTO DE PROJETOS DE EDIFÍCIOS SUSTENTÁVEIS",
     instructor: "Prof. Dr. Leônidas Albano e Profa. Dra. Maria José Pereira Dantas",

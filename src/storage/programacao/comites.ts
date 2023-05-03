@@ -45,7 +45,7 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'LUCIANA CASALETTI',
-      area: 'Coordenadora de Engenharia de Produção'
+      area: 'Coordenadora de Engenharia de Produção e Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
 
     {
@@ -53,11 +53,7 @@ export const ComiteListOrganization =
       area: 'Coordenadora de Engenharia Civil'
     },
 
-    {
-      coordenador: '',
-      area: ''
-    },
-
+  
     {
       coordenador: 'MARTHA NASCIMENTO CASTRO',
       area: 'Coordenadora de Agronomia'

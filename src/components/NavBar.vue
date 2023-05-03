@@ -14,7 +14,7 @@
         <router-link to="/escola" tag="li">Escola</router-link>
         <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
-        <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
+        <router-link to="/competicoes" tag="li">Competições</router-link>
         <router-link to="/exposicoes" tag="li">Exposições</router-link>
         <!--<router-link to="/egressos" tag="li">Egressos</router-link>-->
         <router-link to="/anais" tag="li">Publicações</router-link>
@@ -62,7 +62,7 @@
         <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
         <!-- <router-link to="/egressos" tag="li">Egressos</router-link> -->
-       <!-- <router-link to="/competicoes" tag="li">Competições</router-link> -->
+        <router-link to="/competicoes" tag="li">Competições</router-link>
         <router-link to="/exposicoes" tag="li">Exposições</router-link>
         <router-link to="/anais" tag="li">Publicações</router-link>
 
@@ -80,7 +80,19 @@
 import { Component, Prop, Vue } from 'vue-property-decorator'
 
 @Component
-export default class NavBar extends Vue {}
+export default class NavBar extends Vue {
+  private closeMenuOnRouteChange: NavigationGuard = (to, from, next) => {
+    const checkbox = document.getElementById('open-mmenu') as HTMLInputElement
+    if (checkbox.checked) {
+      checkbox.checked = false
+    }
+    next()
+  }
+
+  created() {
+    this.$router.beforeEach(this.closeMenuOnRouteChange)
+  }
+}
 </script>
 
 <style scoped>

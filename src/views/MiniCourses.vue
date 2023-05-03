@@ -9,9 +9,9 @@
 
     <Main>
       <h4 class="text-center">Agenda JCPOLI</h4>
-
+      <h3 class="text-center">Doe alimento não perecível durante as atividades presenciais e participe do bazar promovido pela Escola em parceria com à Coordenação de Extensão da PUC Goiás (CDEX/PROEX)</h3>
       <div class="button-container">
-        <button class="button" v-on:click="clearFilter">Todos as datas</button>
+        <button class="button" v-on:click="clearFilter">Todas as datas</button>
         <button class="button" v-on:click="filterCourses">08/05</button>
         <button class="button" v-on:click="filterCourses">09/05</button>
         <button class="button" v-on:click="filterCourses">10/05</button>

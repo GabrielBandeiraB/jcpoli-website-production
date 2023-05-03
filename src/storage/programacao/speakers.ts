@@ -68,7 +68,7 @@ const speakers_jcpoli =
     }
   },
 
-  {
+  /*{
     name: 'Jefferson Lins',
     institution: 'Universidade de São Paulo',
     speaking: 'Geossintéticos aplicados a Engenharia Civil.',
@@ -81,7 +81,7 @@ const speakers_jcpoli =
       time: '19:00 - 20:30',
       place: 'Online: A definir'
     }
-  },
+  },*/
  
   {
     name: 'Engº André Luiz Dias da Silva',

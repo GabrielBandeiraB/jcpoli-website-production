@@ -285,11 +285,11 @@ export default class Escola extends Vue {
     datentime: {
       date: '10/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Presencial: Hall de entrada da Área III'
     }
   },
 
-  {
+ /* {
     name: 'Jefferson Lins',
     institution: 'Universidade de São Paulo',
     speaking: 'Geossintéticos aplicados a Engenharia Civil.',
@@ -302,7 +302,7 @@ export default class Escola extends Vue {
       time: '19:00 - 20:30',
       place: 'Online: A definir'
     }
-  },
+  },*/
  
   {
     name: 'Engº André Luiz Dias da Silva',
