@@ -3,11 +3,54 @@ const Competicao = [
     title: "Maratona de Programação",
   instructor: "Prof. Alexandre e Prof.ª Carmen Cecília Centeno",
   institution: "PUC Goiás",
-  desc: `Com o objetivo de motivar os estudantes da PUC Goiás a expandirem sua capacidade de resolver problemas, utilizando programação de computadores e desenvolverem a habilidade de trabalhar em grupo, a Maratona de Programação da Escola Politécnica será realizada como parte integrante da I JCPOLI.
+  desc: `Com o objetivo de motivar os estudantes da PUC Goiás a expandirem sua capacidade de resolver problemas, utilizando programação de computadores e desenvolverem a habilidade de trabalhar em grupo, a Maratona de Programação da Escola Politécnica e de Artes será realizada como parte integrante da II JCPOLI.
   `,
-  date: "11/05",
-  time: "18:00 - 22:00",
+  date: "13/05",
+  time: "08:30 - 12:15",
   place: "Lab. 101C a 105C, área II",
+  image: "assets/img/slider/logo-maratona.jpeg"
+  },
+
+  {
+    title: "IV DESAFIO EM CIÊNCIA DE DADOS",
+  instructor: "Profa. Maria José Pereira Dantas. e Prof. José Elmo de Menezes.",
+  institution: "PUC Goiás",
+  desc: `Os participantes enfrentam questões de pesquisa que
+  requerem a aplicação de técnicas de Estatística e aprendizado de máquina (machine
+  learning). Eles devem utilizar seus conhecimentos teóricos e habilidades práticas
+  para analisar uma base de dados pública e encontrar soluções criativas e eficientes
+  para os problemas propostos.
+    Além de promover a troca de experiências entre os participantes, o desafio
+  busca incentivar o desenvolvimento de competências essenciais na área de ciência
+  de dados, como análise estatística, modelagem de dados, interpretação de
+  resultados e comunicação dos achados.`,
+  inscrevase:"https://forms.office.com/r/0YEy9CJ567",
+  datainscri:"08/05 (início às 09:00h) e 09/05(até às 23:59h)",
+  editais:"https://jcpoliartes.com.br/orientacoes",
+  date: "",
+  time: "",
+  place: "",
+  image: "assets/img/slider/logo-maratona.jpeg"
+  },
+
+  {
+    title: "I CodeCraft: A Maratona de Desenvolvimento de Sistemas",
+  instructor: "Profª. Lucília Gomes Ribeiro. e Profª Solange da Silva",
+  institution: "PUC Goiás",
+  desc: `O "CodeCraft" é uma maratona de programação (hackathon). A palavra “craft”
+  significa “arte” e remete à habilidade e dedicação necessárias para construir algo com
+  excelência, o que combina muito bem com o espírito de uma hackathon. Durante uma
+  hackathon, os participantes trabalham em equipe para criar soluções de software,
+  hardware ou outras tecnologias, com o objetivo de criar algo útil e funcional. A
+  maratona é realizada por equipes compostas por estudantes de diversos níveis e
+  formações acadêmicas, com o objetivo de promover a interdisciplinaridade e o
+  trabalho em equipe.`,
+  inscrevase:"https://teams.microsoft.com/l/entity/81fef3a6-72aa-4648-a763-de824aeafb7d/_djb2_msteams_prefix_448756668?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3AO38fAS1tDiX3-WkCufiNboPCD32x8lSh2Ae2m9lS3og1%40thread.tacv2%22%7D&groupId=19da8e1f-0199-4600-8d69-d7a4dbd51135&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776&allowXTenantAccess=false",
+  datainscri:"05/05 (início às 09:00h) e 09/05(até às 23:59h)",
+  editais:"https://jcpoliartes.com.br/orientacoes",
+  date: "",
+  time: "",
+  place: "",
   image: "assets/img/slider/logo-maratona.jpeg"
   },
 
@@ -30,7 +73,10 @@ const Competicao = [
     o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura 
     e arte entre a comunidade acadêmica.`,
     inscrevase:"https://forms.office.com/r/tmZtXUnWB0",
+    datainscri: "24 de abril a 3 de maio de 2023",
     voteaqui:"https://forms.office.com/r/XZmqw2m1Kx",
+    datavote:"8 a 10 de maio de 2023//Local de exibição: Hall da Área 2, entre os Auditórios 2 e 3.",
+    editais:"https://jcpoliartes.com.br/orientacoes",
     image: "assets/img/slider/expo_foto.jpg",
     date: "8-10 de maio de 2023",
     place: "Hall Área 2 PUC",

@@ -537,6 +537,32 @@
           </div>
 
           <div class="info-arquivo">
+            <h4>Edital do Desafio de Ciência dos Dados</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf"
+              target="_blank"
+            >
+              ACESSAR EDITAL
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
+            <h4>Edital do CodeCraft</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/Edital-CodeCraft-2023-1.pdf"
+              target="_blank"
+            >
+              ACESSAR EDITAL
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
             <h4>Certificado:</h4>
             <v-btn
               type="submit"
