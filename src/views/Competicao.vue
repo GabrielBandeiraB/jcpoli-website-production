@@ -32,6 +32,25 @@
               </h6>
             </div>
           </div>
+          <div v-if="comp.inscrevase">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="comp.inscrevase">inscreva-se
+                </v-btn>
+                24 de abril a 3 de maio de 2023
+                </p>
+              </div>
+              <div v-if="comp.voteaqui">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="comp.voteaqui">vote aqui
+                </v-btn>
+                8 a 10 de maio de 2023//
+                Local de exibição: Hall da Área 2, entre os Auditórios 2 e 3.
+                </p>
+              </div>
           <div class="info-h">
             <div class="date-time-place">
               <i class="far fa-calendar-alt"></i>

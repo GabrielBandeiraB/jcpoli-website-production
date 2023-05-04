@@ -280,7 +280,7 @@ let Palestras = [
     title: 'Como se comportar em uma entrevista de estágio.',
     instructor: 'DANILO GREGÓRIO.',
     institution: '',
-    desc: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
+    desc: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
     date: '08/05',
     time: '18:00-19:30',
     place: 'Online'
