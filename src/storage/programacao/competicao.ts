@@ -51,7 +51,7 @@ const Competicao = [
   date: "",
   time: "",
   place: "",
-  image: "assets/img/slider/logo-maratona.jpeg"
+  image: "assets/img/slider/codecraft.jpg"
   },
 
   {
