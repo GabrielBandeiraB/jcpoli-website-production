@@ -262,7 +262,7 @@ export default class Escola extends Vue {
     name: 'Lucas Ribeiro Camargo Mendes',
     institution: 'MRV Engenharia',
     speaking: 'Processo construtivo da parede de concreto e produtividade.',
-    description: `Engenheiro Civil, formado na Uni-Goiás em 2019/2, atuando a 7 anos na construção civil e a 2 anos como Engenheiro residente de obras em parede de concreto pela MRV ENGENHARIA. Pós-Graduando em Gestão de Projetos e Processos pelo IPOG..`,
+    description: `Engenheiro Civil, formado na Uni-Goiás em 2019/2, atuando a 7 anos na construção civil e a 2 anos como Engenheiro residente de obras em parede de concreto pela MRV ENGENHARIA. Pós-Graduando em Gestão de Projetos e Processos pelo IPOG.`,
     subjectResume: `Processo construtivo da parede de concreto e produtividade`,
     img: '/assets/img/speakers/lucasribeiro.png',
     customSize: '100%',
@@ -712,7 +712,7 @@ export default class Escola extends Vue {
     institution: 'Como se comportar em uma entrevista de estágio.',
     speaking: '',
     description: ``,
-    subjectResume: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
+    subjectResume: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
     img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {

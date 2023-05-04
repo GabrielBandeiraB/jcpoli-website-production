@@ -491,7 +491,7 @@ const speakers_jcpoli =
     institution: 'Como se comportar em uma entrevista de estágio.',
     speaking: '',
     description: ``,
-    subjectResume: `O palestrante é responsável pelo Recursos Humanos de uma empresa de engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio e como formular o currículo.`,
+    subjectResume: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
     img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
