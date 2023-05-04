@@ -54,7 +54,7 @@
                 <p> 
                   <v-btn 
                   color="primary"
-                  :href="comp.editais">Editais
+                  :href="comp.editais">Edital
                 </v-btn>
                 </p>
               </div>

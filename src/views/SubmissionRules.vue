@@ -515,7 +515,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/Concurso de Fotografia da Escola Politécnica e de Artes.pdf"
+              href="/assets/Concurso_Artes.pdf"
               target="_blank"
             >
               ACESSAR EDITAL
