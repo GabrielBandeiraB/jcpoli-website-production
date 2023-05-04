@@ -12,12 +12,12 @@ let Courses = [
   }, 
   {
     title: "Ferramentas computacionais para o desenho de projeto de arquitetura",
-    instructor: "CAMILLA POMPEO DE CAMARGO E SILVA",
+    instructor: "Alessandro Miguel de Oliveira",
     institution: "PUC Goiás",
     desc: `Uso do AutoCAD para o desenho de projeto, geometria descritiva, elementos constitutivos das edificações e representação arquitetônica.`,
-    date: "Todos os dias",
+    date: "08, 09 e 10/05",
     time: "14:00-17:00",
-    place: "A definir",
+    place: 'Presencial: Laboratóro 102, Bloco B, Área III'
   
   /*  link: ""
     */
@@ -36,23 +36,12 @@ let Courses = [
 
   {
     title: "Introdução ao Git/GitHub",
-    instructor: 'CARMEN CECILIA CENTENO',
+    instructor: 'Lucília Gomes Ribeiro',
     institution: 'PUC Goiás',
     desc: `Como usar o Git/Github? Minicurso presencial, porém com gravação pelo Teams.`,
     date: '08/05',
     time: '19:00-21:00',
     place: 'Presencial: Laboratório 101, bloco C, área II'
-  
-  },
-  
-  {
-    title: 'Maratona de Programação - Primeiro Período',
-    instructor:'CARMEN CECILIA CENTENO',
-    institution: 'PUC Goiás',
-    desc: `Competição realizada no sábado, dia 13/05/2023, entre 08:30-12:15. `,
-    date: '13/05',
-    time: '08:30-12:15',
-    place: 'Presencial: Laboratórios do bloco C (101C a 105C)'
   
   },
   

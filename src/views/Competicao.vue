@@ -38,7 +38,7 @@
                   color="primary"
                   :href="comp.inscrevase">inscreva-se
                 </v-btn>
-                24 de abril a 3 de maio de 2023
+                {{comp.datainscri}}
                 </p>
               </div>
               <div v-if="comp.voteaqui">
@@ -47,8 +47,15 @@
                   color="primary"
                   :href="comp.voteaqui">vote aqui
                 </v-btn>
-                8 a 10 de maio de 2023//
-                Local de exibição: Hall da Área 2, entre os Auditórios 2 e 3.
+                {{comp.datavote}}
+                </p>
+              </div>
+              <div v-if="comp.editais">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="comp.editais">Edital
+                </v-btn>
                 </p>
               </div>
           <div class="info-h">

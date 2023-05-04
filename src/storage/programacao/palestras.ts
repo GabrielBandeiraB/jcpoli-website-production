@@ -2,13 +2,13 @@ export default [{
     date: "11/11",
     description: "Abertura / O meu futuro \"uma nova abordagem\"",
     place: "Auditório I",
-    speaker: "Profa. Dra. Rosa Maria de Castro Fernandes",
+    speaker: "Dra. Rosa Maria de Castro Fernandes",
     time: "19:00",
 }, {
     date: "12/11",
     description: "Desafios para a engenharia de cristais na indústria farmacêutica",
     place: "Auditório I",
-    speaker: "Prof. Dr. Alejandro Pedro Ayala",
+    speaker: "Dr. Alejandro Pedro Ayala",
     time: "09:00",
 }, {
     date: "12/11",

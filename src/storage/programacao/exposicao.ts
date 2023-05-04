@@ -1,18 +1,22 @@
 const Exposicao_Design = [
   {
     title: "Pormade Portas Showroom de materiais e equipamentos",
-    instructor: "",
+    instructor: "Marília Teixeira",
     institution: "PUC Goiás",
     desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
+
     O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
+    
     Ele apresenta em sua carroceria os modelos de portas da Pormade, as estampas dos papéis de parede, piso vinilico, rodapés e fechaduras. Além disso, mesas e cadeiras ficam dispostas próximas aos veículos para que os visitantes conversem com os especificadores e analisem os catálogos.
+    
     A arquitetura dos veículos do projeto conta ainda com uma televisão, na qual vídeos sobre a cultura Pormade são exibidos durante as participações nas feiras.
+    
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
     
-    date: "???",
-    time: "???",
-    place: "???",
+    date: "09/05/2023",
+    time: "08:00-11:30",
+    place: "Próximo ao Teatro de Arena da área III",
     image: "assets/img/slider/expo_pormade.png"
   },
   
@@ -27,21 +31,21 @@ const Exposicao_Arquitetura = [
     O TFC-1 é uma atividade prevista no Projeto Pedagógico do Curso de Arquitetura e Urbanismo no encerramento do Primeiro Ciclo de Aprendizagem, que se inicia no 1º período e finaliza no 3º período, para o turno matutino, e 4º período, para o turno noturno. Consiste em um projeto integrado que contempla a aplicação dos conteúdos das disciplinas que compõem esse ciclo.
     `,
     
-    date: "???",
-    time: "???",
-    place: "???",
+    date: "08 a 10/05",
+    time: "07:15-22:00",
+    place: "Foyer dos auditórios 2 e 3 na área II",
     image: "assets/img/slider/expo_arqui.jpg"
   },
 
   {
     title: "Pizzada",
-    instructor: "",
+    instructor: "Prof. Carlos Vaz de Campos",
     institution: "PUC Goiás",
     desc: `Evento de produção de pizzas elaboradas pelos alunos do C.A. de Arquitetura e Urbanismo, e o Prof. Carlos Vaz de Campos`,
     
-    date: "???",
-    time: "???",
-    place: "???",
+    date: "09/05/2023",
+    time: "18:00",
+    place: "Anfiteatro da área III",
     image: "assets/img/slider/expo_pizzada.jpg"
   },
 ]

@@ -14,7 +14,7 @@
         <p/>
         
         <v-flex xs12 class="text-xs-left" mt-5>
-          <h2>Escola promove arrecadação de alimentos durante a JCPOLI</h2>
+          <h3>Escola promove arrecadação de alimentos durante a JCPOLI</h3>
         </v-flex>
         <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
           <p>
@@ -26,7 +26,7 @@
         </v-flex>
 
         <v-flex xs12 class="text-xs-left" mt-5>
-          <h2>Como funciona os selos</h2>
+          <h3>Como funciona os selos</h3>
         </v-flex>
         <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
           <p>O selo pode ser adquirido a cada um quilo de alimento doado, assim como a cada  participação em uma palestra presencial ou com a doação de uma peça de roupa seminova. Três selos dá o direito a troca por uma peça de roupa no bazar.
@@ -34,7 +34,7 @@
         </v-flex>
 
         <v-flex xs12 class="text-xs-left" mt-5>
-          <h2>Importante</h2>
+          <h3>Importante</h3>
         </v-flex>
         <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
           <p>
@@ -77,9 +77,15 @@ export default class About extends Vue {}
   max-width: 1000px !important;
   padding: 0 24px;
   margin: auto;
+  
 }
 #container-sobre h2 {
-  color: #2776f5;
+  color: #337ef6;
+  
+}
+
+#container-sobre h3 {
+  color: #337ef6;
 }
 
 @media screen and (max-width: 576px) {

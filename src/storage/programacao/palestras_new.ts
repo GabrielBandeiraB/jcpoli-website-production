@@ -15,24 +15,24 @@ let Palestras = [
     institution: "URBS Connect",
     desc: "Mesa Bistrô URBS",
       
-    date: "09/05",
+    date: "10/05",
     time: "19:00-20:30",
     place: 'Presencial: Hall de entrada da Área III',
       
    },
   {
     title: "Engenharia de Segurança no Agronegócio",
-    instructor: "Engº André Luiz Dias da Silva",
-    institution: "Universidade de São Paulo",
+    instructor: "André Luiz Dias da Silva",
+    institution: "DN Engenharia",
     desc: "A engenharia de segurança no Agronegócio é importante para garantir a segurança dos trabalhadores e do ambiente de trabalho, bem como para aumentar a eficiência e a produtividade das atividades agrícolas. Conta com planejamento de medidas de prevenção e controle de incêndios nas áreas de plantio e armazenamento de produtos agrícolas, Desenvolvimento de estratégias para prevenção de acidentes com máquinas agrícolas, Implantação de medidas de segurança alimentar, como a adoção de boas práticas agrícolas e o controle de qualidade dos alimentos produzidos, Projeto de instalações de armazenamento de produtos agrícolas seguras e eficientes, incluindo sistemas de ventilação e controle de temperatura.",
     date: "09/05",
     time: "08:00-09:30",
-    place: "Auditório 2, área II",
+    place: "Presencial: Auditório 2",
   },
   {
     title: "Controle fitossanitário em hortaliças",
-    instructor: "Engª Agrª Scheila Ronconi Da Rolt",
-    institution: "Plano D Design de produtos",
+    instructor: "Scheila Ronconi Da Rolt",
+    institution: "Araguaia produtos agropecuários",
     desc: "Controle fitossanitário em hortaliças é o conjunto de medidas adotadas para proteger as plantas cultivadas de doenças, pragas e outros agentes que possam afetar sua saúde e qualidade. Essas medidas podem incluir a adoção de práticas culturais adequadas, como rotação de culturas e manejo do solo, o uso de defensivos agrícolas quando necessário e a adoção de estratégias de controle biológico e integrado de pragas. O objetivo do controle fitossanitário é garantir a saúde e a produtividade das plantas, bem como a segurança alimentar e a proteção do meio ambiente. Além disso, o controle fitossanitário também pode contribuir para a sustentabilidade da produção agrícola, reduzindo o uso de defensivos químicos e promovendo práticas preventivas e curativas mais sustentáveis e ecologicamente corretas."
     ,
     date: "08/05",
@@ -64,8 +64,8 @@ let Palestras = [
   
   },
   {
-    title: "Aplicações geotécnicas e ambientais das geomembranas.",
-    instructor: "MSc. Maria Alejandra Aparicio Ardila",
+    title: "Aplicações geotécnicas e ambientais das geomembranas",
+    instructor: "Maria Alejandra Aparicio Ardila",
     institution: "Nortene Plásticos",
     desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
     date: "10/05",
@@ -76,28 +76,27 @@ let Palestras = [
   {
     title: "TI: Caminhos e oportunidades dentro de um mar de possibilidades",
     instructor: "Patrick Morais de Souza Lima",
-    institution: "",
-    desc: ``,
-    date: "08/05",
+    institution: "Gerente de Engenharia e Qualidade de Software na GFT Technologies",
+    desc: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
+    date: "10/05",
     time: "19:00-20:30",
-    place: "Presencial: Auditório 2",
+    place: "Presencial: Auditório 3",
   },
 
   {
-    title:
-      "Concursos de Projeto",
+    title:"Concursos de Projeto",
     instructor: "Rangel Henrique Brandão Silva, Frederico André Rabelo e Guilherme de Andrade Bento",
     institution:
       "Rangel Henrique Brandão Silva - UEG e RGB Estúdio, Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio, Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio",
     desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
     date: "09/05",
     time: "08:00-10:00",
-    place: "Presencial: Auditório Marisa Roriz (Área III)",
+    place: "Presencial: Auditório 1",
   },
   {
     title:
       "Estudos de Impactos Urbanos e Engenharia de Tráfego",
-    instructor: "Ms. Evelyn Cristine Moreira Soares",
+    instructor: "Evelyn Cristine Moreira Soares",
     institution: "PUC Goiás",
     desc: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
     date: "08/05",
@@ -106,8 +105,7 @@ let Palestras = [
   },
   {
     title: "Sistema Agroflorestal Biodiverso no Cerrado: Princípios e Dinâmicas",
-    instructor:
-      "Dr. Bruno de Andrade Martins",
+    instructor:"Dr. Bruno de Andrade Martins",
     institution: "IFGoiano - Campus de Hidrolândia",
     desc: `Os SAFs são sistemas agroflorestais biodiversos e possuem alta capacidade para melhorar o meio ambiente. São formados por plantios de diversas/diferentes espécies vegetais na mesma área e, ao mesmo tempo (consórcios). Nesses sistemas incluem-se árvores e arbustos nativos ou exóticos e culturas agrícolas de diferentes ciclos. 
     Um dos importantes serviços ambientais que esses sistemas proporcionam é a melhoria do microclima. Ou seja, tanto a temperatura do ar como a do solo ficam mais estáveis, mais agradáveis aos agricultores(as) e a todas as espécies vegetais cultivadas, bem como aos organismos nativos que vivem nos SAFs, os quais ajudam a melhorar a qualidade do solo e o equilíbrio biológico.
@@ -121,14 +119,13 @@ let Palestras = [
     },
 
   {
-    title:
-      "Como trabalhar no lugar mais bonito do mundo.",
-    instructor: "Engº Agrº Rafael Gonçalves ",
+    title:"Como trabalhar no lugar mais bonito do mundo",
+    instructor: "Rafael Gonçalves ",
     institution: "Butchart Gardens ",
-    desc: ``,
+    desc: `Butchart Gardens`,
     date: "08/05",
     time: "19:00-20:30",
-    place: "Presencial: Auditório 1",
+    place: "Online",
   },
 
   /*{
@@ -142,17 +139,16 @@ let Palestras = [
   },*/
   {
     title: "LION XPRO: DO BIM AO BEM INTELIGÊNCIA ARTIFICIAL APLICADA AO DESENVOLVIMENTO DE PROJETOS DE EDIFÍCIOS SUSTENTÁVEIS",
-    instructor: "Prof. Dr. Leônidas Albano e Profa. Dra. Maria José Pereira Dantas",
+    instructor: "Dr. Leônidas Albano e Dra. Maria José Pereira Dantas",
     institution: `PUC Goiás`,
     desc: `Discussões com o time da startup Lion xPRO a respeito das possibilidades atuais de inovação tecnológica, a partir da aplicação de inteligência artificial a ferramentas de avaliação ambiental e energética integradas ao desenvolvimento de projetos de edifícios, contribuindo com processos evolutivos de metodologias BIM (Building Information Modeling) a conceitos BEM (Building Energy Model).`,
-    date: "08/05",
-    time: "10:00-11:30",
-    place: "Presencial: Auditório 3",
+    date: '10/05',
+      time: '07:15-08:45',
+      place: 'Online'
     
   },
   {
-    title:
-      "PESQUISA E PÓS-GRADUAÇÃO NA ARQUITETURA, NO URBANISMO E NO DESIGN",
+    title: "PESQUISA E PÓS-GRADUAÇÃO NA ARQUITETURA, NO URBANISMO E NO DESIGN",
     instructor: "Deusa Maria Rodrigues Boaventura e Sandra Catharinne Pantaleão Resende",
     institution: "PUC Goiás",
     desc: `Discussões a respeito da realização de projeto de pesquisa e de cursos de pós-graduação ligados aos cursos da Escola Politécnica e de Artes.`,
@@ -160,15 +156,7 @@ let Palestras = [
     time: "19:00-20:30",
     place: "Presencial: Auditório 2",
   },
-  {
-    title: "Desafio Produtivo",
-    instructor: "Santiago Meireles Rocha e Luciana Casaletti",
-    institution: "PUC Goiás",
-    desc: `Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.`,
-    date: "10/05",
-    time: "09:00-12:15",
-    place: "Presencial: Auditório 1",
-  },
+  
   {
     title: "Experimentações Editoriais ",
     instructor: "Lucia Bertazzo",
@@ -181,7 +169,7 @@ let Palestras = [
   },
   {
     title: "Projeto Pormade Móvel",
-    instructor: "Representante da Pormade Portas - em definição",
+    instructor: "Marília Teixeira",
     institution: "Pormade Portas",
     desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
     O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
@@ -190,8 +178,8 @@ let Palestras = [
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
     date: "09/05",
-    time: "09:00-10:30",
-    place: "Presencial: Auditório 1",
+    time: "08:00-11:30",
+    place: "Auditório Marisa Roriz (Área III)",
   },
 
   {
@@ -202,6 +190,7 @@ let Palestras = [
     date: "08/05",
     time: "08:00-09:30",
     place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxZDYzYTMtZWVhZS00ODFmLThhMjMtMjI4YmY2MmFhMDhi%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   },
   {
     title: "CRÔNICAS DO IGPA",
@@ -225,6 +214,17 @@ let Palestras = [
     time: "08:00-09:30",
     place: "Presencial: Auditório 3",
   },
+
+  {
+    title: "Transformação Digital e Tendências",
+    instructor: "Aguinaldo Aragon Fernandes",
+    institution: "Consultor independente",
+    desc: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
+    date: "08/05",
+    time: "10:00-11:30",
+    place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZmYWQzODItZTY4NS00ZWQxLWIwNjktOTgwMTAyNjE0YTky%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+  },
   {
     title: "Oficina Damata - Design e marcenaria tradicional",
     instructor: "Thiago da Mata Santos",
@@ -242,17 +242,18 @@ let Palestras = [
     desc: `Explorar-se-á a evolução, implicações sociais e éticas, além das oportunidades e desafios das Inteligências Artificiais Generativas, apresentando reflexões importantes para a área de Engenharia de Computação.`,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Online",
+    place: "Presencial: Auditório 3",
   },
 
   {
     title: "Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores",
-    instructor: "Prof. Dr. Alexandre Delbem",
+    instructor: "Dr. Alexandre Delbem",
     institution: "ICMC USP São Carlos",
     desc: `Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores`,
     date: "08/05",
     time: "19:00-20:30",
     place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4ZDUyYTYtMjI2MC00NDI0LWE0ZTQtY2M5NzA1M2U2ZjNj%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   },
 
   {
@@ -277,29 +278,31 @@ let Palestras = [
   
 
   {
-    title: 'Como se comportar em uma entrevista de estágio.',
+    title: 'Como se comportar em uma entrevista de estágio',
     instructor: 'DANILO GREGÓRIO.',
-    institution: '',
+    institution: 'Marcca Engenharia',
     desc: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
     date: '08/05',
     time: '18:00-19:30',
-    place: 'Online'
+    place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIxYzQwZTAtNmJiYS00ZmQxLWI5NTktNDQzODhlMjYzYTk0%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
    
   },
 
   {
-    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    title: 'Programa de Licenciatura em Gestão do Transporte Aéreo da Atlantica, Portugal',
     instructor: 'Miguel Moreira',
     institution: '',
     desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
     date: '09/05',
     time: '09:00-10:30',
-    place: 'Online'
+    place: 'Online',
+    link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3NGI0YjYtMzMyNS00MmE1LTkzY2QtZjk5OGI2NjZlZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
    
   },
 
   {
-    title: 'Setor Aeroagrícola Brasileiro.',
+    title: 'Setor Aeroagrícola Brasileiro',
     instructor: 'Gabriella Meireles',
     institution: '',
     desc: `Apresentação do setor aeroagricola do Brasil.`,
@@ -308,41 +311,67 @@ let Palestras = [
     place: 'Online'
   
   },
-
   {
-    title: "Introdução a Python.",
-    instructor: 'CARMEN CECILIA CENTENO',
-    institution: 'Aluno da PUC Goiás.',
-    desc: `Iniciação à linguagem de programação Python. Vagas limitadas a 20 alunos.`,
-    date: '09/05',
-    time: '14:00-16:00',
-    place: 'Presencial: Laboratório 101, bloco C, área II'
+    title: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção',
+    instructor: 'Rener Baptista',
+    institution: 'CEO na iNexxus Global',
+    desc: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
+    date: '10/05',
+    time: '19:00-20:30',
+    place: 'Online',
+    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  },
+  {
+    title: 'IMPACTO NO LONGO PRAZO DA MOBILIDADE ELÉTRICA NO SISTEMA ELÉTRICO BRASILEIRO',
+    instructor: 'Rafael Bomaro Ferreira',
+    institution: 'AXS Energia – Florianópolis – SC',
+    desc: `Com o aumento das vendas de carros elétricos e híbridos surge a preocupação em relação à infraestrutura elétrica existente, e como faremos para recarregar tantos carros elétricos no futuro, um dos estudos que começou em 2016 pela Nissan e pela Renault foi o chamado "Vehicle-to-grid" (veículo para a rede) ou V2G onde as baterias do carro podem fornecer energia para uma casa ou região por um determinado tempo. A Geração Distribuída-GD tem um papel fundamental na utilização das baterias veiculares para armazenamento de energia (segunda vida útil), porém precisa-se se pensar também em qual será a visão de médio e longo prazo do Setor Elétrico de uma rede de transporte eletrificada.`,
+    date: '10/05',
+    time: '20:30-22:00',
+    place: 'Online'
   
   },
-
   {
-    title: "Introdução ao Git/GitHub",
-    instructor: 'CARMEN CECILIA CENTENO',
-    institution: 'PUC Goiás',
-    desc: `Como usar o Git/Github? Minicurso presencial, porém com gravação pelo Teams.`,
+    title: 'Dados real-time no BigQuery usando CDC',
+    instructor: 'Egio Arruda',
+    institution: 'EasyCrédito/FitBank',
+    desc: `Esta palestra é um caso real de como utilizar o BigQuery como Data Warehouse de alto desempenho com ingestão de dados real-time usando CDC (Change Data Capture) para impacto mínimo nos bancos de dados de produção e baixo custo.`,
     date: '08/05',
-    time: '19:00-21:00',
-    place: 'Presencial: Laboratório 101, bloco C, área II'
+    time: '17:00-18:30',
+    place: 'Online'
   
   },
-  
   {
-    title: 'Maratona de Programação - Primeiro Período',
-    instructor:'CARMEN CECILIA CENTENO',
-    institution: 'PUC Goiás',
-    desc: `Competição realizada no sábado, dia 13/05/2023, entre 08:30-12:15. `,
-    date: '13/05',
-    time: '08:30-12:15',
-    place: 'Presencial: Laboratórios do bloco C (101C a 105C)'
+    title: 'IARA: Centro de Pesquisa Aplicada em Inteligência Artificial para Cidades Inteligentes',
+    instructor: 'André Carlos Ponce de Leon Ferreira de Carvalho',
+    institution: 'USP - São Carlos',
+    desc: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
+    date: '09/05',
+    time: '17:00-18:30',
+    place: 'Online'
   
   },
-
+  {
+    title: 'Cidades Inteligentes',
+    instructor: 'Hemmanoel Feitosa e Silva',
+    institution: 'Secretaria Municipal de Inovação, Ciência e Tecnologia - SICTEC',
+    desc: `Cidades inteligentes, ou smart cities, são aquelas que utilizam tecnologias avançadas para melhorar a qualidade de vida dos seus habitantes, otimizar a gestão dos serviços públicos e promover a sustentabilidade ambiental e econômica. Essas tecnologias incluem sensores, dispositivos de internet das coisas, sistemas de análise de dados, entre outros, que permitem a coleta e o processamento de informações em tempo real, facilitando a tomada de decisões e a otimização dos recursos.`,
+    date: '08/05',
+    time: '09:00-10:30',
+    place: 'Presencial: Auditório 1'
   
+  },
+  {
+    title: 'NEUROARQUITETURA',
+    instructor: 'Lorí Crízel',
+    institution: 'Instituto Politécnico di Milano (Itália)',
+    desc: `DIÁLOGO DIRIGIDO`,
+    date: '10/05',
+    time: '10:30-12:00',
+    place: 'Online',
+    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmMwZDk2YjMtZDljNC00NTZlLTllN2QtMTBkMjA3Njg5ODJk%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  
+  },
 
 ]
 

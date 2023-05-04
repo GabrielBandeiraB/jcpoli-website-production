@@ -29,7 +29,7 @@
                 {{ expo.desc }}
               </p>
               <h5 v-if="expo.instructor" :title="expo.instructor">
-                Artista: {{ expo.instructor }}
+                Apresentador: {{ expo.instructor }}
               </h5>
             </div>
           </div>
