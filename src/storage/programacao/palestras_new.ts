@@ -119,8 +119,9 @@ let Palestras = [
     },
 
   {
-    title:"Como trabalhar no lugar mais bonito do mundo",
-    instructor: "Rafael Gonçalves ",
+    title:
+      "Como trabalhar no lugar mais bonito do mundo.",
+    instructor: "Engº Agrº Rafael Gonçalves ",
     institution: "Butchart Gardens ",
     desc: `Butchart Gardens`,
     date: "08/05",
@@ -290,7 +291,7 @@ let Palestras = [
   },
 
   {
-    title: 'Programa de Licenciatura em Gestão do Transporte Aéreo da Atlantica, Portugal',
+    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
     instructor: 'Miguel Moreira',
     institution: '',
     desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
