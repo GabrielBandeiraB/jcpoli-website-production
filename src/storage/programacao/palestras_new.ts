@@ -119,9 +119,8 @@ let Palestras = [
     },
 
   {
-    title:
-      "Como trabalhar no lugar mais bonito do mundo.",
-    instructor: "Engº Agrº Rafael Gonçalves ",
+    title:"Como trabalhar no lugar mais bonito do mundo",
+    instructor: "Rafael Gonçalves ",
     institution: "Butchart Gardens ",
     desc: `Butchart Gardens`,
     date: "08/05",
@@ -266,6 +265,16 @@ let Palestras = [
     time: "19:00-20:30",
     place: "Online",
   },
+
+  { 
+    title: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro',
+    instructor: 'João Paulo Martins',
+    institution: 'Sorcero',
+    desc: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`, 
+    date: '09/05',
+    time: '19:00-20:30',
+    place: 'Presencial: Auditório 3'
+   },
   
   { 
     title: 'Como soft skills podem lhe garantir uma vaga ou salvar o seu emprego',
@@ -291,14 +300,14 @@ let Palestras = [
   },
 
   {
-    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    title: 'Programa de Licenciatura em Gestão do Transporte Aéreo da Atlantica, Portugal',
     instructor: 'Miguel Moreira',
     institution: '',
     desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
     date: '09/05',
     time: '09:00-10:30',
-    place: 'Online',
-    link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3NGI0YjYtMzMyNS00MmE1LTkzY2QtZjk5OGI2NjZlZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+    place: "Online",
+    link:"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3NGI0YjYtMzMyNS00MmE1LTkzY2QtZjk5OGI2NjZlZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
    
   },
 
@@ -309,7 +318,8 @@ let Palestras = [
     desc: `Apresentação do setor aeroagricola do Brasil.`,
     date: '08/05',
     time: '09:00-10:30',
-    place: 'Online'
+    place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM0NGViNDItMTFlMi00MGQwLTliZWItNWJhY2ExYmM0MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   
   },
   {
@@ -330,6 +340,17 @@ let Palestras = [
     date: '10/05',
     time: '20:30-22:00',
     place: 'Online'
+  
+  },
+
+  {
+    title: 'Perícia agronômica e assistência técnica em perícia',
+    instructor: 'Eliezer Furtado de Carvalho',
+    institution: 'Perito judicial',
+    desc: `A atividade de perícia relacionada a imóveis rurais e/ou atividades e produtos rurais, na sua quase totalidade, são da competência exclusiva do engenheiro agrônomo. Trata-se de atividade que possibilita melhores níveis de remuneração, quando comparada com outras áreas de atuação dos profissionais de agronomia.`,
+    date: '10/05',
+    time: '10:00-11:30',
+    place: 'Presencial: Auditório Marisa Roriz (Área III)'
   
   },
   {
