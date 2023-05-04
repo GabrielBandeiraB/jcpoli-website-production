@@ -1,7 +1,7 @@
 const Competicao = [
   {
     title: "Maratona de Programação",
-  instructor: "Prof. Alexandre e Prof.ª Carmen Cecília Centeno",
+  instructor: "Alexandre Ribeiro, José Luiz e Olegário",
   institution: "PUC Goiás",
   desc: `Com o objetivo de motivar os estudantes da PUC Goiás a expandirem sua capacidade de resolver problemas, utilizando programação de computadores e desenvolverem a habilidade de trabalhar em grupo, a Maratona de Programação da Escola Politécnica e de Artes será realizada como parte integrante da II JCPOLI.
   `,
@@ -13,7 +13,7 @@ const Competicao = [
 
   {
     title: "IV DESAFIO EM CIÊNCIA DE DADOS",
-  instructor: "Profa. Maria José Pereira Dantas. e Prof. José Elmo de Menezes.",
+  instructor: "Maria José Pereira Dantas. e José Elmo de Menezes.",
   institution: "PUC Goiás",
   desc: `Os participantes enfrentam questões de pesquisa que
   requerem a aplicação de técnicas de Estatística e aprendizado de máquina (machine
@@ -35,7 +35,7 @@ const Competicao = [
 
   {
     title: "I CodeCraft: A Maratona de Desenvolvimento de Sistemas",
-  instructor: "Profª. Lucília Gomes Ribeiro. e Profª Solange da Silva",
+  instructor: "Lucília Gomes Ribeiro. e Solange da Silva",
   institution: "PUC Goiás",
   desc: `O "CodeCraft" é uma maratona de programação (hackathon). A palavra “craft”
   significa “arte” e remete à habilidade e dedicação necessárias para construir algo com

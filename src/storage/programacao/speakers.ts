@@ -8,7 +8,7 @@ export const speakers_list = [
 const speakers_jcpoli = 
 [
   {
-    name: 'Prof. Me. Alberto Vilela Chaer',
+    name: 'Me. Alberto Vilela Chaer',
     institution: 'PUC Goiás',
     speaking: 'Aplicações em Engenharia utilizando o software Smath Solver',
     description: `Mestre em Engenharia Civil / Estruturas pela Pontifícia Universidade Católica do Rio de Janeiro (1991). Graduado em Engenharia Civil pela Universidade Federal de Goiás (1986). Atualmente é Professor Adjunto-I do Curso de Engenharia Civil da Escola de Engenharia da Pontifícia Universidade Católica de Goiás (desde 1989) e Professor Assistente-I do Curso de Engenharia Civil da Escola de Engenharia Civil da Universidade Federal de Goiás (desde 2009). Tem experiência na área de Engenharia Civil, com ênfase em Estruturas de Concreto Armado e Protendido (Experiência Acadêmica: Magistério do Ensino Superior; Experiência Profissional: Elaboração de Projetos de Estruturas em Concreto Armado e Protendido; Consultoria em Estruturas). Poeta. Escreve poemas desde 1980. Artista visual. Produz poesia visual desde 2005.`,
@@ -64,7 +64,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Presencial: Hall de entrada da Área III'
     }
   },
 
@@ -84,7 +84,7 @@ const speakers_jcpoli =
   },*/
  
   {
-    name: 'Engº André Luiz Dias da Silva',
+    name: 'André Luiz Dias da Silva',
     institution: 'DN Engenharia',
     speaking: 'Engenharia de Segurança no Agronegócio',
     description: `Engenheiro de Controle e Automação e Engenheiro de Segurança do Trabalho que atua na DN Engenharia com ênfase em segurança do trabalho no Agronegócio.`,
@@ -99,7 +99,7 @@ const speakers_jcpoli =
   },
 
   { 
-    name: 'Engª Agrª Scheila Ronconi Da Rolt',
+    name: 'Scheila Ronconi Da Rolt',
     institution: 'Araguaia produtos agropecuários ', 
     speaking: 'Controle fitossanitário em hortaliças',
     description: `Engenheira Agrônoma, Coordenadora Técnica de Hortifruti - GO/MT na empresa Araguaia produtos agropecuários.`,
@@ -149,9 +149,9 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'MSc. Maria Alejandra Aparicio Ardila',
+    name: 'Maria Alejandra Aparicio Ardila',
     institution: 'Nortene Plásticos',
-    speaking: 'Aplicações geotécnicas e ambientais das geomembranas.',
+    speaking: 'Aplicações geotécnicas e ambientais das geomembranas',
     description: `Possui graduação em Engenheira Civil pela Universidade Industrial de Santander- Colômbia (2016) e mestrado em Geotecnia pela Universidade de São Paulo - EESC/USP (2020) na linha de pesquisa de geossintéticos. No mercado profissional tem experiência em elaboração e gerenciamento de projetos, realização de orçamentos e execução e acompanhamento de obras civis. Experiência na realização de ensaios geotécnicos e de geossintéticos. No âmbito acadêmico, desenvolve estudos nas áreas de Melhoria dos Solos, Geossintéticos e Bioengenharia, através da participação de grupos de pesquisa associados ao laboratório de geossintéticos da USP. Atualmente é doutoranda no programa de Geotecnia da EESC/USP estudando desaguamento de resíduos por meio de tubos geotêxteis. Secretária da Comissão de Estudo Especial de Geossintéticos (ABNT/CEE-175) desde 2021 e membro do núcleo jovem da IGS Brasil desde 2019.`,
     subjectResume: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
     img: '/assets/img/speakers/mariaalejandra.jpg',
@@ -165,10 +165,10 @@ const speakers_jcpoli =
 
   {
     name: 'Patrick Morais de Souza Lima',
-    institution: '',
+    institution: 'Gerente de Engenharia e Qualidade de Software na GFT Technologies',
     speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
-    description: ``,
-    subjectResume: ``,
+    description: `Me chamo Patrick Morais, sou Goiano, possuo mais de 12 anos na área de TI. Sou bacharel em Ciência da Computação pela PUC, Especialista em Gestão de Projetos de TI pela USP, Diplomado em liderança e tecnologia pelo Tecnólogico de Monterrey no México, atualmente QA Manager no grupo GFT. Falo sobre tecnologia e migração de carreiras e nas horas vagas gosto de me dedicar aos esportes radicais.`,
+    subjectResume: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
     img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
@@ -196,14 +196,14 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'Ms. Evelyn Cristine Moreira Soares',
+    name: 'Evelyn Cristine Moreira Soares',
     institution: 'PUC Goiás',
     speaking: 'Estudos de Impactos Urbanos e Engenharia de Tráfego',
-    description: `UNB, na área de concentração Projeto e Planejamento e Linha de Pesquisa Projeto e Planejamento Urbano e Regional (PP). Mestre pelo Programa de Pós Graduação Projeto e Cidade da Universidade Federal de Goiás (UFG/FAV/2016).  
+    description: `Aluna Regular do Programa de Pós-Graduação da Faculdade de Arquitetura e Urbanismo da UNB, na área de concentração Projeto e Planejamento e Linha de Pesquisa Projeto e Planejamento Urbano e Regional (PP). Mestre pelo Programa de Pós Graduação Projeto e Cidade da Universidade Federal de Goiás (UFG/FAV/2016).  
     Possui graduação em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás (2004) e Pós Graduação em Construção Civil pela Universidade Federal de Goiás (2010). 
     Em 2012 iniciou carreira docente nos cursos de Engenharias, Design e Arquitetura e Urbanismo na Pontifícia Universidade Católica de Goiás - hoje leciona no ramo de Planejamento Urbano Municipal. Foi professora conteudista do IESB / DF e Professora Mestre da Instituição de 2017 a 2019, coordenou o TFC do curso de Engenharia Civil EAD.    
     Também se dedica, desde 2015, à elaboração de Estudos de Impacto de Trânsito e de Vizinhança, de empreendimentos diversos. Em 2018/2019 atuou como analista de empreendimentos (PGV) no Município de Aparecida de Goiânia, na Secretaria de Mobilidade e Defesa Social, Departamento de Engenharia de Tráfego.   
-    Atualmente coordena o Curso de Especialização em Mobilidade Urbana e Infraestrutura (IDS) e os cursos de Engenharia de Tráfego e Impactos de Trânsito (PUC GO) e Estudos de Impacto Urbano e Ambiental (PUC GO).  `,
+    Atualmente coordena o Curso de Especialização em Mobilidade Urbana e Infraestrutura (IDS) e os cursos de Engenharia de Tráfego e Impactos de Trânsito (PUC GO) e Estudos de Impacto Urbano e Ambiental (PUC GO).   `,
     subjectResume: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
     img: '/assets/img/speakers/evelyncristine.png',
     customSize: '100%',
@@ -234,22 +234,22 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'Engº Agrº Rafael Gonçalves ',
+    name: 'Rafael Gonçalves ',
     institution: 'Butchart Gardens ',
-    speaking: 'Como trabalhar no lugar mais bonito do mundo.',
+    speaking: 'Como trabalhar no lugar mais bonito do mundo',
     description: `Engenheiro Agrônomo.`,
-    subjectResume: ``,
+    subjectResume: `Butchart Gardens`,
     img: '/assets/img/speakers/rafael.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 1'
+      place: 'Online'
     }
   },
 
   {
-    name: 'Prof. Dr. Leônidas Albano e Profa. Dra. Maria José Pereira Dantas',
+    name: 'Dr. Leônidas Albano e Dra. Maria José Pereira Dantas',
     institution: 'PUC Goiás',
     speaking: 'LION XPRO: DO BIM AO BEM INTELIGÊNCIA ARTIFICIAL APLICADA AO DESENVOLVIMENTO DE PROJETOS DE EDIFÍCIOS SUSTENTÁVEIS',
     description: `Leônidas Albano 
@@ -293,7 +293,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '09:00-12:15',
-      place: 'Presencial: Auditório 1'
+      place: 'Presencial: Sala 211, bloco F, área III'
     }
   },
 
@@ -357,7 +357,8 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '08:00-09:30',
-      place: 'Online: A definir '
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxZDYzYTMtZWVhZS00ODFmLThhMjMtMjI4YmY2MmFhMDhi%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
     }
   },
 
@@ -374,7 +375,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Presencial: Auditório Marisa Roriz (Área III)'
     }
   },
 
@@ -414,7 +415,7 @@ const speakers_jcpoli =
 
   {
     name: 'Aguinaldo Aragon Fernandes',
-    institution: 'Pesquisador e consultor independente',
+    institution: 'Consultor independente',
     speaking: 'Transformação Digital e Tendências',
     description: `PhD em Engenharia pela Poli/USP. Autor de 9 livros sobre gestão e governança de tecnologia. Atualmente desenvolve projetos na área de Governança e Gestão de Dados, Governança de Cloud e implementação de Cidades Inteligentes. Atua no mercado a mais de 40 anos tendo observado as mudanças ocorridas nas empresas nas ultimas décadas. Como consultor já atuou em mais de 130 empresas, pública e privadas. Participa de grupos de pesquisa em indústria 4.0 e em governança da inteligência artificial. É professor convidado para bancas de mestrado e doutorado na FGV, USP, Uninove, Unip, UNIMEP.`,
     subjectResume: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
@@ -423,13 +424,14 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '10:00-11:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZmYWQzODItZTY4NS00ZWQxLWIwNjktOTgwMTAyNjE0YTky%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
     }
   },
   {
     name: 'Weber Martins.',
     institution: 'PUC Goiás',
-    speaking: 'Inteligências Artificiais Generativas: impactos e oportunidades.',
+    speaking: 'Inteligências Artificiais Generativas: impactos e oportunidades',
     description: `Possui graduação em Engenharia Elétrica (primeiro colocado no vestibular e premiado como melhor aluno na formatura) pela Universidade Federal de Goiás (1985), mestrado em Engenharia Elétrica (dissertação em Redes Neurais Artificiais) pela Universidade Federal de Uberlândia (1989) e DPhil em Electronics (tese em Redes Neurais Artificiais e Algoritmos Genéticos) pela University of York, Inglaterra, UK (1994). Atualmente é professor titular da Universidade Católica de Goiás (Departamento de Psicologia, PSI/UCG) e da Universidade Federal de Goiás (Escola de Engenharia Elétrica e de Computação, EEEC/UFG), lecionando e orientando na graduação e pós-graduação. Organizou, em 1997, o Simpósio Brasileiro de Redes Neurais (IV SBRN) em Goiânia e participa ativamente como membro do Comitê de Programa de diversos congressos nacionais e internacionais na área. Possui experiência em Computação, particularmente, em Inteligência Artificial (Redes Neurais Artificiais, Algoritmos Genéticos e Lógica Nebulosa), com ênfase em sistemas tutores inteligentes, aplicação tecnológica de sistemas inteligentes, catálogos eletrônicos inteligentes, automação de experimentos psicológicos, metodologia cientifica, educação a distância, mapas auto-organizáveis e aprendizagem. Fundador e Coordenador do Grupo de Pesquisa em Sistemas Inteligentes (PIRENEUS/UFG) desde 1994, já orientou mais de 20 dissertações concluídas. Em termos administrativos, foi Vice-Diretor, Diretor e (Idealizador e) Primeiro Coordenador do Curso de Engenharia de Computação na UFG. Na área da Psicologia, tem impulsionado o Laboratório de Análise Experimental do Comportamento (LAEC/UCG) a ocupar posição de destaque nacional com a implementação de softwares para experimentação psicológica desde 1996, além de prover apoio em Estatística e Metodologia Científica. Como consultor, trabalha em automação de processos na área de Agronegócios, desenvolvendo, inclusive, soluções com componentes de Inteligência Artificial.`,
     subjectResume: `Explorar-se-á a evolução, implicações sociais e éticas, além das oportunidades e desafios das Inteligências Artificiais Generativas, apresentando reflexões importantes para a área de Engenharia de Computação.`,
     img: '/assets/img/speakers/webermartins.jpg',
@@ -437,14 +439,14 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Online'
+      place: 'Presencial: Auditório 3'
     }
   },
 
   {
-    name: 'Prof. Dr. Alexandre Delbem.',
+    name: 'Dr. Alexandre Delbem.',
     institution: 'ICMC USP São Carlos.',
-    speaking: 'Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores.',
+    speaking: 'Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores',
     description: `Professor Titular do Departamento de Sistemas de Computação do Instituto de Ciências Matemáticas e de Computação na Universidade de São Paulo (ICMC-USP) e Bolsista Produtividade 1C do CNPq. Foi chefe do Departamento de 2014 a 2018. Investiga soluções computacionais para análise ou projeto envolvendo problemas do mundo real que podem ser modelados como sistemas ciber-físicos. Destacam-se aplicações multidisciplinares em áreas como: restabelecimento de energia após apagões em redes de energia de larga-escala, dinâmica de populações e projetos integrados de redes de suprimento ou atendimento aplicadas ao agronegócio, à saúde, ao meio ambiente e à assistência social. Desenvolvem-se software and hardware para lidar de forma computacionalmente eficiente com alguns desafios inerentes aos sistemas complexos: larga-escala (complexidade computacional e algoritmos de estimação de distribuição), multidimensionalidade (construção automática de modelos multivariados para diferentes tipos de dados), tomada de decisão e otimização utilizando múltiplos critérios (algoritmos evolutivos multiobjetivos) e respostas em tempo-real (paralelização usando FPGAs).`,
     subjectResume: `Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores.`,
     img: '/assets/img/speakers/prof.dr.alexandredelbem.jpg',
@@ -452,7 +454,8 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4ZDUyYTYtMjI2MC00NDI0LWE0ZTQtY2M5NzA1M2U2ZjNj%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
     }
   },
 
@@ -467,7 +470,8 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '19:00-20:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzNkNzk4YzgtY2VhOC00M2M0LWEyZDEtMWY0YzZlNjcwYmMy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
     }
   },
 
@@ -488,23 +492,24 @@ const speakers_jcpoli =
 
   {
     name: 'DANILO GREGÓRIO.',
-    institution: 'Como se comportar em uma entrevista de estágio.',
-    speaking: '',
-    description: ``,
+    institution: 'Marcca engenharia',
+    speaking: 'Como se comportar em uma entrevista de estágio.',
+    description: `Formado em Gestão de RH desde 2015 pela Universidade Estácio. Trabalho na área de RH a mais de 12 anos, com formações estar curriculares em plataformas de Avaliação Comportamental e R&S.`,
     subjectResume: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
-    img: '/assets/img/speakers/user-vector-man.jpg',
+    img: '/assets/img/speakers/danilo-gregorio.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
       time: '18:00-19:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIxYzQwZTAtNmJiYS00ZmQxLWI5NTktNDQzODhlMjYzYTk0%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
    }
   },
 
   {
     name: 'Miguel Moreira',
     institution: '',
-    speaking: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    speaking: 'Programa de Licenciatura em Gestão do Transporte Aéreo da Atlantica, Portugal',
     description: ``,
     subjectResume: `O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
     img: '/assets/img/speakers/user-vector-man.jpg',
@@ -512,14 +517,15 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '09:00-10:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3NGI0YjYtMzMyNS00MmE1LTkzY2QtZjk5OGI2NjZlZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
    }
   },
 
   {
     name: 'Gabriella Meireles',
     institution: '',
-    speaking: 'Setor Aeroagrícola Brasileiro.',
+    speaking: 'Setor Aeroagrícola Brasileiro',
     description: ``,
     subjectResume: `Apresentação do setor aeroagricola do Brasil.`,
     img: '/assets/img/speakers/user-vector-woman.jpg',
@@ -527,13 +533,14 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '09:00-10:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM0NGViNDItMTFlMi00MGQwLTliZWItNWJhY2ExYmM0MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
   {
     name: 'Eliezer Furtado de Carvalho.',
     institution: 'Perito judicial',
-    speaking: 'Perícia e assistência técnica em perícia agronômica.',
+    speaking: 'Perícia agronômica e assistência técnica em perícia',
     description: `Engenheiro Agrônomo, perito judicial e assistente técnico com mais de ampla experiência em laudos pericias e pareceres;
 
     – professor de cursos de aperfeiçoamento e pós-graduação em perícias, patrocinados por instituições como CONFEA, CONFAEAB, CREAs, IBAPE, INEAA, associações profissionais;
@@ -550,9 +557,9 @@ const speakers_jcpoli =
 
   {
     name: 'João Paulo Martins.',
-    institution: '',
-    speaking: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro.',
-    description: `João Paulo Martins é um Cientista de Dados e Engenheiro de Machine Learning trabalhando com projetos de ponta envolvendo Inteligência Artificial.`,
+    institution: 'Sorcero',
+    speaking: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro',
+    description: `Cientista de Dados e Engenheiro de Machine Learning trabalhando com projetos de ponta envolvendo Inteligência Artificial.`,
     subjectResume: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`,
     img: '/assets/img/speakers/joao-paulo-martins.jpg',
     customSize: '100%',
@@ -565,7 +572,7 @@ const speakers_jcpoli =
 
   {
     name: 'Eugenio José Moura Neto',
-    institution: 'Aluno da PUC Goiás.',
+    institution: 'PUC Goiás.',
     speaking: 'Introdução a Python.',
     description: `Aluno do curso de engenharia de computação.`,
     subjectResume: `Iniciação à linguagem de programação Python. Vagas limitadas a 20 alunos.`,
@@ -581,7 +588,7 @@ const speakers_jcpoli =
   {
     name: 'Milton de Assis Ribeiro Neto',
     institution: 'PUC Goiás',
-    speaking: 'Introdução ao Git/GitHub.',
+    speaking: 'Introdução ao Git/GitHub',
     description: `Engenheiro Eletricista com ênfase em Eletrônica
     Engenheiro de Segurança do Trabalho
     Especialista em Engenharia de Potência
@@ -598,9 +605,9 @@ const speakers_jcpoli =
   },
   
   {
-    name: 'Prof. Alexandre Ribeiro',
+    name: 'Alexandre Ribeiro',
     institution: 'PUC Goiás',
-    speaking: 'Maratona de Programação - Primeiro Período.',
+    speaking: 'Maratona de Programação - Primeiro Período',
     description: ``,
     subjectResume: `Competição realizada no sábado, dia 13/05/2023, entre 08:30-12:15.`,
     img: '/assets/img/slider/logo-maratona.jpeg',
@@ -652,7 +659,8 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJhODNjYTAtNGM5Ni00Y2M5LWJlYWQtY2RjMWI2YzMzNmU1%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
 
@@ -674,7 +682,7 @@ const speakers_jcpoli =
   {
     name: 'Rener Baptista.',
     institution: 'iNexxus Global (USA).',
-    speaking: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção.',
+    speaking: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção',
     description: `CEO na iNexxus Global.
     Informática com ênfase em Gestão de Negócios - Fatec - 2009 - 201
     Engenharia de Produção - UNIP - 2009 - 2014
@@ -690,9 +698,86 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '19:00-20:30',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  }
+  },
+
+  {
+    name: 'Lorí Crízel',
+    institution: 'Instituto Politécnico di Milano (Itália)',
+    speaking: 'NEUROARQUITETURA',
+    description: `Arquiteto e Urbanista | Presidente da ANFA no Brasil | Membro da ANFA Center for Education Latin America | Professor de Neuroarquitetura no Instituto Politécnico
+    di Milano (Itália) e Coordenador dos Programas
+    Internacionais do IPOG Brasil | Doutorando em Neuroarquitetura | Mestre em Conforto Ambiental | Especialista em Neurociências e Comportamento Humano | CEO da Plataforma NEURO AI | Mentor do Programa Design Tank Brasil | Membro Fundador do Projeto Neuro in Lab`,
+    subjectResume: `DIÁLOGO DIRIGIDO`,
+    img: '/assets/img/speakers/lorí-crízel.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '10:30-12:00',
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmMwZDk2YjMtZDljNC00NTZlLTllN2QtMTBkMjA3Njg5ODJk%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
   
+  {
+    name: 'Rafael Bomaro Ferreira',
+    institution: 'AXS Energia – Florianópolis – SC',
+    speaking: 'IMPACTO NO LONGO PRAZO DA MOBILIDADE ELÉTRICA NO SISTEMA ELÉTRICO BRASILEIRO',
+    description: `Rafael Bomaro Ferreira, Tecnólogo em Sistemas Elétricos, MBA em Petróleo e Energias, Engenheiro Eletricista e Mestre em Engenharia Elétrica pela Universidade Federal de Santa Catarina, tem mais de 10 anos de experiência no mercado varejista e a 5 anos se dedica ao mercado de geração distribuída e mercado livre de energia, com passagem profissional pela Ambev, Natural One, Instituto Federal Fluminense e Grupo Cotesa, atualmente é Head de Gestão e Comercialização de Energia na AXS Energia e Professor de Inovação e Tecnologia na Faculdade SENAI de Santa Catarina.`,
+    subjectResume: `Com o aumento das vendas de carros elétricos e híbridos surge a preocupação em relação à infraestrutura elétrica existente, e como faremos para recarregar tantos carros elétricos no futuro, um dos estudos que começou em 2016 pela Nissan e pela Renault foi o chamado "Vehicle-to-grid" (veículo para a rede) ou V2G onde as baterias do carro podem fornecer energia para uma casa ou região por um determinado tempo. A Geração Distribuída-GD tem um papel fundamental na utilização das baterias veiculares para armazenamento de energia (segunda vida útil), porém precisa-se se pensar também em qual será a visão de médio e longo prazo do Setor Elétrico de uma rede de transporte eletrificada.`,
+    img: '/assets/img/speakers/rafael-bomaro-ferreira.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '20:30-22:00',
+      place: 'Online'
+  }
+  },
 
+  {
+    name: 'Egio Arruda',
+    institution: 'EasyCrédito/FitBank',
+    speaking: 'Dados real-time no BigQuery usando CDC',
+    description: `Bacharel em Ciência da Computação pela UFG, além de pós-graduado pela FGV e pelo Insper. Possui 15 anos de experiência nas áreas de tecnologia e inovação, sendo atualmente CTO e Co-Founder do EasyCrédito, o maior Hub de Crédito do Brasil, e Head of Data no FitBank, uma das maiores Infratechs do Brasil. Além disso, atua como Google Developer Expert em GCP. É professor convidado nas pós-graduações da PUC Goiás, UniFasam e IPOG.`,
+    subjectResume: `Esta palestra é um caso real de como utilizar o BigQuery como Data Warehouse de alto desempenho com ingestão de dados real-time usando CDC (Change Data Capture) para impacto mínimo nos bancos de dados de produção e baixo custo.`,
+    img: '/assets/img/speakers/egio-arruda.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '17:00-18:30',
+      place: 'Online'
+  }
+  },
+
+  {
+    name: 'André Carlos Ponce de Leon Ferreira de Carvalho',
+    institution: 'USP - São Carlos',
+    speaking: 'IARA: Centro de Pesquisa Aplicada em Inteligência Artificial para Cidades Inteligentes',
+    description: `Professor Titular do Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP), campus São Carlos, Bolsista de Produtividade em Pesquisa 1A do CNPq e Vice-Presidente da Sociedade Brasileira de Computação (SBC). É coordenador da rede IARA, Inteligência Artificial Recriando Ambientes. Foi membro do Comitê de Assessoramento de Ciência da Computação do CNPq (CA-CC), de 2018 a 2021 (coordenador de 2019 a 2020). De 2013 a 2017 foi membro do conselho da International Association for Statistical Computing (IASC), do International Institute of Statistics. Possui Bacharelado (1987) e Mestrado em Ciência da Computação (1990) pela Universidade Federal de Pernambuco, e doutorado em Electronic Engineering pela University of Kent (1994). Seus principais interesses de pesquisa são Aprendizado de Máquina, Mineração de Dados e Ciência de Dados, com aplicações em várias áreas. Publicou vários artigos nessas áreas, alguns deles premiados em conferências organizadas por ACM, IEEE and SBC. Escreveu vários livros, entre eles Inteligência Artificial: Uma abordagem de Aprendizado de Máquina, publicado pelo GrupoGen em 2011 e prêmio Jabuti 2012, e A General Introduction to Data Analytics, publicado pela Wiley, em 2018. Foi Professor Associado na University of Guelph, Canada. Foi ainda Professor Visitante na University of Kent e Pesquisador Visitante na University of Kent e no Alan Turing Institute, UK. Avalia projetos para agências de fomento a pesquisa nacionais, CAPES, CNPq, FAPESP, FACEPE, FAPEMIG e Fundação Serrapilheira, e internacionais, NSERC (Canada), The Leverhulme Trust (Reino Unido), EPSRC Reino Unido), GACR (República Checa), CONICYT (Chile), Croatian Science Foundation (Croácia) e MIUR (Itália). É Diretor do ICMC-USP e do Centro de Ciências Matemáticas Aplicadas à Indústria da USP. É ainda Vice-Coordenador do MBA em Ciência de Dados do ICMC-USP. , do Conselho Consultivo da Rede MCTI-EMBRAPII de Inovação em Inteligência Artificial (IA), da Rede Ciência para Educação (CpE), do Comitê Diretivo para América Latina e Caribe da International Network for Government Science Advice (INGSA), do Conselho Universitário da Universidade de São Paulo e do Comitê Científico do Advanced Institute for Artificial Intelligence (AI2), do Strategy and Partnerships Board of the UKRI Centre for Doctoral Training in Accountable, Responsible and Transparent AI (ART-AI), at University of Bath, UK. Membro associado da Artificial Intelligence Institute - Te Ipu o te Mahara da University of Waikato, Nova Zelândia e do Grupo de Governança da Estratégia Brasileira de Inteligência Artificial (EBIA) do Ministério de Ciência, Tecnologia e Inovações, do Conselho Tecnológico da Associação Gestora de Fundo Patrimonial Chronos (?CHRONOS?) e do Comitê de Governança do Indicações Geográficas (IG) São Carlos. Foi membro do Conselho Técnico Científico da Escola de Matemática Aplicada da Fundação Getúlio Vargas (EMAp-FGV) de 2018 a 2020.`,
+    subjectResume: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
+    img: '/assets/img/speakers/.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '17:00-18:30',
+      place: 'Online'
+  }
+  },
+
+  {
+    name: 'Hemmanoel Feitosa e Silva',
+    institution: 'Secretaria Municipal de Inovação, Ciência e Tecnologia - SICTEC',
+    speaking: 'Cidades Inteligentes',
+    description: `Mestre em Engenharia de Produção e Sistemas. MBA, Especialista em Governança de TI pelo Instituto de Pós-Graduação IPOG. Possui graduação em Redes de Computadores pela Universidade Salgado de Oliveira (2002). Atualmente é Secretário Municipal de Inovação, Ciência e Tecnologia do município de Goiânia. Atuou como Analista na Procuradoria-Geral da República. Tem experiência no setor público na área de Educação, com ênfase em Ensino Superior. Tem experiência na área de Tecnologia da Informação, com ênfase em Governança, gestão de projetos de sistemas de informação e infraestrutura. Tem experiência na área de Tecnologia da Informação com ênfase em infraestrutura e segurança da informação. `,
+    subjectResume: `Cidades inteligentes, ou smart cities, são aquelas que utilizam tecnologias avançadas para melhorar a qualidade de vida dos seus habitantes, otimizar a gestão dos serviços públicos e promover a sustentabilidade ambiental e econômica. Essas tecnologias incluem sensores, dispositivos de internet das coisas, sistemas de análise de dados, entre outros, que permitem a coleta e o processamento de informações em tempo real, facilitando a tomada de decisões e a otimização dos recursos. `,
+    img: '/assets/img/speakers/hemmanoel-feitosa-e-silva.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '08/05',
+      time: '09:00-10:30',
+      place: 'Presencial: Auditório 1'
+  }
+  },
 ]
