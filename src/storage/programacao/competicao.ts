@@ -12,6 +12,17 @@ const Competicao = [
   },
 
   {
+    title: "Desafio Produtivo",
+    instructor: "Santiago Meireles Rocha e Luciana Casaletti",
+    institution: "PUC Goiás",
+    desc: `Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.`,
+    image: "assets/img/slider/DesafioProdutivo.jpg",
+    date: "10/05",
+    time: "09:00-12:15",
+    place: "Presencial: Auditório 1",
+  },
+
+  {
     title: "I Concurso de Fotografia da Escola Politécnica e de Artes",
     instructor: "",
     institution: "PUC Goiás",

@@ -160,15 +160,7 @@ let Palestras = [
     time: "19:00-20:30",
     place: "Presencial: Auditório 2",
   },
-  {
-    title: "Desafio Produtivo",
-    instructor: "Santiago Meireles Rocha e Luciana Casaletti",
-    institution: "PUC Goiás",
-    desc: `Será proposto um desafio para equipes, onde cada uma será responsável por analisar uma das empresas indicadas e defender sua aquisição por parte dos investidores.`,
-    date: "10/05",
-    time: "09:00-12:15",
-    place: "Presencial: Auditório 1",
-  },
+  
   {
     title: "Experimentações Editoriais ",
     instructor: "Lucia Bertazzo",
