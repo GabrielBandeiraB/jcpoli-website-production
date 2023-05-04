@@ -502,7 +502,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/orientações professores e alunos II JC POLI_v2.pdf"
+              href="/assets/orientprofaluno.pdf"
               target="_blank"
             >
               ACESSAR ORIENTAÇÕES
@@ -524,24 +524,11 @@
           </div>
 
           <div class="info-arquivo">
-            <h4>Edital Ciência de dados</h4>
-            <v-btn
-              type="submit"
-              color="primary"
-              href="/assets/edital_Ciencia_dados.pdf"
-              target="_blank"
-            >
-              ACESSAR EDITAL
-              <v-icon right dark>cloud_download</v-icon>
-            </v-btn>
-          </div>
-
-          <div class="info-arquivo">
             <h4>Edital do Desafio de Ciência dos Dados</h4>
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf"
+              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf"
               target="_blank"
             >
               ACESSAR EDITAL

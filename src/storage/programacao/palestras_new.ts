@@ -23,16 +23,16 @@ let Palestras = [
   {
     title: "Engenharia de Segurança no Agronegócio",
     instructor: "André Luiz Dias da Silva",
-    institution: "Universidade de São Paulo",
+    institution: "DN Engenharia",
     desc: "A engenharia de segurança no Agronegócio é importante para garantir a segurança dos trabalhadores e do ambiente de trabalho, bem como para aumentar a eficiência e a produtividade das atividades agrícolas. Conta com planejamento de medidas de prevenção e controle de incêndios nas áreas de plantio e armazenamento de produtos agrícolas, Desenvolvimento de estratégias para prevenção de acidentes com máquinas agrícolas, Implantação de medidas de segurança alimentar, como a adoção de boas práticas agrícolas e o controle de qualidade dos alimentos produzidos, Projeto de instalações de armazenamento de produtos agrícolas seguras e eficientes, incluindo sistemas de ventilação e controle de temperatura.",
     date: "09/05",
     time: "08:00-09:30",
-    place: "Auditório 2, área II",
+    place: "Presencial: Auditório 2",
   },
   {
     title: "Controle fitossanitário em hortaliças",
     instructor: "Scheila Ronconi Da Rolt",
-    institution: "Plano D Design de produtos",
+    institution: "Araguaia produtos agropecuários",
     desc: "Controle fitossanitário em hortaliças é o conjunto de medidas adotadas para proteger as plantas cultivadas de doenças, pragas e outros agentes que possam afetar sua saúde e qualidade. Essas medidas podem incluir a adoção de práticas culturais adequadas, como rotação de culturas e manejo do solo, o uso de defensivos agrícolas quando necessário e a adoção de estratégias de controle biológico e integrado de pragas. O objetivo do controle fitossanitário é garantir a saúde e a produtividade das plantas, bem como a segurança alimentar e a proteção do meio ambiente. Além disso, o controle fitossanitário também pode contribuir para a sustentabilidade da produção agrícola, reduzindo o uso de defensivos químicos e promovendo práticas preventivas e curativas mais sustentáveis e ecologicamente corretas."
     ,
     date: "08/05",
@@ -64,7 +64,7 @@ let Palestras = [
   
   },
   {
-    title: "Aplicações geotécnicas e ambientais das geomembranas.",
+    title: "Aplicações geotécnicas e ambientais das geomembranas",
     instructor: "Maria Alejandra Aparicio Ardila",
     institution: "Nortene Plásticos",
     desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
@@ -122,7 +122,7 @@ let Palestras = [
 
   {
     title:
-      "Como trabalhar no lugar mais bonito do mundo.",
+      "Como trabalhar no lugar mais bonito do mundo",
     instructor: "Rafael Gonçalves ",
     institution: "Butchart Gardens ",
     desc: ``,
@@ -173,7 +173,7 @@ let Palestras = [
   },
   {
     title: "Projeto Pormade Móvel",
-    instructor: "Representante da Pormade Portas - em definição",
+    instructor: "Marília Teixeira",
     institution: "Pormade Portas",
     desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
     O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
@@ -182,8 +182,8 @@ let Palestras = [
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
     date: "09/05",
-    time: "09:00-10:30",
-    place: "Presencial: Auditório 1",
+    time: "08:00-11:30",
+    place: "Auditório Marisa Roriz (Área III)",
   },
 
   {
@@ -269,7 +269,7 @@ let Palestras = [
   
 
   {
-    title: 'Como se comportar em uma entrevista de estágio.',
+    title: 'Como se comportar em uma entrevista de estágio',
     instructor: 'DANILO GREGÓRIO.',
     institution: '',
     desc: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
@@ -280,7 +280,7 @@ let Palestras = [
   },
 
   {
-    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal.',
+    title: 'Programa de Licencitura em Gestão do Transporte Aéreo da Atlantica, Portugal',
     instructor: 'Miguel Moreira',
     institution: '',
     desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
