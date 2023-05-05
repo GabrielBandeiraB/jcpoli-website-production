@@ -126,6 +126,7 @@ let Palestras = [
     date: "08/05",
     time: "19:00-20:30",
     place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGJmNGQxNDQtOTQ0Yi00MDJjLTlhM2ItNzFkY2RmMjhmZTIz%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   },
 
   /*{
@@ -144,7 +145,8 @@ let Palestras = [
     desc: `Discussões com o time da startup Lion xPRO a respeito das possibilidades atuais de inovação tecnológica, a partir da aplicação de inteligência artificial a ferramentas de avaliação ambiental e energética integradas ao desenvolvimento de projetos de edifícios, contribuindo com processos evolutivos de metodologias BIM (Building Information Modeling) a conceitos BEM (Building Energy Model).`,
     date: '10/05',
       time: '07:15-08:45',
-      place: 'Online'
+      place: 'Online',
+      link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNlNzUwMTItMGM3OS00NTczLThkYmEtNTM2ZjFiOGYxOWY4%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
     
   },
   {
@@ -264,6 +266,7 @@ let Palestras = [
     date: "09/05",
     time: "19:00-20:30",
     place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzNkNzk4YzgtY2VhOC00M2M0LWEyZDEtMWY0YzZlNjcwYmMy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   },
 
   { 
@@ -360,7 +363,8 @@ let Palestras = [
     desc: `Esta palestra é um caso real de como utilizar o BigQuery como Data Warehouse de alto desempenho com ingestão de dados real-time usando CDC (Change Data Capture) para impacto mínimo nos bancos de dados de produção e baixo custo.`,
     date: '08/05',
     time: '17:00-18:30',
-    place: 'Online'
+    place: 'Online',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMzZDY1ZjAtZTY0Yi00MDU1LTg0ZjUtMDE1Yjk5M2I1Yjcx%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   
   },
   {
@@ -370,7 +374,7 @@ let Palestras = [
     desc: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
     date: '09/05',
     time: '17:00-18:30',
-    place: 'Youtube',
+    place: 'Online',
     link: "https://www.youtube.com/watch?v=JtRUBz5-F7A"
   },
   {
@@ -392,6 +396,18 @@ let Palestras = [
     time: '10:30-12:00',
     place: 'Online',
     link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmMwZDk2YjMtZDljNC00NTZlLTllN2QtMTBkMjA3Njg5ODJk%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  
+  },
+
+  {
+    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    instructor: 'Rener Baptista',
+    institution: 'iNexxus Global (USA)',
+    desc: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
+    date: '10/05',
+    time: '19:00-20:30',
+    place: 'Online',
+    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   
   },
 
