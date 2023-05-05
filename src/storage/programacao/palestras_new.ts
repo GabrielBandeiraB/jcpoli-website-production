@@ -171,7 +171,7 @@ let Palestras = [
   },
   {
     title: "Projeto Pormade Móvel",
-    instructor: "Marília Teixeira",
+    instructor: "Representante da Pormade Portas ",
     institution: "Pormade Portas",
     desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
     O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
@@ -180,7 +180,7 @@ let Palestras = [
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
     `,
     date: "09/05",
-    time: "08:00-11:30",
+    time: "09:00-10:30",
     place: "Auditório Marisa Roriz (Área III)",
   },
 
@@ -196,8 +196,8 @@ let Palestras = [
   },
   {
     title: "CRÔNICAS DO IGPA",
-    instructor: "Henrique Sanábio Vilela",
-    institution: "Frederico Mael e Marcos Costa de Freitas",
+    instructor: "Frederico Mael e Marcos Costa de Freitas",
+    institution: "PUC Goiás",
     desc: `O IGPA possui um acervo muito vasto, para cada peça há uma história, às vezes uma aventura perigosa, às vezes uma história engraçada. Assim, parte da "vida" dos artefatos está nessas histórias que expandem os seus sentidos. Nessa proposta vamos valorizar as crônicas e expor algumas peças do acervo. 
     Faremos uma apresentação breve de alguns cortes de vídeos que retratam momentos de produção de registros do acervo. Os relatos das crônicas do trabalho de campo serão trabalhados ao longo da projeção.
     `,
@@ -206,8 +206,7 @@ let Palestras = [
     place: "Presencial: Auditório 3",
   },
   {
-    title:
-      "A IMAGEM DOS POVOS ORIGINÁRIOS BRASILEIROS ",
+    title:"A IMAGEM DOS POVOS ORIGINÁRIOS BRASILEIROS ",
     instructor: "José Alecrim e Marcos Costa de Freitas",
     institution: "Ciranda da Arte - Governo de Goiás e PUC Goiás",
     desc: `Roda de conversa sobre a representação dos povos originários brasileiros. Propõe-se um passeio rápido ao longo da história, cobrindo momentos chave do Brasil colônia até a atualidade. A representação iconográfica, arquétipos e os estereótipos produzidos dos povos originários. O tema será apresentado por duas pessoas na condição de coordenadores da roda de conversa. 
@@ -342,7 +341,8 @@ let Palestras = [
     desc: `Com o aumento das vendas de carros elétricos e híbridos surge a preocupação em relação à infraestrutura elétrica existente, e como faremos para recarregar tantos carros elétricos no futuro, um dos estudos que começou em 2016 pela Nissan e pela Renault foi o chamado "Vehicle-to-grid" (veículo para a rede) ou V2G onde as baterias do carro podem fornecer energia para uma casa ou região por um determinado tempo. A Geração Distribuída-GD tem um papel fundamental na utilização das baterias veiculares para armazenamento de energia (segunda vida útil), porém precisa-se se pensar também em qual será a visão de médio e longo prazo do Setor Elétrico de uma rede de transporte eletrificada.`,
     date: '10/05',
     time: '20:30-22:00',
-    place: 'Online'
+    place: "Online",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQ3OTcwNDMtMTVjYS00YTk3LTg1ZWItMDkwZmMzM2NkNWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   
   },
 
@@ -400,6 +400,61 @@ let Palestras = [
   },
 
   {
+<<<<<<< HEAD
+    title: 'Enade engenharia civil 2023',
+    instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
+    institution: 'PUC Goiás',
+    desc: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil`,
+    date: '08/05',
+    time: '19:00-20:30',
+    place: 'Presencial: Auditório 1'
+  
+  },
+
+  {
+    title: 'Energia Solar Fotovoltaica: Histórico, Desafios e Tendências Tecnológicas da Energia Limpa e Renovável',
+    instructor: 'Gabriel Mendonça de Paiva',
+    institution: 'Photon Energia LTDA',
+    desc: `A energia solar fotovoltaica será abordada sobre aspectos históricos e de perspectivas futuras dos pontos
+    de vista teórico, mercadológico e de oportunidades que podem surgir nas Engenharias relacionadas ao uso da energia solar fotovoltaica e das tecnologias relacionadas`,
+    date: '10/05',
+    time: '09:00-10:00',
+    place: 'Presencial: Auditório 1'
+  
+  },
+
+  {
+    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    instructor: 'Lhiego Rodrigues de Paula',
+    institution: 'Project Management Institute (PMI), Goiás, Go',
+    desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
+    date: '08/05',
+    time: '19:00-20:30',
+    place: 'Online',
+    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJhODNjYTAtNGM5Ni00Y2M5LWJlYWQtY2RjMWI2YzMzNmU1%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  
+  },
+
+  {
+    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    instructor: 'Ivan Lourenço Costa ',
+    institution: 'Project Management Institute (PMI), Goiás, Go',
+    desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
+    date: '08/05',
+    time: '08:00-09:30',
+    place: 'Presencial: Auditório 3'
+  },
+
+  {
+    title: "Desenvolvendo Habilidades Sociais e de Liderança, por meio da Experiência de Monitoria: Celebrando 50 Anos na PUC Goiás",
+   instructor: "Me. Marília Rabelo Holanda Camarano",
+    institution: "PUC Goiás",
+    desc: `Mesa redonda da Monitoria como processo de desenvolvimento de liderança e soft skills, para a o futuro profissional`,
+    date: "10/05",
+    time: '08:00-09:30',
+    place: 'Presencial: Auditório 2',
+  },
+=======
     title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
     instructor: 'Rener Baptista',
     institution: 'iNexxus Global (USA)',
@@ -411,6 +466,7 @@ let Palestras = [
   
   },
 
+>>>>>>> 222b3921a83af2a1ff4f9715c1a4b9ec464dedf1
 ]
 
 const Palestras_Producao = [
