@@ -39,7 +39,7 @@ const Exposicao_Arquitetura = [
 
   {
     title: "Pizzada",
-    instructor: "Prof. Carlos Vaz de Campos",
+    instructor: "",
     institution: "PUC Goiás",
     desc: `Evento de produção de pizzas elaboradas pelos alunos do C.A. de Arquitetura e Urbanismo, e o Prof. Carlos Vaz de Campos`,
     
@@ -47,6 +47,18 @@ const Exposicao_Arquitetura = [
     time: "18:00",
     place: "Anfiteatro da área III",
     image: "assets/img/slider/expo_pizzada.jpg"
+  },
+
+  {
+    title: "Publicação",
+    instructor: "Ana Carolina Amaral Marques e Solange da Silva",
+    institution: "PUC Goiás",
+    desc: `Publicação do livro : Planejamento e controle de obra integrado ao BIM, com foco no processo de conhecimento`,
+    
+    date: "",
+    time: "",
+    place: "",
+    image: "assets/img/slider/Livro_Ana_Carolina.png"
   },
 ]
 

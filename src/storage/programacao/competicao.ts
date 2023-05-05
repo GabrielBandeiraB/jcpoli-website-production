@@ -66,12 +66,10 @@ const Competicao = [
     o que nos une, e contribuir para a integração dos cursos da Escola Politécnica e de Artes da Universidade Católica de Goiás, bem como, com o desenvolvimento da cultura 
     e arte entre a comunidade acadêmica.`,
     inscrevase:"https://forms.office.com/r/tmZtXUnWB0",
-    datainscri: "24 de abril a 3 de maio de 2023",
-    voteaqui:"https://forms.office.com/r/XZmqw2m1Kx",
-    datavote:"8 a 10 de maio de 2023//Local de exibição: Hall da Área 2, entre os Auditórios 2 e 3.",
+    datainscri: "24 de abril a 14 de maio de 2023",
     editais:"/assets/Concurso_Artes.pdf",
     image: "assets/img/slider/expo_foto.jpg",
-    date: "8-10 de maio de 2023",
+    date: "",
     place: "Hall Área 2 PUC",
   },
 

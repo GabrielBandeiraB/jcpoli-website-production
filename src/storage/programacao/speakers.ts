@@ -327,7 +327,7 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'Representante da Pormade Portas - em definição',
+    name: 'Representante da Pormade Portas',
     institution: 'Pormade Portas',
     speaking: 'Projeto Pormade Móvel',
     description: `Desde 1939 a Pormade trabalha para manter a mais alta qualidade de suas portas. A empresa tem um papel marcante na comunidade e na preservação ecológica. Com grandes áreas de florestas plantadas e um parque industrial completo, com 106.000 m² construídos, a Pormade controla a produção das portas desde o seu corte.
@@ -337,7 +337,7 @@ const speakers_jcpoli =
     Ele apresenta em sua carroceria os modelos de portas da Pormade, as estampas dos papéis de parede, piso vinilico, rodapés e fechaduras. Além disso, mesas e cadeiras ficam dispostas próximas aos veículos para que os visitantes conversem com os especificadores e analisem os catálogos.
     A arquitetura dos veículos do projeto conta ainda com uma televisão, na qual vídeos sobre a cultura Pormade são exibidos durante as participações nas feiras.
     O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.`,
-    img: '/assets/img/speakers/user-vector-woman.jpg',
+    img: '/assets/img/speakers/pormade-portas.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -665,10 +665,12 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'Marta Pereira da Luz.',
+    name: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
     institution: 'PUC Goiás.',
     speaking: 'Enade engenharia civil 2023',
-    description: `Pós doutorado em geotecnia e construções sustentáveis. Pesquisadora com bolsa produtividade CNPq. Editora associada da revista soils and rocks. Diretora de eventos técnicos da ABMS. Professora adjunta PUC Goiás.`,
+    description: `Marta Pereira da Luz: Pós doutorado em geotecnia e construções sustentáveis. Pesquisadora com bolsa produtividade CNPq. Editora associada da revista soils and rocks. Diretora de eventos técnicos da ABMS. Professora adjunta PUC Goiás; 
+    ROSANA Melo de Lucas Brandão: Possui graduação em Engenharia pela Pontifícia Universidade Católica de Goiás (1989) e mestrado em Engenharia Civil pela Universidade Federal de Goiás (2007). Atualmente é coordenadora de planejamento e qualidade do Conselho Regional de Engenharia, Arquitetura e Agronomia e professor titular da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Engenharia Civil, com ênfase em Estruturas de Concreto, atuando principalmente nos seguintes temas: levantamento patológico, edificações, patologia, qualidade e SGQ.
+    Benjamim Jorge Rodrigues dos Santos: Possui graduação em Engenharia Civil pela Universidade Federal de Goiás (1981), Licenciatura Plena pelo Centro Federal de Educação Tecnológica de Minas Gerais (1989), mestrado em Engenharia de Transportes pela Escola de Engenharia de São Carlos da Universidade de São Paulo (1992) e doutorado em Engenharia de Transportes pela Escola Politécnica da Universidade de São Paulo (1998). Atualmente é professor titular da Pontifícia Universidade Católica de Goiás e professor de ensino superior da Universidade Estadual de Goiás. Tem experiência na área de Engenharia de Transportes, com ênfase em Infra-estrutura de Transportes, atuando principalmente nos seguintes temas: projeto de rodovias, hidrovias e aeroportos, transporte urbano, engenharia de tráfego e segurança no transito.`,
     subjectResume: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil.`,
     img: '/assets/img/speakers/marta-pereira-da-luz.jpg',
     customSize: '100%',
@@ -676,6 +678,21 @@ const speakers_jcpoli =
       date: '08/05',
       time: '19:00-20:30',
       place: 'Presencial: Auditório 1'
+  }
+  },
+
+  {
+    name: 'Gabriel Mendonça de Paiva',
+    institution: 'Photon Energia LTDA',
+    speaking: 'Energia Solar Fotovoltaica: Histórico, Desafios e Tendências Tecnológicas da Energia Limpa e Renovável',
+    description: `Engenheiro Eletricista graduado na Universidade Federal de Goiás (UFG) (2013), Especialista em Projetos de Engenharia Elétrica pelo IPOG (2015), Mestre (2016) e Doutor (2021) em Engenharia Elétrica pela UFG com período sanduíche no Politecnico di Milano.
+    É engenheiro eletricista na Companhia Nacional de Abastecimento e sócio da Photon Engenharia, onde desenvolveu aproximadamente 100 projetos e 3 MWp de potência instalada de sistemas fotovoltaicos conectados à rede elétrica em Goiás e DF - Projetos Executivos, Orçamentos, Suprimentos e Gestão de Obras de Mini e Microgeração.`,
+    img: '/assets/img/speakers/gabriel-mendonça-de-paiva.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '10/05',
+      time: '09:00-10:00',
+      place: 'Presencial: Auditório 1 '
   }
   },
 
@@ -732,7 +749,8 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '20:30-22:00',
-      place: 'Online'
+      place: 'Online',
+      link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQ3OTcwNDMtMTVjYS00YTk3LTg1ZWItMDkwZmMzM2NkNWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
 
@@ -757,7 +775,7 @@ const speakers_jcpoli =
     speaking: 'IARA: Centro de Pesquisa Aplicada em Inteligência Artificial para Cidades Inteligentes',
     description: `Professor Titular do Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP), campus São Carlos, Bolsista de Produtividade em Pesquisa 1A do CNPq e Vice-Presidente da Sociedade Brasileira de Computação (SBC). É coordenador da rede IARA, Inteligência Artificial Recriando Ambientes. Foi membro do Comitê de Assessoramento de Ciência da Computação do CNPq (CA-CC), de 2018 a 2021 (coordenador de 2019 a 2020). De 2013 a 2017 foi membro do conselho da International Association for Statistical Computing (IASC), do International Institute of Statistics. Possui Bacharelado (1987) e Mestrado em Ciência da Computação (1990) pela Universidade Federal de Pernambuco, e doutorado em Electronic Engineering pela University of Kent (1994). Seus principais interesses de pesquisa são Aprendizado de Máquina, Mineração de Dados e Ciência de Dados, com aplicações em várias áreas. Publicou vários artigos nessas áreas, alguns deles premiados em conferências organizadas por ACM, IEEE and SBC. Escreveu vários livros, entre eles Inteligência Artificial: Uma abordagem de Aprendizado de Máquina, publicado pelo GrupoGen em 2011 e prêmio Jabuti 2012, e A General Introduction to Data Analytics, publicado pela Wiley, em 2018. Foi Professor Associado na University of Guelph, Canada. Foi ainda Professor Visitante na University of Kent e Pesquisador Visitante na University of Kent e no Alan Turing Institute, UK. Avalia projetos para agências de fomento a pesquisa nacionais, CAPES, CNPq, FAPESP, FACEPE, FAPEMIG e Fundação Serrapilheira, e internacionais, NSERC (Canada), The Leverhulme Trust (Reino Unido), EPSRC Reino Unido), GACR (República Checa), CONICYT (Chile), Croatian Science Foundation (Croácia) e MIUR (Itália). É Diretor do ICMC-USP e do Centro de Ciências Matemáticas Aplicadas à Indústria da USP. É ainda Vice-Coordenador do MBA em Ciência de Dados do ICMC-USP. , do Conselho Consultivo da Rede MCTI-EMBRAPII de Inovação em Inteligência Artificial (IA), da Rede Ciência para Educação (CpE), do Comitê Diretivo para América Latina e Caribe da International Network for Government Science Advice (INGSA), do Conselho Universitário da Universidade de São Paulo e do Comitê Científico do Advanced Institute for Artificial Intelligence (AI2), do Strategy and Partnerships Board of the UKRI Centre for Doctoral Training in Accountable, Responsible and Transparent AI (ART-AI), at University of Bath, UK. Membro associado da Artificial Intelligence Institute - Te Ipu o te Mahara da University of Waikato, Nova Zelândia e do Grupo de Governança da Estratégia Brasileira de Inteligência Artificial (EBIA) do Ministério de Ciência, Tecnologia e Inovações, do Conselho Tecnológico da Associação Gestora de Fundo Patrimonial Chronos (?CHRONOS?) e do Comitê de Governança do Indicações Geográficas (IG) São Carlos. Foi membro do Conselho Técnico Científico da Escola de Matemática Aplicada da Fundação Getúlio Vargas (EMAp-FGV) de 2018 a 2020.`,
     subjectResume: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
-    img: '/assets/img/speakers/.jpg',
+    img: '/assets/img/speakers/andre-carlos-ponce-de-leon-ferreira-de-carvalho.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',

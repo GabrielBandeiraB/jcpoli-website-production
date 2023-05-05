@@ -61,9 +61,9 @@ export const Anais = [
 /*Exportar aqui os anais da JCPOLI V, para exportar os anais da JCPOLIVI criar outro export e referenciar esse export em Anais.VUE*/
 export const Anais2 = [
   {
-    title: 'ANÁLISE DE IMAGENS PARA A QUANTIFICAÇÃO DE COLÔNIAS DE BACTÉRIAS',
-    autor: 'Silva, E. R.',
-    path: '/assets/anais/Image Analysis for Quantifying Bacterial Colonies.pdf'    
+    title: 'PLANEJAMENTO E CONTROLE DE OBRA INTEGRADO AO BIM, COM FOCO NO PROCESSO DE CONHECIMENTO',
+    autor: 'MARQUES, A. C. A.',
+    path: 'https://studiespublicacoes.com.br/cat.php?bk=VDQ2zh9Z9288v5lHuXE1G4jyaS60Wr37'
   },
     
 ]
