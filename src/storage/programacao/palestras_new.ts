@@ -400,7 +400,6 @@ let Palestras = [
   },
 
   {
-<<<<<<< HEAD
     title: 'Enade engenharia civil 2023',
     instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
     institution: 'PUC Goiás',
@@ -454,7 +453,7 @@ let Palestras = [
     time: '08:00-09:30',
     place: 'Presencial: Auditório 2',
   },
-=======
+  {
     title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
     instructor: 'Rener Baptista',
     institution: 'iNexxus Global (USA)',
@@ -466,7 +465,6 @@ let Palestras = [
   
   },
 
->>>>>>> 222b3921a83af2a1ff4f9715c1a4b9ec464dedf1
 ]
 
 const Palestras_Producao = [
