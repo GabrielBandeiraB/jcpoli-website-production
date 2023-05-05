@@ -1,7 +1,7 @@
 const Exposicao_Design = [
   {
     title: "Pormade Portas Showroom de materiais e equipamentos",
-    instructor: "Marília Teixeira",
+    instructor: "",
     institution: "PUC Goiás",
     desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
 

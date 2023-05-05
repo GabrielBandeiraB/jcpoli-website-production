@@ -61,6 +61,15 @@ export const Anais = [
 /*Exportar aqui os anais da JCPOLI V, para exportar os anais da JCPOLIVI criar outro export e referenciar esse export em Anais.VUE*/
 export const Anais2 = [
   {
+    title: '',
+    autor: '',
+    path: ''
+  },
+    
+]
+
+export const livros = [
+  {
     title: 'PLANEJAMENTO E CONTROLE DE OBRA INTEGRADO AO BIM, COM FOCO NO PROCESSO DE CONHECIMENTO',
     autor: 'MARQUES, A. C. A.',
     path: 'https://studiespublicacoes.com.br/cat.php?bk=VDQ2zh9Z9288v5lHuXE1G4jyaS60Wr37'
