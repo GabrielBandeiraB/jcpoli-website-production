@@ -400,6 +400,7 @@ let Palestras = [
   },
 
   {
+<<<<<<< HEAD
     title: 'Enade engenharia civil 2023',
     instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
     institution: 'PUC Goiás',
@@ -453,6 +454,19 @@ let Palestras = [
     time: '08:00-09:30',
     place: 'Presencial: Auditório 2',
   },
+=======
+    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    instructor: 'Rener Baptista',
+    institution: 'iNexxus Global (USA)',
+    desc: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
+    date: '10/05',
+    time: '19:00-20:30',
+    place: 'Online',
+    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  
+  },
+
+>>>>>>> 222b3921a83af2a1ff4f9715c1a4b9ec464dedf1
 ]
 
 const Palestras_Producao = [
