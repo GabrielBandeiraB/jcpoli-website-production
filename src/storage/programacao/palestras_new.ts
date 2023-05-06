@@ -78,24 +78,22 @@ let Palestras = [
     instructor: "Patrick Morais de Souza Lima",
     institution: "Gerente de Engenharia e Qualidade de Software na GFT Technologies",
     desc: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
-    date: "10/05",
-    time: "19:00-20:30",
-    place: "Presencial: Auditório 3",
+    date: "09/05",
+    time: "20:30-22:00",
+    place: "Presencial: Auditório 1",
   },
 
   {
     title:"Concursos de Projeto",
     instructor: "Rangel Henrique Brandão Silva, Frederico André Rabelo e Guilherme de Andrade Bento",
-    institution:
-      "Rangel Henrique Brandão Silva - UEG e RGB Estúdio, Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio, Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio",
+    institution: "Rangel Henrique Brandão Silva - UEG e RGB Estúdio, Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio, Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio",
     desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
     date: "09/05",
     time: "08:00-10:00",
     place: "Presencial: Auditório 1",
   },
   {
-    title:
-      "Estudos de Impactos Urbanos e Engenharia de Tráfego",
+    title: "Estudos de Impactos Urbanos e Engenharia de Tráfego",
     instructor: "Evelyn Cristine Moreira Soares",
     institution: "PUC Goiás",
     desc: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
@@ -203,7 +201,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 3",
+    place: "Presencial: Auditório 1",
   },
   {
     title:"A IMAGEM DOS POVOS ORIGINÁRIOS BRASILEIROS ",
@@ -283,9 +281,9 @@ let Palestras = [
     instructor: 'Camila Christina Moreira.',
     institution: 'Accenture Brasil.',
     desc: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`, 
-    date: '10/05',
+    date: '08/05',
     time: '20:30-22:00',
-    place: 'Presencial: Auditório 2'
+    place: 'Presencial: Auditório 1'
    },
   
 
@@ -406,7 +404,7 @@ let Palestras = [
     desc: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil`,
     date: '08/05',
     time: '19:00-20:30',
-    place: 'Presencial: Auditório 1'
+    place: 'Presencial: Auditório 2'
   
   },
 
@@ -441,29 +439,40 @@ let Palestras = [
     desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
     date: '08/05',
     time: '08:00-09:30',
-    place: 'Presencial: Auditório 3'
+    place: 'Presencial: Auditório 3',
+    warning: "CANCELADA"
   },
 
   {
     title: "Desenvolvendo Habilidades Sociais e de Liderança, por meio da Experiência de Monitoria: Celebrando 50 Anos na PUC Goiás",
-   instructor: "Me. Marília Rabelo Holanda Camarano",
+   instructor: "Marília Rabelo Holanda Camarano",
     institution: "PUC Goiás",
     desc: `Mesa redonda da Monitoria como processo de desenvolvimento de liderança e soft skills, para a o futuro profissional`,
     date: "10/05",
     time: '08:00-09:30',
     place: 'Presencial: Auditório 2',
   },
-  /*
-    title: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção',
-    instructor: 'Rener Baptista',
-    institution: 'iNexxus Global (USA)',
-    desc: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
-    date: '10/05',
-    time: '19:00-20:30',
-    place: 'Online',
-    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
-  
+
+  /*{
+    title: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
+    instructor: '',
+    institution: '',
+    desc: `Apresentação dos artigos e resumos expandidos na II JCPOLI`,
+    date: '09/05',
+    time: '10:45-12:15',
+    place: 'Presencial: Auditório Marisa Roriz (Área III)'
+    
   },*/
+
+  {
+    title: "Apresentação dos artigos e resumos expandidos na II JCPOLI",
+    instructor: "LUIZ ÁLVARO",
+    institution: "PUC Goiás",
+    desc: "Apresentação dos artigos e resumos expandidos na II JCPOLI",
+    date: "09/05",
+    time: "10:45-12:15",
+    place: "Auditório Marisa Roriz (Área III)",
+  },
 
 ]
 

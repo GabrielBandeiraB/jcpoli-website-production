@@ -17,7 +17,7 @@ const speakers_jcpoli =
     customSize: '100%',
     datentime: {
       date: '09/05',
-      time: '14:30-17:30',
+      time: '14:00-18:00',
       place: 'Online: Microsoft Teams'
     }
   },
@@ -172,9 +172,9 @@ const speakers_jcpoli =
     img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
-      date: '10/05',
-      time: '19:00-20:30',
-      place: 'Presencial: Auditório 3'
+      date: '09/05',
+      time: '20:30-22:00',
+      place: 'Presencial: Auditório 1'
     }
   },
 
@@ -373,9 +373,9 @@ const speakers_jcpoli =
     img: '/assets/img/speakers/user-vector-man.jpg',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '10:00-11:30',
-      place: 'Presencial: Auditório Marisa Roriz (Área III)'
+      date: '08/05',
+      time: '20:30-22:00',
+      place: 'Presencial: Auditório 1'
     }
   },
 
@@ -486,7 +486,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '20:30-22:00',
-      place: 'Presencial: Auditório 2'
+      place: 'Presencial: Auditório 1'
    }
   },
 
@@ -598,8 +598,8 @@ const speakers_jcpoli =
     img: '/assets/img/slider/introdução-ao-git-github.jpg',
     customSize: '100%',
     datentime: {
-      date: '08/05',
-      time: '19:00-21:00',
+      date: '10/05',
+      time: '17:00-19:00',
       place: 'Presencial: Laboratório 101, bloco C, área II'
   }
   },
@@ -620,7 +620,7 @@ const speakers_jcpoli =
   },
 
   {
-    name: 'Profa. Me. Marília Rabelo Holanda Camarano',
+    name: 'Marília Rabelo Holanda Camarano',
     institution: 'PUC Goiás',
     speaking: 'Desenvolvendo Habilidades Sociais e de Liderança, por meio da Experiência de Monitoria: Celebrando 50 Anos na PUC Goiás',
     description: `Professora da Unidade Acadêmica de Fonoaudiologia da Pontifícia Universidade Católica de Goiás, nas disciplinas de Audição na Infância e na Adolescência, Audiologia Clínica I e II, Estágios Supervisionados em Audiologia, Otorrinolaringologia Aplicado à Fonoaudiologia e Metodologia do Trabalho Científico. Orienta Trabalho de Conclusão de Curso e Iniciação Científica. Atua na Educação Inclusiva. Atualmente é coordenadora da Coordenação de Estágio, Monitoria, Egressos e Empresa Juniores vinculada a Pró-Reitoria de Graduação da PUC Goiás. Membro do Núcleo Estruturante Docente do curso de Fonoaudiologia. Possui Mestrado (2003) em Ciências de Saúde pela Universidade de Brasília. É especialista (2010) em Saúde da Família pela Universidade Federal de Goiás - UFG. Especialização (1998) em Audiologia Clínica e Ocupacional pela Universidade de Franca/SP. Licenciatura em Português (2010) pela Universidade Estadual do Vale do Acaraú - UEVA. Membro Efetivo do Conselho Editorial da Revista Eletrônica Ciência e Saúde/CEAFI. Atua principalmente na docência, pesquisa e gestão no ensino superior.`,
@@ -677,7 +677,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 1'
+      place: 'Presencial: Auditório 2'
   }
   },
 
@@ -798,4 +798,19 @@ const speakers_jcpoli =
       place: 'Presencial: Auditório 1'
   }
   },
+
+  /*{
+    name: '',
+    institution: '',
+    speaking: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
+    description: ``,
+    subjectResume: `Apresentação dos artigos e resumos expandidos na II JCPOLI`,
+    img: '/assets/img/speakers/.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '10:45-12:15',
+      place: 'Presencial: Auditório Marisa Roriz (Área III)'
+  }
+  },*/
 ]

@@ -71,7 +71,7 @@ export const Anais2 = [
 export const livros = [
   {
     title: 'PLANEJAMENTO E CONTROLE DE OBRA INTEGRADO AO BIM, COM FOCO NO PROCESSO DE CONHECIMENTO',
-    autor: 'MARQUES, A. C. A.',
+    autor: `MARQUES, A. C. A. & SILVA, S.`,
     path: 'https://studiespublicacoes.com.br/cat.php?bk=VDQ2zh9Z9288v5lHuXE1G4jyaS60Wr37'
   },
     

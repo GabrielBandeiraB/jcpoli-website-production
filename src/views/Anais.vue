@@ -98,7 +98,7 @@ export default class anais extends Vue {
 tr,
 a,
 td {
-  font-size: 1.3rem;
+  font-size: 1.7rem;
   text-transform: uppercase;
 }
 

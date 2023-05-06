@@ -23,9 +23,7 @@
             <img :src="comp.image" id="maratona-photo" />
 
             <div class="desc-text">
-              <P>
-                {{ comp.desc }}
-              </P>
+              <p v-html= comp.desc ></p>
               <h5 :title="comp.instructor">Instrutor: {{ comp.instructor }}</h5>
               <h6 class="patrocinador" v-if="comp.patrocinador">
                 Patrocinador: {{ comp.patrocinador }}
@@ -41,13 +39,20 @@
                 {{comp.datainscri}}
                 </p>
               </div>
-              <div v-if="comp.voteaqui">
+              <div v-if="comp.comissjulgadora">
                 <p> 
                   <v-btn 
                   color="primary"
-                  :href="comp.voteaqui">vote aqui
+                  :href="comp.comissjulgadora">comissão julgadora
                 </v-btn>
-                {{comp.datavote}}
+                </p>
+              </div>
+              <div v-if="comp.editprorog">
+                <p> 
+                  <v-btn 
+                  color="primary"
+                  :href="comp.editprorog">Edital de prorrogação da inscrição
+                </v-btn>
                 </p>
               </div>
               <div v-if="comp.editais">

@@ -55,9 +55,9 @@ const Exposicao_Arquitetura = [
     institution: "PUC Goiás",
     desc: `Publicação do livro : Planejamento e controle de obra integrado ao BIM, com foco no processo de conhecimento`,
     
-    date: "",
-    time: "",
-    place: "",
+    date: "09/05",
+    time: "19:00",
+    place: "Auditório Marisa Roriz (Área III)",
     image: "assets/img/slider/Livro_Ana_Carolina.png"
   },
 ]
