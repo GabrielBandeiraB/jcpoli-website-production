@@ -169,7 +169,7 @@ const speakers_jcpoli =
     speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
     description: `Me chamo Patrick Morais, sou Goiano, possuo mais de 12 anos na área de TI. Sou bacharel em Ciência da Computação pela PUC, Especialista em Gestão de Projetos de TI pela USP, Diplomado em liderança e tecnologia pelo Tecnólogico de Monterrey no México, atualmente QA Manager no grupo GFT. Falo sobre tecnologia e migração de carreiras e nas horas vagas gosto de me dedicar aos esportes radicais.`,
     subjectResume: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
-    img: '/assets/img/speakers/user-vector-man.jpg',
+    img: '/assets/img/speakers/patrick-morais-de-souza-lima.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -595,7 +595,7 @@ const speakers_jcpoli =
     Mestrando em Engenharia de Produção e Sistemas
     Trabalho há 18 anos na área de distribuição de energia`,
     subjectResume: `Como usar o Git/Github? Minicurso presencial, porém com gravação pelo Teams.`,
-    img: '/assets/img/slider/introdução-ao-git-github.jpg',
+    img: '/assets/img/speakers/milton-de-assis-ribeiro-neto.jpg',
     customSize: '100%',
     datentime: {
       date: '10/05',
@@ -672,7 +672,7 @@ const speakers_jcpoli =
     ROSANA Melo de Lucas Brandão: Possui graduação em Engenharia pela Pontifícia Universidade Católica de Goiás (1989) e mestrado em Engenharia Civil pela Universidade Federal de Goiás (2007). Atualmente é coordenadora de planejamento e qualidade do Conselho Regional de Engenharia, Arquitetura e Agronomia e professor titular da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Engenharia Civil, com ênfase em Estruturas de Concreto, atuando principalmente nos seguintes temas: levantamento patológico, edificações, patologia, qualidade e SGQ.
     Benjamim Jorge Rodrigues dos Santos: Possui graduação em Engenharia Civil pela Universidade Federal de Goiás (1981), Licenciatura Plena pelo Centro Federal de Educação Tecnológica de Minas Gerais (1989), mestrado em Engenharia de Transportes pela Escola de Engenharia de São Carlos da Universidade de São Paulo (1992) e doutorado em Engenharia de Transportes pela Escola Politécnica da Universidade de São Paulo (1998). Atualmente é professor titular da Pontifícia Universidade Católica de Goiás e professor de ensino superior da Universidade Estadual de Goiás. Tem experiência na área de Engenharia de Transportes, com ênfase em Infra-estrutura de Transportes, atuando principalmente nos seguintes temas: projeto de rodovias, hidrovias e aeroportos, transporte urbano, engenharia de tráfego e segurança no transito.`,
     subjectResume: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil.`,
-    img: '/assets/img/speakers/marta-pereira-da-luz.jpg',
+    img: '/assets/img/speakers/rosana-beijamin-marta.jpg',
     customSize: '100%',
     datentime: {
       date: '08/05',
@@ -780,7 +780,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '17:00-18:30',
-      place: 'Online'
+      place: 'Online: YouTube'
   }
   },
 
@@ -799,18 +799,6 @@ const speakers_jcpoli =
   }
   },
 
-  /*{
-    name: '',
-    institution: '',
-    speaking: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
-    description: ``,
-    subjectResume: `Apresentação dos artigos e resumos expandidos na II JCPOLI`,
-    img: '/assets/img/speakers/.jpg',
-    customSize: '100%',
-    datentime: {
-      date: '09/05',
-      time: '10:45-12:15',
-      place: 'Presencial: Auditório Marisa Roriz (Área III)'
-  }
-  },*/
+  
+
 ]

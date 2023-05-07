@@ -372,7 +372,7 @@ let Palestras = [
     desc: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
     date: '09/05',
     time: '17:00-18:30',
-    place: 'Online',
+    place: 'Online: YouTube',
     link: "https://www.youtube.com/watch?v=JtRUBz5-F7A"
   },
   {
@@ -433,14 +433,16 @@ let Palestras = [
   },
 
   {
-    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
+    title: '',
     instructor: 'Ivan Lourenço Costa ',
     institution: 'Project Management Institute (PMI), Goiás, Go',
     desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
     date: '08/05',
     time: '08:00-09:30',
     place: 'Presencial: Auditório 3',
-    warning: "CANCELADA"
+    warning: "A carreira do profissional de gestão de projetos - desafios e oportunidades CANCELADA ",
+    
+
   },
 
   {
@@ -453,22 +455,12 @@ let Palestras = [
     place: 'Presencial: Auditório 2',
   },
 
-  /*{
-    title: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
-    instructor: '',
-    institution: '',
-    desc: `Apresentação dos artigos e resumos expandidos na II JCPOLI`,
-    date: '09/05',
-    time: '10:45-12:15',
-    place: 'Presencial: Auditório Marisa Roriz (Área III)'
-    
-  },*/
 
   {
     title: "Apresentação dos artigos e resumos expandidos na II JCPOLI",
-    instructor: "LUIZ ÁLVARO",
+    instructor: "Matheus Fernandes, Estevão Cavalcante e Hianka Rodrigues",
     institution: "PUC Goiás",
-    desc: "Apresentação dos artigos e resumos expandidos na II JCPOLI",
+    desc: "Apresentação dos artigos aceitos na II JCPOLI: Artigo:  Predição da precificação de commodities pecuárias utilizando redes neurais artificiais Autor(a): Matheus Fernandes. Artigo: Análise preditiva com redes neurais convolucionais para o geoprocessamento de imagens Autor(a): Estevão Cavalcante. Artigo: Uso das normas NBR ISO/IEC 27017 e 27018 para garantir a segurança da computação em nuvem Autor(a): Hianka Rodrigues",
     date: "09/05",
     time: "10:45-12:15",
     place: "Auditório Marisa Roriz (Área III)",

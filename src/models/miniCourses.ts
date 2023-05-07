@@ -24,7 +24,7 @@ let Courses = [
   },
 
   {
-    title: "Introdução a Python.",
+    title: "Introdução a Python",
     instructor: 'Eugenio José Moura Neto',
     institution: 'Aluno da PUC Goiás.',
     desc: `Iniciação à linguagem de programação Python. Vagas limitadas a 20 alunos.`,
@@ -48,7 +48,7 @@ let Courses = [
   {
     title: "Introdução a Estrutura de Dados em Python",
     instructor: 'Daniel Ribeiro de Brito',
-    institution: 'PUC Goiás',
+    institution: 'Aluno da PUC Goiás',
     desc: `Este minicurso é uma continuação do curso de Introdução a Python. Serão vistas estruturas de dados simples utilizando a linguagem Python.`,
     date: '10/05',
     time: '14:00-16:00',
