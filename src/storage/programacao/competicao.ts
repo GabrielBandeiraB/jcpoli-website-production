@@ -43,7 +43,7 @@ const Competicao = [
   editais:"/assets/Edital-CodeCraft-2023-1.pdf",
   date: " 08 a 10/05/2023",
   time: "A partir de 18:45",
-  place: "Laboratórios 101 a 105C (somente no dia 10/05, das 18h45 às 22h)",
+  place: "Auditório 1 (Área II) e Laboratórios 101 a 105C (somente no dia 10/05, das 18h45 às 22h)",
   image: "assets/img/slider/codecraft.jpg"
   },
 
