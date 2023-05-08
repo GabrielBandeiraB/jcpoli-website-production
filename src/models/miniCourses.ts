@@ -9,6 +9,7 @@ let Courses = [
     date: "09/05",
     time: "14:00-18:00",
     place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MWUzMzEwYjQtOTliZC00Zjc0LTk5NGItMmM1NWZmNzM2YTdk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252273319f42-8908-4b89-9f8d-558cf4d5d776%2522%252c%2522Oid%2522%253a%25224d5d6768-2ee9-4adc-ac86-4da09deed785%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d5ded907-37d1-4a3c-b2f5-6ac85819b99e&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
   }, 
   {
     title: "Ferramentas computacionais para o desenho de projeto de arquitetura",
@@ -52,7 +53,7 @@ let Courses = [
     desc: `Este minicurso é uma continuação do curso de Introdução a Python. Serão vistas estruturas de dados simples utilizando a linguagem Python.`,
     date: '10/05',
     time: '14:00-16:00',
-    place: 'Presencial:Laboratório 105, bloco C, área II'
+    place: 'Presencial: Laboratório 105, bloco C, área II'
 
   },
 ]
