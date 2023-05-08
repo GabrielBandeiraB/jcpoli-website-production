@@ -6,7 +6,7 @@ let Palestras = [
     desc: `Processo construtivo da parede de concreto e produtividade.`,
     date: "09/05",
     time: '08:00-09:30',
-    place: 'Presencial: Auditório 3',
+    place: 'Auditório 3 (Área II)',
     
    },
   {
@@ -27,7 +27,7 @@ let Palestras = [
     desc: "A engenharia de segurança no Agronegócio é importante para garantir a segurança dos trabalhadores e do ambiente de trabalho, bem como para aumentar a eficiência e a produtividade das atividades agrícolas. Conta com planejamento de medidas de prevenção e controle de incêndios nas áreas de plantio e armazenamento de produtos agrícolas, Desenvolvimento de estratégias para prevenção de acidentes com máquinas agrícolas, Implantação de medidas de segurança alimentar, como a adoção de boas práticas agrícolas e o controle de qualidade dos alimentos produzidos, Projeto de instalações de armazenamento de produtos agrícolas seguras e eficientes, incluindo sistemas de ventilação e controle de temperatura.",
     date: "09/05",
     time: "08:00-09:30",
-    place: "Presencial: Auditório 2",
+    place: "Auditório 2 (Área II)",
   },
   {
     title: "Controle fitossanitário em hortaliças",
@@ -37,7 +37,7 @@ let Palestras = [
     ,
     date: "08/05",
     time: "08:00-09:30",
-    place: 'Presencial: Auditório 2',
+    place: 'Auditório 2 (Área II)',
   },
   {
     title: "Uso de drones para liberação de macrobiológicos ",
@@ -50,7 +50,7 @@ let Palestras = [
     `,
     date: "08/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 2",
+    place: "Auditório 2 (Área II)",
   },
   {
     title: "Durabilidade de Geossintéticos",
@@ -70,7 +70,7 @@ let Palestras = [
     desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
     date: "10/05",
     time: '10:00-11:30',
-    place: "Presencial: Auditório 2",
+    place: "Auditório 2 (Área II)",
   },
 
   {
@@ -80,7 +80,7 @@ let Palestras = [
     desc: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
     date: "09/05",
     time: "20:30-22:00",
-    place: "Presencial: Auditório 1",
+    place: "Auditório 1 (Área II)",
   },
 
   {
@@ -90,7 +90,7 @@ let Palestras = [
     desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
     date: "09/05",
     time: "08:00-10:00",
-    place: "Presencial: Auditório 1",
+    place: "Auditório 1 (Área II)",
   },
   {
     title: "Estudos de Impactos Urbanos e Engenharia de Tráfego",
@@ -99,7 +99,7 @@ let Palestras = [
     desc: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
     date: "08/05",
     time: "19:00-20:30",
-    place: "Presencial: Auditório 3",
+    place: "Auditório 3 (Área II)",
   },
   {
     title: "Sistema Agroflorestal Biodiverso no Cerrado: Princípios e Dinâmicas",
@@ -113,7 +113,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 2",
+    place: "Auditório 2 (Área II)",
     },
 
   {
@@ -154,7 +154,7 @@ let Palestras = [
     desc: `Discussões a respeito da realização de projeto de pesquisa e de cursos de pós-graduação ligados aos cursos da Escola Politécnica e de Artes.`,
     date: "09/05",
     time: "19:00-20:30",
-    place: "Presencial: Auditório 2",
+    place: "Auditório 2 (Área II)",
   },
   
   {
@@ -201,7 +201,7 @@ let Palestras = [
     `,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 1",
+    place: "Auditório 1 (Área II)",
   },
   {
     title:"A IMAGEM DOS POVOS ORIGINÁRIOS BRASILEIROS ",
@@ -211,7 +211,7 @@ let Palestras = [
     `,
     date: "10/05",
     time: "08:00-09:30",
-    place: "Presencial: Auditório 3",
+    place: "Auditório 3 (Área II)",
   },
 
   {
@@ -231,7 +231,7 @@ let Palestras = [
     desc: `A Oficina Damata é uma marcenaria com foco em trabalhos em madeira, não uma Indústria. Aqui as peças são produzidas a partir de técnicas de marcenaria tradicional. Penso em peças que tragam conexão! Desejo que a textura, a cor, o cheiro, de cada cadeira, banco ou mesa, que você se sentará para sua refeição ou trabalho, te levem a vivências e lembranças.`,
     date: "10/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 3",
+    place: "Auditório 3 (Área II)",
   },
 
   {
@@ -241,7 +241,7 @@ let Palestras = [
     desc: `Explorar-se-á a evolução, implicações sociais e éticas, além das oportunidades e desafios das Inteligências Artificiais Generativas, apresentando reflexões importantes para a área de Engenharia de Computação.`,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Presencial: Auditório 3",
+    place: "Auditório 3 (Área II)",
   },
 
   {
@@ -273,7 +273,7 @@ let Palestras = [
     desc: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`, 
     date: '09/05',
     time: '19:00-20:30',
-    place: 'Presencial: Auditório 3'
+    place: 'Auditório 3 (Área II)'
    },
   
   { 
@@ -283,7 +283,7 @@ let Palestras = [
     desc: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`, 
     date: '08/05',
     time: '20:30-22:00',
-    place: 'Presencial: Auditório 1'
+    place: 'Auditório 1 (Área II)'
    },
   
 
@@ -382,7 +382,7 @@ let Palestras = [
     desc: `Cidades inteligentes, ou smart cities, são aquelas que utilizam tecnologias avançadas para melhorar a qualidade de vida dos seus habitantes, otimizar a gestão dos serviços públicos e promover a sustentabilidade ambiental e econômica. Essas tecnologias incluem sensores, dispositivos de internet das coisas, sistemas de análise de dados, entre outros, que permitem a coleta e o processamento de informações em tempo real, facilitando a tomada de decisões e a otimização dos recursos.`,
     date: '08/05',
     time: '09:00-10:30',
-    place: 'Presencial: Auditório 1'
+    place: 'Auditório 1 (Área II)'
   
   },
   {
@@ -404,7 +404,7 @@ let Palestras = [
     desc: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil`,
     date: '08/05',
     time: '19:00-20:30',
-    place: 'Presencial: Auditório 2'
+    place: 'Auditório 2 (Área II)'
   
   },
 
@@ -416,7 +416,7 @@ let Palestras = [
     de vista teórico, mercadológico e de oportunidades que podem surgir nas Engenharias relacionadas ao uso da energia solar fotovoltaica e das tecnologias relacionadas`,
     date: '10/05',
     time: '09:00-10:00',
-    place: 'Presencial: Auditório 1'
+    place: 'Auditório 1 (Área II)'
   
   },
 
@@ -439,7 +439,7 @@ let Palestras = [
     desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
     date: '08/05',
     time: '08:00-09:30',
-    place: 'Presencial: Auditório 3',
+    place: 'Auditório 3 (Área II)',
     warning: "A carreira do profissional de gestão de projetos - desafios e oportunidades CANCELADA ",
     
 
@@ -452,7 +452,7 @@ let Palestras = [
     desc: `Mesa redonda da Monitoria como processo de desenvolvimento de liderança e soft skills, para a o futuro profissional`,
     date: "10/05",
     time: '08:00-09:30',
-    place: 'Presencial: Auditório 2',
+    place: 'Auditório 2 (Área II)',
   },
 
 

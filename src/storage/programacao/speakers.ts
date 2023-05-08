@@ -48,7 +48,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
     }
   },
 
@@ -94,7 +94,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -109,7 +109,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -127,7 +127,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -159,7 +159,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -174,7 +174,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '20:30-22:00',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
     }
   },
 
@@ -191,7 +191,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '08:00-10:00',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
     }
   },
 
@@ -210,7 +210,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
     }
   },
 
@@ -229,7 +229,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -278,7 +278,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '19:00 - 20:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
     }
   },
 
@@ -342,7 +342,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '09:00-10:30',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
     }
   },
 
@@ -375,7 +375,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '20:30-22:00',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
     }
   },
 
@@ -391,7 +391,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
     }
   },
 
@@ -409,7 +409,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
     }
   },
 
@@ -439,7 +439,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '10:00-11:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
     }
   },
 
@@ -486,7 +486,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '20:30-22:00',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
    }
   },
 
@@ -566,7 +566,7 @@ const speakers_jcpoli =
     datentime: {
       date: '09/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
   }
   },
 
@@ -630,7 +630,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
   }
   },
   {
@@ -644,7 +644,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '08:00-09:30',
-      place: 'Presencial: Auditório 3'
+      place: 'Auditório 3 (Área II)'
   }
   },
 
@@ -677,7 +677,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '19:00-20:30',
-      place: 'Presencial: Auditório 2'
+      place: 'Auditório 2 (Área II)'
   }
   },
 
@@ -692,7 +692,7 @@ const speakers_jcpoli =
     datentime: {
       date: '10/05',
       time: '09:00-10:00',
-      place: 'Presencial: Auditório 1 '
+      place: 'Auditório 1 (Área II) '
   }
   },
 
@@ -795,7 +795,7 @@ const speakers_jcpoli =
     datentime: {
       date: '08/05',
       time: '09:00-10:30',
-      place: 'Presencial: Auditório 1'
+      place: 'Auditório 1 (Área II)'
   }
   },
 
