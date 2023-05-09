@@ -466,6 +466,17 @@ let Palestras = [
     place: "Auditório Marisa Roriz (Área III)",
   },
 
+  {
+    title: "Como a Engenharia Mecatrônica contribuiu para a minha atuação em Animação 3D",
+    instructor: "Lavio Ribeiro Fidelis Neto",
+    institution: "Ubisoft Toronto",
+    desc: "A gestão de tempo e projetos foi fundamental para o desenvolvimento das minhas habilidades em animação 3D e transferir essas habilidades para a criação de animações foi natural. Criei um fluxo de trabalho que envolve o planejamento cuidadoso de cada cena e a definição de prazos realistas, garantindo que o resultado final atenda às expectativas do diretor de animação.",
+    date: "09/05",
+    time: "18:00-19:00",
+    place: "Online",
+    link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEzZjk2ZWQtMGFmMi00NjU0LWFlZDUtNjhiMjhhN2E1NzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+  },
+
 ]
 
 const Palestras_Producao = [
