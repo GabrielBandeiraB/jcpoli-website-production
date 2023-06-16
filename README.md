@@ -1,11 +1,9 @@
 # Site da I JCPOLI 2023
 
-TO DO LIST
+para iniciar o código:
 
+npm i -> instalar os módulos de NPM
 
+$env:NODE_OPTIONS = "--openssl-legacy-provider" -> resolver dependencias de pacotes legado.
 
-$env:NODE_OPTIONS = "--openssl-legacy-provider"
-
-npm start so para visualização estática
-
-npm run serve (com dev dependecies / hot reload)
+npm run serve (com dev dependecies / hot reload) -> rodar no local host.
