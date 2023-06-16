@@ -26,7 +26,8 @@ const Competicao = [
   resultados e comunicação dos achados.`,
   inscrevase:"https://forms.office.com/r/0YEy9CJ567",
   datainscri:"08/05 (início às 09:00h) e 09/05(até às 23:59h)",
-  editais:"/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf",
+  editais: "/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf",
+  vencedor:"/assets/ivcienciasdados.pdf",
   date: "",
   time: "",
   place: "",
@@ -72,6 +73,7 @@ const Competicao = [
     editais:"/assets/Concurso_Artes.pdf",
     image: "assets/img/slider/expo_foto.jpg",
     date: "",
+    vencedor:"/assets/premiofotografia.pdf",
     place: "Hall Área 2 PUC",
   },
 

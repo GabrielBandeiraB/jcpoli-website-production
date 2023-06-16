@@ -61,11 +61,25 @@ export const Anais = [
 /*Exportar aqui os anais da JCPOLI V, para exportar os anais da JCPOLIVI criar outro export e referenciar esse export em Anais.VUE*/
 export const Anais2 = [
   {
-    title: '',
-    autor: '',
-    path: ''
+    title: 'Análise Preditiva com Redes Neurais Convolucionais Para o Geoprocessamentoo de Imagens',
+    autor: 'Cavalcante, E. S, Sousa, M. A',
+    path: '/assets/anais/redesneurais.pdf'
   },
-    
+  {
+    title: 'Uso das normas NBR ISO-IEC 27017 e 27018 para garantir a segurança da computação em nuvem',
+    autor: 'Souza, H, Silva, S.',
+    path: '/assets/anais/usodasnormas.pdf'
+  },
+  {
+    title: 'TCC II Suéllen e Geângela 08/09/2022',
+    autor: 'Fraga, S. S, Mendes, G. M. & Rodrigues, P. B. F.',
+    path: '/assets/anais/suellen.pdf'
+  },{
+    title: 'TCC2 JOÃO JOSÉ QUEIROZ E ISRAEL MARQUES',
+    autor: 'Gomes, I. M. Queiroz, J.J.D.F',
+    path: '/assets/anais/joão.pdf'
+  },  
+
 ]
 
 export const livros = [

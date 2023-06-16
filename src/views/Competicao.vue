@@ -63,6 +63,14 @@
                 </v-btn>
                 </p>
               </div>
+              <div v-if="comp.vencedor">
+                    <p> 
+                      <v-btn 
+                      color="primary"
+                      :href="comp.vencedor">Resultado da competição.
+                    </v-btn>
+                    </p>
+                  </div>
           <div class="info-h">
             <div class="date-time-place">
               <i class="far fa-calendar-alt"></i>
