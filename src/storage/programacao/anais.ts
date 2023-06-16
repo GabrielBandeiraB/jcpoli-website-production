@@ -71,11 +71,11 @@ export const Anais2 = [
     path: '/assets/anais/usodasnormas.pdf'
   },
   {
-    title: 'TCC II Suéllen e Geângela 08/09/2022',
+    title: 'ESTUDO DA VARIABILIDADE NO TEMPO DE EXECUÇÃO COM MAPA DE FLUXO DE VALOR',
     autor: 'Fraga, S. S, Mendes, G. M. & Rodrigues, P. B. F.',
     path: '/assets/anais/suellen.pdf'
   },{
-    title: 'TCC2 JOÃO JOSÉ QUEIROZ E ISRAEL MARQUES',
+    title: 'ESTUDO DA VIABILIDADE TECNICA DO USO DE BLOCOS DE CONCRETO PERMEÁVEIS COMO ALTERNATIVA PARA A REDUÇÃO DO ESCOAMENTO SUPERFICIAL NO MUNICÍPIO DE GOIÂNIA',
     autor: 'Gomes, I. M. Queiroz, J.J.D.F',
     path: '/assets/anais/joão.pdf'
   },  
