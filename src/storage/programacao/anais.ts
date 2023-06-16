@@ -61,6 +61,19 @@ export const Anais = [
 /*Exportar aqui os anais da JCPOLI V, para exportar os anais da JCPOLIVI criar outro export e referenciar esse export em Anais.VUE*/
 export const Anais2 = [
   {
+    title: 'ESTUDO DA VARIABILIDADE NO TEMPO DE EXECUÇÃO COM MAPA DE FLUXO DE VALOR',
+    autor: 'Fraga, S. S, Mendes, G. M. & Rodrigues, P. B. F.',
+    path: '/assets/anais/suellen.pdf'
+  },{
+    title: 'ESTUDO DA VIABILIDADE TECNICA DO USO DE BLOCOS DE CONCRETO PERMEÁVEIS COMO ALTERNATIVA PARA A REDUÇÃO DO ESCOAMENTO SUPERFICIAL NO MUNICÍPIO DE GOIÂNIA',
+    autor: 'Gomes, I. M. Queiroz, J.J.D.F',
+    path: '/assets/anais/joão.pdf'
+  },  
+
+]
+
+export const Anais3 = [
+  {
     title: 'Análise Preditiva com Redes Neurais Convolucionais Para o Geoprocessamentoo de Imagens',
     autor: 'Cavalcante, E. S, Sousa, M. A',
     path: '/assets/anais/redesneurais.pdf'
@@ -70,15 +83,6 @@ export const Anais2 = [
     autor: 'Souza, H, Silva, S.',
     path: '/assets/anais/usodasnormas.pdf'
   },
-  {
-    title: 'ESTUDO DA VARIABILIDADE NO TEMPO DE EXECUÇÃO COM MAPA DE FLUXO DE VALOR',
-    autor: 'Fraga, S. S, Mendes, G. M. & Rodrigues, P. B. F.',
-    path: '/assets/anais/suellen.pdf'
-  },{
-    title: 'ESTUDO DA VIABILIDADE TECNICA DO USO DE BLOCOS DE CONCRETO PERMEÁVEIS COMO ALTERNATIVA PARA A REDUÇÃO DO ESCOAMENTO SUPERFICIAL NO MUNICÍPIO DE GOIÂNIA',
-    autor: 'Gomes, I. M. Queiroz, J.J.D.F',
-    path: '/assets/anais/joão.pdf'
-  },  
 
 ]
 
