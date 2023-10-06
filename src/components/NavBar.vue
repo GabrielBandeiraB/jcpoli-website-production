@@ -42,7 +42,7 @@
       </div>
 
       <div class="nav-date">
-        <span class="desktop" :style="{ textAlign: 'right' }">
+        <span id="span-data-desktop" class="desktop" :style="{ textAlign: 'right' }">
           De 17 a 19 de Outubro de 2023
           <br />PUC Goiás <br />Goiânia-GO
         </span>

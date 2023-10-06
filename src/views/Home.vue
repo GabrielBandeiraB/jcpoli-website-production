@@ -48,57 +48,13 @@
     </v-layout>
 
     
-    <Main>
-      <Speakers :speakers="speakersList" :paginate="1" />
+  <!--<Main>-->
+      <!--<Speakers :speakers="speakersList" :paginate="1" />-->
 
       <!-- <Supporters /> -->
-    </Main>
+    <!--</Main>-->
 
-    <div mt-5 mb-5 id="inscricoes" class="footer-subscription">
-      <div>
-        <v-container>
-          <v-layout class="call">
-            <v-flex>
-              <p>INSCREVA-SE JÁ</p>
-            </v-flex>
-          </v-layout>
-          <v-layout class="subcall text-left">
-            <v-flex>
-              <p class="text-justify text-center">
-                A II JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
-                O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida. 
-                É com alegria que o convidamos para enviar um artigo para o comitê científico.
-              </p>
-            </v-flex>
-          </v-layout>
 
-          <v-layout row wrap class="button-actions">
-            <!--
-            <v-flex offset-md3 xs12 md3>
-              <v-btn @click="goToSubscription" color="primary" large>Faça sua inscrição</v-btn>
-            </v-flex>
-          -->
-            <v-flex>
-              <v-btn
-                @click="goToSubmission"
-                large
-                class="btn-submission"
-                color="primary"
-                >Submeta seu artigo</v-btn
-              >
-            </v-flex>
-          </v-layout>
-          <v-layout class="line rights-reserved">
-            <v-flex>
-              <hr />
-              <p>
-                &copy; 2º Jornada Científica da Escola Politécnica - II JCPOLI 2023
-              </p>
-            </v-flex>
-          </v-layout>
-        </v-container>
-      </div>
-    </div>
   </v-app>
 </template>
 
