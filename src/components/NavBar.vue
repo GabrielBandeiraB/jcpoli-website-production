@@ -32,7 +32,7 @@
 
     <div class="nav-info">
       <div id="logo-nav-bar">
-        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 220px; height: 150px; position: absolute; float: right; top: -20px; "> alt/></a>
+        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 200px; height: 130px; position: absolute; float: right; top: -20px; "></a>
 
         <span class="title"></span>
         <br />
@@ -113,7 +113,7 @@ export default class NavBar extends Vue {
 
 #logo-nav-bar {
   text-align: left;
-  right: 200px;
+  right: 300px;
 }
 
 .navbar-h {
@@ -308,7 +308,7 @@ export default class NavBar extends Vue {
 
 @media screen and (max-width: 1140px) {
   #logo-nav-bar{
-    right: 100px;
+    right: 150px;
   }
 }
 
