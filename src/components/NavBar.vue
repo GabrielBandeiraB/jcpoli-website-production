@@ -52,7 +52,7 @@
         </span>
       </div>
 
-      <div class="mobile">
+      <div id="barra-mobile" class="mobile">
         <label for="open-mmenu">
           <i class="fas fa-bars"></i>
         </label>
@@ -238,7 +238,24 @@ export default class NavBar extends Vue {
   .navbar-h .nav-info .nav-date {
     grid-area: t2;
   }
+
+  #barra-mobile {
+    left: 150px;
+  }
 }
+
+@media screen and (max-width: 570px) {
+  #barra-mobile {
+    left: 100px;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  #barra-mobile {
+    left: 50px;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .navbar-h .nav-info > div:last-child i {
     margin: 5px;
@@ -249,6 +266,11 @@ export default class NavBar extends Vue {
     font-size: 12px;
     text-align: left;
   }
+
+  #barra-mobile {
+    left: 20px;
+  }
+
 }
 @media screen and (max-width: 320px) {
   .navbar-h {
