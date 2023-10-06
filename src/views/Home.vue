@@ -42,9 +42,11 @@
               </span>
               <!-- </v-flex> -->
             </div>
+            <NavBar></NavBar>
           </v-layout>
         </v-parallax>
       </v-flex>
+      
     </v-layout>
 
     
@@ -69,6 +71,7 @@ import Main from '@/components/organization/Main.vue'
 import Paragraph from '@/components/organization/Paragraph.vue'
 import Dates from '@/components/home/Dates.vue'
 import JGES from './JGES.vue'
+import NavBar from '@/components/NavBar.vue'
 //import Supporters from '@/components/organization/Supporters.vue'
 
 //import { speakers_list } from '@/storage/programacao/speakers'
