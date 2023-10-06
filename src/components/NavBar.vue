@@ -47,8 +47,8 @@
           <br />PUC Goiás <br />Goiânia-GO
         </span>
 
-        <span class="mobile sm-device">
-          De 8 a 10 de Maio de 2023 PUC Goiás Goiânia-GO
+        <span id="span-data-mobile" class="mobile sm-device">          
+          De 17 a 19 de Outubro de 2023 PUC Goiás
         </span>
       </div>
 
@@ -111,6 +111,7 @@ export default class NavBar extends Vue {
 
 #logo-nav-bar {
   text-align: left;
+  right: 200px;
 }
 
 .navbar-h {
@@ -303,6 +304,18 @@ export default class NavBar extends Vue {
   text-decoration: none;
 }
 
+@media screen and (max-width: 1140px) {
+  #logo-nav-bar{
+    right: 100px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .navbar-h {
+    left: 80px;
+  }
+}
+
 @media screen and (min-width: 769px) {
   .mobile {
     display: none !important;
@@ -311,8 +324,16 @@ export default class NavBar extends Vue {
 @media screen and (max-width: 768px) {
   .desktop {
     display: none !important;
+  }  
+}
+
+@media screen and (max-width: 625px) {
+
+  #logo-nav-bar{
+    right: 0;
   }
 }
+
 @media screen and (max-width: 425px) {
   .lg-device {
     display: none !important;
