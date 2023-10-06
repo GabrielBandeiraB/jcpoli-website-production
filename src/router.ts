@@ -35,7 +35,7 @@ const router = new Router({
       path: "/hackaton",
       name: "hackaton",
       component: () =>
-        import("./views/Hackaton.vue")
+        import(/* webpackChunkName: "hackaton" */"./views/Hackaton.vue")
     }, 
     {
       path: "/palestras",
