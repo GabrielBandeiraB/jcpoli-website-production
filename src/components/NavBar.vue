@@ -42,7 +42,7 @@
       </div>
 
       <div class="nav-date">
-        <span id="span-data-desktop" class="desktop" :style="{ textAlign: 'right' }">
+        <span class="desktop" :style="{ textAlign: 'right' }">
           De 17 a 19 de Outubro de 2023
           <br />PUC Goiás <br />Goiânia-GO
         </span>
@@ -113,14 +113,14 @@ export default class NavBar extends Vue {
 
 #logo-nav-bar {
   text-align: left;
-  right: 300px;
+  right: 300px;  
 }
 
 .navbar-h {
   position: relative;
   padding: 20px 0;
   background-color: white;
-  max-width: 1000px;
+  max-width: 1000px;  
 }
 
 .navbar-h .nav-info {
@@ -327,6 +327,10 @@ export default class NavBar extends Vue {
   .desktop {
     display: none !important;
   }  
+
+  #logo-nav-bar {
+    margin-bottom: 80px;
+  }
 }
 
 @media screen and (max-width: 625px) {
