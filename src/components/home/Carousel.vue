@@ -10,11 +10,13 @@
         >
           <v-container fill-height>
             <v-layout align-center fill-height justify-center>
-              <div class="banner">
+              
+              <!--<div class="banner">-->
                 <!--<img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
                 <img src="assets/img/logo.png" class="logo-opacity" />-->
 
+                <!--
                 <div>
                   <div>
                     <span class="date">08 a 10 de Maio de 2023</span>
@@ -36,6 +38,10 @@
                   </div>
                 </div>
 
+
+              -->
+
+                <!--
                 <div class="logo-container">
                   <img
                     id="cienciaemcasa"
@@ -43,7 +49,9 @@
                   />
                   <img id="logo" src="assets/img/logo.png" />
                 </div>
-              </div>
+              -->
+
+              <!--</div>-->
             </v-layout>
           </v-container>
         </v-carousel-item>
@@ -65,13 +73,13 @@ export default class Carousel extends Vue {
     this.items = [
       {
         src: '/assets/img/slider/3.jpeg'
+      },
+      {
+        src: '/assets/img/slider/4.jpg'
+      },
+      {
+        src: "/assets/img/slider/1.jpg"
       }
-      // {
-      //   src: '/assets/img/slider/4.jpg'
-      // }
-      // {
-      //   src: "/assets/img/slider/1.jpg"
-      // }
     ]
   }
 }
