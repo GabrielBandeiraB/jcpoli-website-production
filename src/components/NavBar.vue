@@ -42,7 +42,7 @@
       </div>
 
       <div class="nav-date">
-        <span id="span-data-desktop" class="desktop" :style="{ textAlign: 'right' }">
+        <span class="desktop" :style="{ textAlign: 'right' }">
           De 17 a 19 de Outubro de 2023
           <br />PUC Goiás <br />Goiânia-GO
         </span>
@@ -52,7 +52,7 @@
         </span>
       </div>
 
-      <div class="mobile">
+      <div id="barra-mobile" class="mobile">
         <label for="open-mmenu">
           <i class="fas fa-bars"></i>
         </label>
@@ -114,13 +114,16 @@ export default class NavBar extends Vue {
 #logo-nav-bar {
   text-align: left;
   right: 300px;
+  padding-left: 40px;
+  margin-left: 40px;  
+  
 }
 
 .navbar-h {
   position: relative;
   padding: 20px 0;
   background-color: white;
-  max-width: 1000px;
+  max-width: 1000px;  
 }
 
 .navbar-h .nav-info {
@@ -199,6 +202,21 @@ export default class NavBar extends Vue {
   border: none;
   text-decoration: none;
 }
+
+@media screen and (max-width: 1350px) {
+  #logo-nav-bar{
+    right: 220px;
+  }
+}
+
+@media screen and (max-width: 1190px) {
+  #logo-nav-bar{
+    right: 150;
+
+  }
+}
+
+
 @media screen and (max-width: 768px) {
   .navbar-h {
     position: unset;
@@ -238,7 +256,24 @@ export default class NavBar extends Vue {
   .navbar-h .nav-info .nav-date {
     grid-area: t2;
   }
+
+  #barra-mobile {
+    left: 150px;
+  }
 }
+
+@media screen and (max-width: 570px) {
+  #barra-mobile {
+    left: 100px;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  #barra-mobile {
+    left: 50px;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .navbar-h .nav-info > div:last-child i {
     margin: 5px;
@@ -249,6 +284,11 @@ export default class NavBar extends Vue {
     font-size: 12px;
     text-align: left;
   }
+
+  #barra-mobile {
+    left: 20px;
+  }
+
 }
 @media screen and (max-width: 320px) {
   .navbar-h {
@@ -327,6 +367,10 @@ export default class NavBar extends Vue {
   .desktop {
     display: none !important;
   }  
+
+  #logo-nav-bar {
+    margin-bottom: 80px;
+  }
 }
 
 @media screen and (max-width: 625px) {
