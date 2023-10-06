@@ -32,7 +32,7 @@
 
     <div class="nav-info">
       <div id="logo-nav-bar">
-        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 220px; height: auto; position: absolute; float: right; top: -20px; "> alt/></a>
+        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 220px; height: 150px; position: absolute; float: right; top: -20px; "> alt/></a>
 
         <span class="title"></span>
         <br />
