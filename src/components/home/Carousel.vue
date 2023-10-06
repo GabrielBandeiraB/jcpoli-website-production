@@ -1,12 +1,13 @@
 <template>
   <v-layout row wrap class="jcecec-slider">
     <v-flex xs12>
-      <v-carousel hide-controls hide-delimiters height="900">
+      <v-carousel hide-controls  height="800px">
         <v-carousel-item
           v-for="(item, i) in items"
           :key="i"
           :src="item.src"
           hide-controls
+          cover
         >
           <v-container fill-height>
             <v-layout align-center fill-height justify-center>
@@ -60,6 +61,7 @@
   </v-layout>
 </template>
 
+
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 
@@ -72,13 +74,10 @@ export default class Carousel extends Vue {
 
     this.items = [
       {
-        src: '/assets/img/slider/3.jpeg'
+        src: '/assets/img/slider/1.png'
       },
       {
-        src: '/assets/img/slider/2.png'
-      },
-      {
-        src: "/assets/img/slider/1.png"
+        src: "/assets/img/slider/2.png"
       }
     ]
   }
@@ -86,6 +85,8 @@ export default class Carousel extends Vue {
 </script>
 
 <style scoped>
+
+
 .logo-container {
   display: flex;
   flex-direction: column;
