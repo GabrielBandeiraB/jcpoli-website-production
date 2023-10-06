@@ -78,7 +78,7 @@ export default class Carousel extends Vue {
         src: '/assets/img/slider/2.png'
       },
       {
-        src: "/assets/img/slider/1.jpg"
+        src: "/assets/img/slider/1.png"
       }
     ]
   }
