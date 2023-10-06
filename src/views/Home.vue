@@ -5,6 +5,7 @@
     <About />
 
     <Dates />
+    
 
     <v-layout row wrap>
       <v-flex xs12 sm12>
@@ -20,8 +21,8 @@
                 <h5>QUANDO</h5>
               </div>
               <span id="quando">
-                De 08 a 10 de
-                <br />maio de 2023
+                De 17 a 19 de
+                <br />outubro de 2023
               </span>
               <!-- </v-flex> -->
               <!-- <v-flex> -->
@@ -46,6 +47,7 @@
       </v-flex>
     </v-layout>
 
+    
     <Main>
       <Speakers :speakers="speakersList" :paginate="1" />
 
@@ -110,6 +112,7 @@ import Robot from '@/components/home/Robot.vue'
 import Main from '@/components/organization/Main.vue'
 import Paragraph from '@/components/organization/Paragraph.vue'
 import Dates from '@/components/home/Dates.vue'
+import JGES from './JGES.vue'
 //import Supporters from '@/components/organization/Supporters.vue'
 
 //import { speakers_list } from '@/storage/programacao/speakers'

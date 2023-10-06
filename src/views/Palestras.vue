@@ -8,6 +8,7 @@
     ></PhotoHeader>
 
     <Main>
+      
       <h4 class="text-center">Agenda JCPOLI</h4>
       <h3 class="text-center">Doe alimento não perecível durante as atividades presenciais e participe do bazar promovido pela Escola em parceria com a Coordenação de Extensão da PUC Goiás (CDEX/PROEX)</h3>
       <div class="button-container">
@@ -28,6 +29,7 @@
         </div>
       </div>
     </Main>
+
   </div>
 </template>
 
@@ -38,7 +40,9 @@ import Main from '../components/organization/Main.vue'
 import MiniCourse from '../components/miniCourse/index.vue'
 import SectionCourse from '../components/organization/SectionCourse.vue'
 
+
 import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
+import Programacao from './Programacao.vue'
 
 @Component({
   components: {
