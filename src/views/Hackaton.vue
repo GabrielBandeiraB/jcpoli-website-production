@@ -1,6 +1,6 @@
 <template>
     <div>
-    <!--Imagem dono titulo pode ser inserida caso necessario
+        <!--Imagem do titulo pode ser inserida caso necessario
       <PhotoHeader
         :title="title"
         :description="description"
@@ -9,16 +9,15 @@
       ></PhotoHeader>
         -->
       <Main>
-        <h4 class="text-center">Agenda JCPOLI</h4>
-        <h3 class="text-center">Doe alimento não perecível durante as atividades presenciais e participe do bazar promovido pela Escola em parceria com a Coordenação de Extensão da PUC Goiás (CDEX/PROEX)</h3>
+        <h4 class="text-center">Progamação Hackaton 2023</h4>
+        <!--<h3 class="text-center"> Texto extra, pode ser inserido caso necessario </h3> -->
         <div class="button-container">
-          <button class="button" v-on:click="clearFilter">Todas as datas</button>
-          <button class="button" v-on:click="filterCourses">08/05</button>
-          <button class="button" v-on:click="filterCourses">09/05</button>
-          <button class="button" v-on:click="filterCourses">10/05</button>
-          <!--<button class="button" v-on:click="filterCourses">12/05</button>
-          <button class="button" v-on:click="filterCourses">13/05</button>-->
+          <button class="button" v-on:click="clearFilter">Programação Geral</button>
+          <button class="button" v-on:click="filterCourses">Mentores</button>
+          <button class="button" v-on:click="filterCourses">Minicursos</button>
+          <!-- <button class="button" v-on:click="filtro"> Nome do botao </button> -->
         </div>
+
         <div class="courses-list">
           <div v-for="(props, index) in filtered_courses" :key="index">
             <!--<h3 class="section-course">{{ props.curso }}</h3> -->
@@ -54,6 +53,10 @@
     private description = 'Minicursos da jornada'
     private background = 'assets/img/lab.jpg'
   
+    filter(e:any){
+
+    }
+    
     filterCourses(e: any) {
       let data = e.target.innerText
       this.filtered_courses = this.coursesList.map(item => {
