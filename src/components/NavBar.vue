@@ -113,7 +113,10 @@ export default class NavBar extends Vue {
 
 #logo-nav-bar {
   text-align: left;
-  right: 300px;  
+  right: 300px;
+  padding-left: 40px;
+  margin-left: 40px;  
+  
 }
 
 .navbar-h {
@@ -199,6 +202,21 @@ export default class NavBar extends Vue {
   border: none;
   text-decoration: none;
 }
+
+@media screen and (max-width: 1350px) {
+  #logo-nav-bar{
+    right: 220px;
+  }
+}
+
+@media screen and (max-width: 1190px) {
+  #logo-nav-bar{
+    right: 150;
+
+  }
+}
+
+
 @media screen and (max-width: 768px) {
   .navbar-h {
     position: unset;
