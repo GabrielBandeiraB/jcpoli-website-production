@@ -166,6 +166,9 @@
             </a>
           </ul>
         </div>
+        <br/>
+        <br/>
+        <br/>
         Além de oferecer os seus próprios cursos, a Escola Politécnica e de Artes também é
         responsável pela área de Física, Matemática e Química com a criação do
         Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. Escola Politécnica e de Artes 
@@ -187,14 +190,14 @@
       </Paragraph>
     </Main>
 
-    <Organization />
+    <!--<Organization />
     <Main>
       <Paragraph title="palestrantes">
         <Speakers :speakers="speakers" :paginate="1" />
       </Paragraph>
 
-      <!--<Supporters /> -->
-    </Main>
+      <Supporters />
+    </Main>-->
   </div>
 </template>
 
