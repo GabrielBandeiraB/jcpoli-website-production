@@ -13,40 +13,10 @@ const router = new Router({
       component: Home
     },
     {
-      path: "/cadastro",
-      name: "cadastro",
-      component: () =>
-        import(/* webpackChunkName: "about" */ "./views/SignUp/SignUp.vue")
-    },
-    {
-      path: "/cadastro/confirmacao",
-      name: "confirmacao",
-      component: () =>
-        import(/* webpackChunkName: "about" */ "./views/SignUp/Confirm.vue")
-    },
-    {
-      path: "/orientacoes",
-      name: "orientacoes",
-      component: () =>
-        import(/* webpackChunkName: "orientacoes" */ "./views/SubmissionRules.vue")
-    },
-    {
-      path: "/conta",
-      name: "conta",
-      component: () =>
-        import(/* webpackChunkName: "account" */ "./views/Admin/MyAccount.vue")
-    },
-    {
       path: "/escola",
       name: "escola",
       component: () =>
         import(/* webpackChunkName: "evento2" */ "./views/Escola.vue")
-    },
-    {
-      path: "/profile",
-      name: "speakerProfile",
-      component: () =>
-        import(/* webpackChunkName: "speakerProfile" */ "./views/SpeakerProfile.vue")
     },
     {
       path: "/manutencao",
@@ -54,6 +24,7 @@ const router = new Router({
       component: () =>
         import(/* webpackChunkName: "account" */ "./views/Maintenance.vue")
     },
+
     {
       path: "/minicursos",
       name: "minicursos",
@@ -61,11 +32,11 @@ const router = new Router({
         import(/* webpackChunkName: "minicurso" */ "./views/MiniCourses.vue")
     },
     {
-      path: "/exposicoes",
-      name: "exposicoes",
+      path: "/hackaton",
+      name: "hackaton",
       component: () =>
-        import(/* webpackChunkName: "exposicoes" */ "./views/Exposicoes.vue")
-    },    
+        import("./views/Hackaton.vue")
+    }, 
     {
       path: "/palestras",
       name: "palestras",
@@ -73,27 +44,6 @@ const router = new Router({
         import(/* webpackChunkName: "minicurso" */ "./views/Palestras.vue")
     },
 
-
-    {
-      path: "/programacao",
-      component: () =>
-        import(/* webpackChunkName: "programacao" */ "./views/Programacao.vue")
-    },
-    {
-      path: "/competicoes",
-      component: () =>
-        import(/* webpackChunkName: "programacao" */ "./views/Competicao.vue")
-    },
-    {
-      path: "/egressos",
-      component: () =>
-        import(/* webpackChunkName: "egressos" */ "./views/Egressos.vue")
-    },
-    {
-      path: "/anais",
-      component: () =>
-        import(/* webpackChunkName: "egressos" */ "./views/Anais.vue")
-    },
     {
       path: "*",
       component: () =>
