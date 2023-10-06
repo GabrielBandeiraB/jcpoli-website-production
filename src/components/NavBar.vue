@@ -12,18 +12,21 @@
       <ul>
         <router-link to="/" tag="li">Home</router-link>
         <router-link to="/escola" tag="li">Escola</router-link>
-        <router-link to="/palestras" tag="li">Palestras</router-link>
-        <router-link to="/minicursos" tag="li">Minicursos</router-link>
-        <router-link to="/competicoes" tag="li">Competições</router-link>
-        <router-link to="/exposicoes" tag="li">Exposições</router-link>
+        <!--<router-link to="/palestras" tag="li">Palestras</router-link>-->
+        <router-link to="/competicoes" tag="li">Hackathon</router-link>
+        <router-link to="/palestras" tag="li">Desafios</router-link>
+        <!--<router-link to="/minicursos" tag="li">Minicursos</router-link>-->
+        <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
+        
+        <!--<router-link to="/exposicoes" tag="li">Exposições</router-link>-->
         <!--<router-link to="/egressos" tag="li">Egressos</router-link>-->
-        <router-link to="/anais" tag="li">Publicações</router-link>
+        <!--<router-link to="/anais" tag="li">Publicações</router-link>-->
 
         <!--
         <router-link to="/jges" tag="li">JGES</router-link>
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
         -->
-        <router-link to="/orientacoes" tag="li">Orientações</router-link>
+        <!--<router-link to="/orientacoes" tag="li">Orientações</router-link>-->
       </ul>
     </div>
 
@@ -59,18 +62,21 @@
       <ul>
         <router-link to="/" tag="li">Home</router-link>
         <router-link to="/escola" tag="li">Escola</router-link>
-        <router-link to="/palestras" tag="li">Palestras</router-link>
-        <router-link to="/minicursos" tag="li">Minicursos</router-link>
+        <!--<router-link to="/palestras" tag="li">Palestras</router-link>-->
+        <router-link to="/competicoes" tag="li">Hackathon</router-link>
+        <router-link to="/palestras" tag="li">Desafios</router-link>
+        <!--<router-link to="/minicursos" tag="li">Minicursos</router-link>-->
         <!-- <router-link to="/egressos" tag="li">Egressos</router-link> -->
-        <router-link to="/competicoes" tag="li">Competições</router-link>
-        <router-link to="/exposicoes" tag="li">Exposições</router-link>
-        <router-link to="/anais" tag="li">Publicações</router-link>
+        <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
+        
+        <!--<router-link to="/exposicoes" tag="li">Exposições</router-link>-->
+        <!--<router-link to="/anais" tag="li">Publicações</router-link>-->
 
         <!--
         <router-link to="/jges" tag="li">JGES</router-link>
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
         -->
-        <router-link to="/orientacoes" tag="li">Orientações</router-link>
+        <!--<router-link to="/orientacoes" tag="li">Orientações</router-link>-->
       </ul>
     </div>
   </div>
