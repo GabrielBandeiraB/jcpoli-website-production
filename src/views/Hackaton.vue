@@ -12,7 +12,7 @@
         <h4 class="text-center">Progamação Hackaton 2023</h4>
         <!--<h3 class="text-center"> Texto extra, pode ser inserido caso necessario </h3> -->
         <div class="button-container">
-          <button class="button" v-on:click="filterSchedule">Programação Geral</button>
+          <button class="button" v-on:click="clearFilter">Programação Geral</button>
           <button class="button" v-on:click="filterSchedule">Checkpoints</button>
           <button class="button" v-on:click="filterSchedule">Mentores</button>
           <button class="button" v-on:click="filterSchedule">Minicursos</button>
@@ -41,7 +41,7 @@
   import PhotoHeader from '../components/organization/PhotoHeader.vue'
   import Main from '../components/organization/Main.vue'
   import Hackaton from '../components/hackaton/index.vue'
-  import { Hackaton_Year_Section } from '@/models/Hackaton'
+  import { Hackaton_Year_Section } from '@/models/HackatonModel'
   
   @Component({
     components: {
@@ -74,8 +74,13 @@
         </div>
       -->*/
     filterSchedule(e: any) {
-      let text = e.target.innerText
-      
+      let type = e.target.innerText
+      this.filter = this.contentList.map(item => {
+        const hackaton = item.hackaton.filter(aux => {
+          return aux.type == type
+        })
+        return { ...item, hackaton}
+      })
 
       /*
       let data = e.target.innerText
