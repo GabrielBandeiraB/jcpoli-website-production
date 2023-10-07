@@ -12,26 +12,22 @@
         <h4 class="text-center">Progamação Hackaton 2023</h4>
         <!--<h3 class="text-center"> Texto extra, pode ser inserido caso necessario </h3> -->
         <div class="button-container">
-          <button class="button" v-on:click="clearFilter">Programação Geral</button>
-          <button class="button" v-on:click="filterSchedule">Checkpoints</button>
-          <button class="button" v-on:click="filterSchedule">Mentores</button>
-          <button class="button" v-on:click="filterSchedule">Minicursos</button>
+          <button class="button" v-on:click="">Programação Geral</button>
+          <button class="button" v-on:click="">Checkpoints</button>
+          <button class="button" v-on:click="">Mentores</button>
+          <button class="button" v-on:click="">Minicursos</button>
           <!-- <button class="button" v-on:click="filterCourses">Minicursos</button> -->
         </div>
 
-        <div class="hackaton">
-          <!--Inserir programacao do hackaton aqui-->
-        </div>
-<!--
         <div class="courses-list">
-          <div v-for="(props, index) in filtered_courses" :key="index">
-            <div v-for="(course, index) in props.minicurso" :key="index">
-              <MiniCourse :course="course"></MiniCourse>
+          <div v-for= "(props, index) in filtered" :key="index">
+            <div v-for="(course, index) in props.evento" :key="index">
+              <Hackaton :course="course"></Hackaton>
               <hr />
             </div>
           </div>
         </div>
--->
+
       </Main>      
     </div>
   </template>
@@ -42,6 +38,7 @@
   import Main from '../components/organization/Main.vue'
   import Hackaton from '../components/hackaton/index.vue'
   import { Hackaton_Year_Section } from '@/models/HackatonModel'
+
   
   @Component({
     components: {
@@ -57,7 +54,7 @@
   
     private title = 'Hackaton'
     private description = 'Informações hackaton 2023'
-    private background = '' //Inserir uma imagem caso necessario
+    private background = 'assets/img/lab.jpg' //Inserir uma imagem caso necessario
   
     filter(e:any){
 
@@ -75,22 +72,12 @@
       -->*/
     filterSchedule(e: any) {
       let type = e.target.innerText
-      this.filter = this.contentList.map(item => {
-        const hackaton = item.hackaton.filter(aux => {
+      this.filtered = this.contentList.map(item => {
+        const evento = item.evento.filter(aux => {
           return aux.type == type
         })
-        return { ...item, hackaton}
+        return { ...item,evento }
       })
-
-      /*
-      let data = e.target.innerText
-      this.filtered_courses = this.coursesList.map(item => {
-        const minicurso = item.minicurso.filter(aux => {
-          return aux.date == data
-        })
-  
-        return { ...item, minicurso }
-      })*/
     }
   
     clearFilter() {
