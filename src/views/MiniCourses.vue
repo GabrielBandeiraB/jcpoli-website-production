@@ -89,7 +89,7 @@ export default class MiniCourses extends Vue {
 
   mostrar_apenas_mentores() {
     
-    this.ocultar_lista_cursos()
+    this.ocultar_lista_cursos()    
 
     const mentores = document.getElementById("mentores");
     mentores.style.visibility = "visible"
@@ -132,7 +132,7 @@ export default class MiniCourses extends Vue {
         subjectResume: `
     Simulação iniciou há alguns anos no Brasil como um assunto obscuro e que gerava um certo desconforto para as pessoas por se tratar de um hard skill que demandava muito conhecimento em programação para gerar soluções reativas no planejamento industrial, logístico e na área de saúde. Nos últimos anos, temos visto uma vertente bastante alterada com o surgimento de soluções modernas, que podem fazer com que métodos de Machine Learning e soluções de AI, quando trabalham em conjunto com simulação, podem desenvolver uma solução proativa e preventiva no planejamento operacional das empresas.
 `,
-        img: '/assets/img/speakers/lucasribeiro.png',
+        
         customSize: '10%',
         datentime: {
           date: '11/05',
@@ -961,6 +961,7 @@ h4 {
 
 #mentores {
   margin-top: "0px";
+  bottom: 30px;
   visibility: hidden;
 }
 

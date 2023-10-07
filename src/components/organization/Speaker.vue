@@ -37,10 +37,13 @@ export default class Speaker extends Vue {
 
   constructor() {
     super();
-
+    /*
     this.avatar = this.speaker.img
       ? `url(${this.speaker.img})`
       : `url(https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg)`;
+    */
+
+    this.avatar = `url(https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg)`;``
 
     this.customSize = this.speaker.customSize
       ? this.speaker.customSize
