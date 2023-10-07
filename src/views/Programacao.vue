@@ -10,11 +10,11 @@
           <div class="item" v-for="(o, i) in event.activities" :key="i">
             <div>
               <i :style="{gridArea: 'id'}" class="far fa-calendar-alt" title="Data"></i>
-              <i :style="{gridArea: 'ip'}" class="fas fa-map-marker" title="Local"></i>
+              <i :style="{gridArea: 'ip'}" class="far fa-clock" title="Hora"></i>
               <p :style="{gridArea: 'd'}">{{ o.date }}</p>
-              <p :style="{gridArea: 'p'}"> {{ o.place }} </p>
-              <i :style="{gridArea: 'it'}" v-if="o.time" class="far fa-clock" title="Hora"></i>
-              <p :style="{gridArea: 't'}" v-if="o.time"> {{ o.time }} </p>
+              <p :style="{gridArea: 'p'}"> {{ o.time }} </p>
+              <br>
+              <br>
             </div>
             <div>
               <h4> {{ o.description }} </h4>
@@ -52,48 +52,18 @@ import speakers from "@/models/speakers";
   }
 })
 export default class Programacao extends Vue {
-
-    private palestras: any;
-    private trabalhos: any;
-    private jges: any;
-    private minicursos: any;
-    private oficina: any;
+    
     private hackaton: any;
 
     private events: any;
 
     constructor(){
       super();
-
-      this.palestras = require('@/storage/programacao/palestras').default;
-      this.trabalhos = require('@/storage/programacao/trabalhos').default;
-      this.jges = require('@/storage/programacao/jges').default;
-      this.minicursos = require('@/storage/programacao/minicursos').default;
-      this.oficina = require('@/storage/programacao/oficina').default;
+      
       this.hackaton = require('@/storage/programacao/hackaton').default;
 
       this.events = [
-        {
-          title: 'Palestras – Auditórios da Área 2',
-          activities: this.palestras,
-        },
-        {
-          title: 'Apresentação de trabalhos – Área 2',
-          activities: this.trabalhos,
-        },
-        {
-          title: 'XIX Jornada Goiana em Engenharia de Software',
-          description: 'Tema: Saúde Mental e TI: Uma questão estratégica',
-          activities: this.jges,
-        },
-        {
-          title: 'Minicursos – Laboratórios da Área 2 (horário 14:00 - 18:00)',
-          activities: this.minicursos,
-        },
-        {
-          title: 'Oficina – PROA Área 2 (horário 19:00 - 22:00)',
-          activities: this.oficina,
-        },
+        
         {
           title: 'II Hackathon PUC Goiás',
           description: 'Tema: Educação para todos',
