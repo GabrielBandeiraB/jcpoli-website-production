@@ -12,7 +12,7 @@
       <div class="button-container">
         <button class="button" v-on:click="filterCourses">Geral</button>
         <button class="button" v-on:click="mostrar_apenas_checkpoint">Checkpoints</button>
-        <button class="button" v-on:click="filterCourses">09/05</button>
+        <button class="button" v-on:click="filterCourses">Minicursos</button>
         <button class="button" v-on:click="mostrar_apenas_mentores">Mentores</button>
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
@@ -196,7 +196,8 @@ export default class MiniCourses extends Vue {
 
   filterCourses(e: any) {
     this.mostrar_apenas_lista_cursos()
-    let data = e.target.innerText
+    //let data = e.target.innerText
+    let data = '09/05'
     this.filtered_courses = this.coursesList.map(item => {
       const minicurso = item.minicurso.filter(aux => {
         return aux.date == data
@@ -347,7 +348,7 @@ h4 {
 #mentores {
   position: relative;
   margin-top: "-600px";
-  bottom: 200px;
+  bottom: 175px;
   visibility: hidden;
   margin-bottom: 0px;
 }
@@ -365,8 +366,7 @@ h4 {
 
 #checkpoint {
   position: relative;
-  margin-bottom: 0px;
-  padding-bottom: 0px;
+  margin-bottom: -1200px;
   padding-top: 0px;
   bottom: 800px;
   visibility: hidden;
