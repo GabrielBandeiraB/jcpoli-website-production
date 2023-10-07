@@ -12,13 +12,13 @@
       <h3 class="text-center">Doe alimento não perecível durante as atividades presenciais e participe do bazar promovido pela Escola em parceria com a Coordenação de Extensão da PUC Goiás (CDEX/PROEX)</h3>
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
-        <button class="button" v-on:click="filterCourses">08/05</button>
+        <button class="button" v-on:click="mostrar_apenas_mentores">08/05</button>
         <button class="button" v-on:click="filterCourses">09/05</button>
         <button class="button" v-on:click="filterCourses">10/05</button>
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
-      <div class="courses-list">
+      <div class="courses-list" id="cursos">
         <div v-for="(props, index) in filtered_courses" :key="index">
           <!--<h3 class="section-course">{{ props.curso }}</h3> -->
           <div v-for="(course, index) in props.minicurso" :key="index">
@@ -26,14 +26,17 @@
             <hr />
           </div>
         </div>
-      </div>          
-          
+      </div>                                  
     </Main>
+
+    <div id="mentores">
+      <Main>
+        <Paragraph title="Mentores"></Paragraph>
+        <Speakers :speakers="speakers" :paginate="1" />            
+      </Main>
+    </div>
     
-    <Main>      
-        <Speakers :speakers="speakers" :paginate="1" />      
-      <!--<Supporters /> -->
-    </Main>      
+    
   </div>
 </template>
 
@@ -53,7 +56,8 @@ import { miniCourses_Section } from '@/models/miniCourses'
   components: {
     PhotoHeader,
     Main,
-    MiniCourse,    
+    MiniCourse,
+    Paragraph,
     Speakers
   }
 })
@@ -65,8 +69,42 @@ export default class MiniCourses extends Vue {
   private title = 'Minicursos'
   private description = 'Minicursos da jornada'
   private background = 'assets/img/lab.jpg'
+  
+  
+  //variáveis de elementos:
+  private altura = 0;
+
+  ocultar_mentores() {
+    const mentores = document.getElementById("mentores");
+    mentores.style.visibility = "hidden"
+  }
+
+  ocultar_lista_cursos() {
+    const cursos = document.getElementById("cursos")
+    cursos.style.visibility = "hidden"
+    cursos.style.height = "0px";
+    cursos.style.marginBottom = "0px";
+  }
+
+
+  mostrar_apenas_mentores() {
+    
+    this.ocultar_lista_cursos()
+
+    const mentores = document.getElementById("mentores");
+    mentores.style.visibility = "visible"
+  }
+
+  mostrar_apenas_lista_cursos() {
+    this.ocultar_mentores()
+
+    const cursos = document.getElementById("cursos")
+    cursos.style.visibility = "visible"
+  }
+
 
   filterCourses(e: any) {
+    this.mostrar_apenas_lista_cursos()
     let data = e.target.innerText
     this.filtered_courses = this.coursesList.map(item => {
       const minicurso = item.minicurso.filter(aux => {
@@ -78,6 +116,7 @@ export default class MiniCourses extends Vue {
   }
 
   clearFilter() {
+    this.mostrar_apenas_lista_cursos()
     this.filtered_courses = this.coursesList
   }
 
@@ -919,4 +958,10 @@ h4 {
   color: black;
   margin-bottom: 3rem;
 }
+
+#mentores {
+  margin-top: "0px";
+  visibility: hidden;
+}
+
 </style>
