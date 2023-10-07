@@ -35,6 +35,8 @@
         <Speakers :speakers="speakers" :paginate="1" />            
       </Main>
     </div>
+
+    <Programacao></Programacao>
     
     
   </div>
@@ -51,6 +53,7 @@ import MiniCourse from '../components/miniCourse/index.vue'
 
 
 import { miniCourses_Section } from '@/models/miniCourses'
+import Programacao from './Programacao.vue'
 
 @Component({
   components: {
@@ -58,7 +61,8 @@ import { miniCourses_Section } from '@/models/miniCourses'
     Main,
     MiniCourse,
     Paragraph,
-    Speakers
+    Speakers,
+    Programacao
   }
 })
 export default class MiniCourses extends Vue {
