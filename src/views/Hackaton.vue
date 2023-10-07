@@ -12,52 +12,72 @@
         <h4 class="text-center">Progamação Hackaton 2023</h4>
         <!--<h3 class="text-center"> Texto extra, pode ser inserido caso necessario </h3> -->
         <div class="button-container">
-          <button class="button" v-on:click="clearFilter">Programação Geral</button>
-          <button class="button" v-on:click="filterCourses">Mentores</button>
-          <button class="button" v-on:click="filterCourses">Minicursos</button>
-          <!-- <button class="button" v-on:click="filtro"> Nome do botao </button> -->
+          <button class="button" v-on:click="filterSchedule">Programação Geral</button>
+          <button class="button" v-on:click="filterSchedule">Checkpoints</button>
+          <button class="button" v-on:click="filterSchedule">Mentores</button>
+          <button class="button" v-on:click="filterSchedule">Minicursos</button>
+          <!-- <button class="button" v-on:click="filterCourses">Minicursos</button> -->
         </div>
 
+        <div class="hackaton">
+          <!--Inserir programacao do hackaton aqui-->
+        </div>
+<!--
         <div class="courses-list">
           <div v-for="(props, index) in filtered_courses" :key="index">
-            <!--<h3 class="section-course">{{ props.curso }}</h3> -->
             <div v-for="(course, index) in props.minicurso" :key="index">
               <MiniCourse :course="course"></MiniCourse>
               <hr />
             </div>
           </div>
         </div>
-      </Main>
+-->
+      </Main>      
     </div>
   </template>
-  
+
   <script lang="ts">
   import { Component, Vue, Prop } from 'vue-property-decorator'
   import PhotoHeader from '../components/organization/PhotoHeader.vue'
   import Main from '../components/organization/Main.vue'
-  import MiniCourse from '../components/miniCourse/index.vue'
-  import { miniCourses_Section } from '@/models/miniCourses'
+  import Hackaton from '../components/hackaton/index.vue'
+  import { Hackaton_Year_Section } from '@/models/Hackaton'
   
   @Component({
     components: {
       PhotoHeader,
       Main,
-      MiniCourse
+      Hackaton
     }
   })
-  export default class MiniCourses extends Vue {
-    private coursesList: any
-    private filtered_courses: any
+
+  export default class Content extends Vue {
+    private contentList: any
+    private filtered: any
   
-    private title = 'Minicursos'
-    private description = 'Minicursos da jornada'
-    private background = 'assets/img/lab.jpg'
+    private title = 'Hackaton'
+    private description = 'Informações hackaton 2023'
+    private background = '' //Inserir uma imagem caso necessario
   
     filter(e:any){
 
     }
-    
-    filterCourses(e: any) {
+
+    /*<!--
+        <div class="courses-list">
+          <div v-for="(props, index) in filtered_courses" :key="index">
+            <div v-for="(course, index) in props.minicurso" :key="index">
+              <MiniCourse :course="course"></MiniCourse>
+              <hr />
+            </div>
+          </div>
+        </div>
+      -->*/
+    filterSchedule(e: any) {
+      let text = e.target.innerText
+      
+
+      /*
       let data = e.target.innerText
       this.filtered_courses = this.coursesList.map(item => {
         const minicurso = item.minicurso.filter(aux => {
@@ -65,18 +85,18 @@
         })
   
         return { ...item, minicurso }
-      })
+      })*/
     }
   
     clearFilter() {
-      this.filtered_courses = this.coursesList
+      this.filtered = this.contentList
     }
   
     constructor() {
       super()
   
-      this.coursesList = miniCourses_Section
-      this.filtered_courses = this.coursesList
+      this.contentList = Hackaton_Year_Section
+      this.filtered = this.contentList
     }
   }
   </script>
