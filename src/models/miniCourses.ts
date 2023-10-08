@@ -2,60 +2,95 @@
 let Courses = [
    
   {
-    title: "Aplicações em Engenharia utilizando o software Smath Solver",
-    instructor: "Prof. Me. Alberto Vilela Chaer",
+    title: "Design Thinking",
+    instructor: "Genilda",
     institution: "PUC Goiás",
-    desc: `O minicurso “Aplicações em Engenharia utilizando o software Smath Solver” tem como objetivo apresentar as possibilidades que este programa – gratuito a partir de download em página oficial na web (https://en.smath.com/view/SMathStudio/summary) – oferece para elaboração de cálculos e geração da respectiva memória de cálculo de um problema qualquer que tenha sua resolução a partir de utilização de expressões matemáticas.  Trata-se de um programa bastante robusto e amplamente conhecido pelo nome de “SMath Studio” utilizado em universidades do Brasil e exterior, sendo uma ferramenta de sedimentação do processo ensino-aprendizagem, através da simulação dos eventos envolvidos em um cálculo. O benefício da utilização deste programa é utilizar da rapidez dos cálculos feitos por meio da máquina, cujas operações e lógica são conduzidas pelo desenvolvimento do usuário, para que se possa tomar conclusões e decisões a partir dos resultados. Uma ferramenta que se constitui em um “caderno de exercícios” de Professores, Estudantes e Profissionais de Engenharia. Recomenda-se que os participantes do referido minicurso acessem a sessão por meio de computador pessoal (sistema operacional Windows e Linux; também por versão Open in browser) para melhor rendimento durante a preleção e atividades propostas, apesar de que o software também tem sua versão gratuita para ser instalada em aparelho celular no sistema Android. `,
-    date: "09/05",
-    time: "14:00-18:00",
-    place: "Microsoft Teams",
-    link: "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MWUzMzEwYjQtOTliZC00Zjc0LTk5NGItMmM1NWZmNzM2YTdk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252273319f42-8908-4b89-9f8d-558cf4d5d776%2522%252c%2522Oid%2522%253a%25224d5d6768-2ee9-4adc-ac86-4da09deed785%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d5ded907-37d1-4a3c-b2f5-6ac85819b99e&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+    desc: `O curso de design thinking terá como objetivo...`,
+    date: "17/10",
+    time: "19:30",
+    place: "Presencial: Auditório III Área II",
+    //link: ""
   }, 
   {
-    title: "Ferramentas computacionais para o desenho de projeto de arquitetura",
-    instructor: "Alessandro Miguel de Oliveira",
+    title: "Sobre Github",
+    instructor: "",
     institution: "PUC Goiás",
-    desc: `Uso do AutoCAD para o desenho de projeto, geometria descritiva, elementos constitutivos das edificações e representação arquitetônica.`,
-    date: "08, 09 e 10/05",
-    time: "14:00-17:00",
-    place: 'Presencial: Laboratóro 102, Bloco B, Área III'
+    desc: `O curso sobre Github terá como objetivo...`,
+    date: "18/10",
+    time: "15:00",
+    place: 'Ainda não definido.'
   
   /*  link: ""
     */
   },
 
   {
-    title: "Introdução a Python",
-    instructor: 'Eugenio José Moura Neto',
-    institution: 'Aluno da PUC Goiás.',
-    desc: `Iniciação à linguagem de programação Python. Vagas limitadas a 20 alunos.`,
-    date: '09/05',
-    time: '14:00-16:00',
-    place: 'Presencial: Laboratório 101, bloco C, área II'
+    title: "Prototipação para Hackathons",
+    instructor: 'Rafael Leal',
+    institution: 'Professor da PUC Goiás.',
+    desc: `O curso de prototipação para hackathons tem o objetivo de ...`,
+    date: '18/10',
+    time: '16:00',
+    place: 'Ainda não definido.'
   
   },
 
   {
-    title: "Introdução ao Git/GitHub",
-    instructor: 'Milton de Assis Ribeiro Neto',
+    title: "Criando Protótipos com Figma",
+    instructor: 'Tayna',
     institution: 'PUC Goiás',
-    desc: `Como usar o Git/Github? Minicurso presencial, porém com gravação pelo Teams.`,
-    date: '10/05',
-    time: '17:00-19:00',
-    place: 'Presencial: Laboratório 101, bloco C, área II e Transmissão pelo Teams',
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjk4YTIwZGYtYjRhMC00NGQ5LTk4ZGQtODhiYmVkNGRlZGJk%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    desc: `O curso de criação de protótipos com Figma tem o objetivo de ...`,
+    date: '18/10',
+    time: '17:00',
+    place: 'Ainda não definido.',
+    //link: ""
   
   },
   
   {
-    title: "Introdução a Estrutura de Dados em Python",
-    instructor: 'Daniel Ribeiro de Brito',
+    title: "HTML – a crash course",
+    instructor: 'Hiagho Junio Gomes Oliveira',
     institution: 'Aluno da PUC Goiás',
-    desc: `Este minicurso é uma continuação do curso de Introdução a Python. Serão vistas estruturas de dados simples utilizando a linguagem Python.`,
-    date: '10/05',
-    time: '14:00-16:00',
-    place: 'Presencial: Laboratório 105, bloco C, área II'
+    desc: `O curso de HTML tem o objetivo de ...`,
+    date: '18/10',
+    time: '19:30',
+    place: 'Ainda não definido.',
+    //link: ""
+  },
 
+  {
+    title: "Docker na Prática: Criando e Gerenciando Contêineres " +
+           "para Desenvolvimento e Produção",
+
+    instructor: 'Daniel Correa',
+    institution: 'Professor da PUC Goiás',
+    desc: `Este curso de docker tem o objetivo de...`,
+    date: '19/10',
+    time: '9:00',
+    place: 'Ainda não definido.',
+    //link: ""
+  },
+  
+  {
+    title: "Pitch - técnicas de uma apresentação campeã",
+    instructor: '',
+    institution: 'Professor da PUC Goiás',
+    desc: `Este curso tem o objetivo de...`,
+    date: '19/10',
+    time: '15:00',
+    place: 'Ainda não definido.',
+    //link: ""
+  },
+
+  {
+    title: "Exercícios de Relaxamento",
+    instructor: 'Luri Sabina',
+    institution: 'Professor da PUC Goiás',
+    desc: `Este curso tem o objetivo de...`,
+    date: '19/10',
+    time: '17:30',
+    place: 'Ainda não definido.',
+    //link: ""
   },
 ]
 

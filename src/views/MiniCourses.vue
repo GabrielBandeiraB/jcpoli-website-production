@@ -18,7 +18,7 @@
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
       <div class="courses-list" id="cursos" >
-        <div v-for="(props, index) in filtered_courses" :key="index" v-if="flag">
+        <div v-for="(props, index) in coursesList" :key="index" v-if="flag">
           <!--<h3 class="section-course">{{ props.curso }}</h3> -->
           <div v-for="(course, index) in props.minicurso" :key="index">
             <MiniCourse :course="course"></MiniCourse>
@@ -245,14 +245,16 @@ export default class MiniCourses extends Vue {
     this.flag = true;
     this.mostrar_apenas_lista_cursos()
     //let data = e.target.innerText
-    let data = '09/05'
+    let filtro = ''
     this.filtered_courses = this.coursesList.map(item => {
       const minicurso = item.minicurso.filter(aux => {
-        return aux.date == data
+        return aux.date == filtro
       })
 
       return { ...item, minicurso }
     })
+
+
   }
 
   clearFilter() {
