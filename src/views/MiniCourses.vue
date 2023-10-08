@@ -73,7 +73,8 @@
         os trabalhos solicitados dentro de um prazo chamdo de 
         checkpoint. Os checkpoints são de caráter eliminatório, o que 
         sifnifica que a cada checkpoint menos equipes vão estar na 
-        disputa, funcionando como uma espécie de filtro.
+        disputa, funcionando como uma espécie de filtro. Os resultados 
+        vão ser avalidados por uma banca examinadora.
       
       </p>
     </div>
@@ -413,7 +414,7 @@ h4 {
   position: relative;
   margin-bottom: -1200px;
   padding-top: 0px;
-  bottom: 800px;
+  bottom: 1550px;
   visibility: hidden;
 }
 

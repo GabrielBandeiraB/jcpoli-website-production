@@ -55,19 +55,15 @@ export default class Dates extends Vue {
   ]
 
   private dates = [
+
     {
-      date: '10 a 23 de Abril de 2023',
-      event: 'Período para encaminhamento dos artigos e resumos expandidos',
+      date: '17 de Outubro de 2023',
+      event: 'Inscrição para a Hackathon 2023',
       disabled: false
     },
     {
-      date: 'Até 01 de Maio de 2023',
-      event: 'Período para avaliação, revisão e correção dos artigos e resumos expandidos',
-      disabled: false
-    },
-    {
-      date: '09 de Maio de 2023',
-      event: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
+      date: 'De 17 a 21 de Outubro de 2023',
+      event: 'IX Congresso de Ciência, Tecnologia e inovação da PUC Goiás',
       disabled: false
     }
   ]
