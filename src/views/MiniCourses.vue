@@ -17,13 +17,13 @@
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
-      <div class="courses-list" id="cursos">
-        <div v-for="(props, index) in filtered_courses" :key="index">
+      <div class="courses-list" id="cursos" >
+        <div v-for="(props, index) in filtered_courses" :key="index" v-if="flag">
           <!--<h3 class="section-course">{{ props.curso }}</h3> -->
           <div v-for="(course, index) in props.minicurso" :key="index">
             <MiniCourse :course="course"></MiniCourse>
             <hr />
-          </div>
+          </div>                    
         </div>
       </div>                                  
     </Main>
@@ -126,9 +126,10 @@ export default class MiniCourses extends Vue {
   //variáveis de estados:
   private visibleCheckpoint = false;
   private visibleMentores = false;
-  private visibleCursos = true;
-  private visibleGeral = false;
+  private visibleCursos = false;
+  private visibleGeral = true;
 
+  public flag = false;
 
   ocultar_mentores() {
     const mentores = document.getElementById("mentores");
@@ -241,6 +242,7 @@ export default class MiniCourses extends Vue {
 
 
   filterCourses(e: any) {
+    this.flag = true;
     this.mostrar_apenas_lista_cursos()
     //let data = e.target.innerText
     let data = '09/05'
@@ -317,7 +319,7 @@ export default class MiniCourses extends Vue {
         }
       }      
     ]
-
+        
     this.coursesList = miniCourses_Section
     this.filtered_courses = this.coursesList
   }
@@ -421,7 +423,7 @@ h4 {
 #geral {
   position: relative;
   margin-bottom: 0px;
-  visibility: hidden;
+  visibility: visible;
   bottom: 700px;
   width: 70%;
   margin: 20px auto;
