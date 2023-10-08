@@ -118,9 +118,9 @@ export default class MiniCourses extends Vue {
   private coursesList: any
   private filtered_courses: any
 
-  private title = 'Minicursos'
-  private description = 'Minicursos da jornada'
-  private background = 'assets/img/lab.jpg'
+  private title = ''
+  private description = ''
+  private background = 'assets/img/bannerhackthon.png'
   
   
   //variáveis de estados:
