@@ -181,6 +181,7 @@ export default class MiniCourses extends Vue {
     mentores.style.visibility = "visible"
     
     this.visibleMentores = true;
+    mentores.scrollIntoView({behavior:"smooth"})
   }
 
   mostrar_apenas_lista_cursos() {
@@ -220,6 +221,7 @@ export default class MiniCourses extends Vue {
     checkpoint.style.visibility = "visible"
 
     this.visibleCheckpoint = true;
+    checkpoint.scrollIntoView({behavior: 'smooth'});
   }
 
   mostrar_apenas_geral() {
@@ -238,6 +240,8 @@ export default class MiniCourses extends Vue {
     geral.style.visibility = "visible"
 
     this.visibleGeral = true;
+
+    geral.scrollIntoView({behavior: 'smooth'});
   }
 
 
@@ -254,7 +258,8 @@ export default class MiniCourses extends Vue {
       return { ...item, minicurso }
     })
 
-
+    const cursos = document.getElementById("cursos");
+    cursos.scrollIntoView({behavior: "smooth"})
   }
 
   clearFilter() {
@@ -384,7 +389,7 @@ export default class MiniCourses extends Vue {
   }
 
   #checkpoint {
-    bottom: 2500px;
+    bottom: 2600px;
   }
 
   #root {
@@ -507,6 +512,13 @@ h4 {
     margin-top: 200px;
   }
 
+}
+
+@media screen and (max-width: 1095px) {
+
+  #checkpoint {
+    bottom: 1550px;
+  }
 }
 
 @media screen and (max-width: 710px) {
