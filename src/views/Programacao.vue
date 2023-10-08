@@ -3,8 +3,10 @@
     <Main>
       <div v-for="(event, i) in events" :key="i">
         <div class="title">
-          <Paragraph :title="event.title"></Paragraph>
-          <h5 v-if="event.description"><i> {{ event.description }} </i></h5>
+          <Paragraph :title="event.title" style="text-align: center;"></Paragraph>
+          <h5 v-if="event.description">
+            <i> {{ event.description }} </i>
+          </h5>
         </div>
         <div class="list">
           <div class="item" v-for="(o, i) in event.activities" :key="i">
@@ -65,8 +67,8 @@ export default class Programacao extends Vue {
       this.events = [
         
         {
-          title: 'II Hackathon PUC Goiás',
-          description: 'Tema: Educação para todos',
+          title: 'Lista de Checkpoints',
+          description: '',
           activities: this.hackaton,
         },
       ];
@@ -149,4 +151,10 @@ export default class Programacao extends Vue {
     text-align: center;
   }
 }
+
+h6 {
+  color: black;
+}
+
+
 </style>

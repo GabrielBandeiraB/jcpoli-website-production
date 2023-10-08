@@ -1,18 +1,29 @@
 
 export default [
-    {date: "12/11",
-    description: "Desmistificando recursos do Android",
-    place: "Aud. III",speaker: "-",time: "19:00 22:00",},
+    {date: "18/10",
+    description: "Checkpoint 1",
+    place: "",
+    speaker: "Prazo final para entrega do formulário do projeto escrito",
+    time: "13:00",},
 
-    {date: "13/11",
-    description: "Oficinas e Hackaday",
-    place: "PROA II",
-    speaker: "-",
-    time: "19:00 22:00",},
+    {date: "18/10",
+    description: "Checkpoint 2",
+    place: "",
+    speaker: "Prazo final para a entrega do primeiro protótipo desenhado",
+    time: "22:00",},
     
-    {date: "14/11",
+    {date: "19/10",
     description: "Apresentação dos pitchs",
-    place: "Aud. III",
-    speaker: "-",
-    time: "19:00 22:00",},
+    place: "",
+    speaker: "MVP",
+    time: "14:00",},
+
+    {date: "19/10",
+    description: "Apresentação dos pitchs e encerramento",
+    place: "",
+    speaker: "",
+    time: "18:30",},
 ]
+
+
+
