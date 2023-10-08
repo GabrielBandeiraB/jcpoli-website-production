@@ -2,19 +2,22 @@
   <div id="container-sobre">
     <v-layout p-3 row wrap>
       <v-flex xs12 class="text-xs-left" mt-5>
-        <h2>II Jornada Científica da Escola Politécnica e de Artes</h2>
+        <h2>Hackathon 2023</h2>
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos a alegria de anunciar a realização da II Jornada Científica da
-          Escola Politécnica e de Artes (II JCPOLI) da Pontifícia Universidade Católica de
-          Goiás (PUC Goiás) que será realizada de 8 a 10 de Maio de 2023. A II
-          JCPOLI tem como tema O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida,
-          oferecendo atividades: palestras, mesa redonda, minicursos, competições e exposições.
+          Temos a alegria de anunciar a Hackapuc 2023, que será 
+          realizada de 17 a 19 de outubro. A Hackapuc é um grande 
+          evento que envolve o desenvolvimento de uma solução 
+          inovadora para um determinado problema ou desafio. 
+          Os interessados devem formar grupos para participarem.
         <p/>
         
         <v-flex xs12 class="text-xs-left" mt-5>
-          <h3>Escola promove arrecadação de alimentos durante a JCPOLI</h3>
+          <h3>
+            IX Congresso de Ciência, Tecnologia e Inovação 
+            da PUC Goiás.
+          </h3>
         </v-flex>
         <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
           <p>
