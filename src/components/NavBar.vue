@@ -33,7 +33,14 @@
 
     <div class="nav-info">
       <div id="logo-nav-bar">
-        <a href="/"><img id="logo" src="assets/img/logo.png" style="width: 200px; height: 130px; position: absolute; float: right; top: -20px; "></a>
+        <a href="/">
+          <img id="logo" src="assets/img/logo.png" 
+            style="                   
+                  position: absolute; 
+                  float: right; 
+                  top: -20px;"
+          >          
+        </a>
 
         <span class="title"></span>
         <br />
@@ -112,6 +119,8 @@ export default class NavBar extends Vue {
   left: -6rem;
   height: 5rem;
   top: -0.5rem;
+  width: 180px; 
+  height: 110px;
 }
 
 #logo-nav-bar {
@@ -214,10 +223,18 @@ export default class NavBar extends Vue {
 
 @media screen and (max-width: 1190px) {
   #logo-nav-bar{
-    right: 150;
+    right: 150px;
 
   }
 }
+
+@media screen and (max-width: 816px) {
+ 
+
+  
+
+}
+
 
 
 @media screen and (max-width: 768px) {
@@ -352,10 +369,13 @@ export default class NavBar extends Vue {
 @media screen and (max-width: 1140px) {
   #logo-nav-bar{
     right: 150px;
+    
   }
 }
 
-@media screen and (max-width: 950px) {
+
+
+@media screen and (max-width: 980px) {
   .navbar-h {
     left: 80px;
   }
@@ -397,5 +417,12 @@ export default class NavBar extends Vue {
   .sm-device {
     display: none !important;
   }
+
+  #barra-mobile {
+    left: 90px;
+  }
+
+  
+
 }
 </style>
