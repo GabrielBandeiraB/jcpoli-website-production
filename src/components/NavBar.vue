@@ -34,7 +34,7 @@
     <div class="nav-info">
       <div id="logo-nav-bar">
         <a href="/">
-          <img id="logo" src="assets/img/logo.png" 
+          <img id="logo" src="assets/img/logopuc.png" 
             style="                   
                   position: absolute; 
                   float: right; 

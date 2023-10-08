@@ -1,7 +1,7 @@
 <template>
   <v-layout row wrap class="jcecec-slider">
     <v-flex xs12>
-      <v-carousel hide-controls  height="800px">
+      <v-carousel hide-controls hide-delimiters height="800px">
         <v-carousel-item
           v-for="(item, i) in items"
           :key="i"
@@ -12,47 +12,45 @@
           <v-container fill-height>
             <v-layout align-center fill-height justify-center>
               
-              <!--<div class="banner">-->
+              <div class="banner">
                 <!--<img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
                 <img src="assets/img/logo.png" class="logo-opacity" />-->
 
-                <!--
+                
                 <div>
                   <div>
-                    <span class="date">08 a 10 de Maio de 2023</span>
+                    <span class="date">17 a 19 de Outubro de 2023</span>
                   </div>
                   <hr />
                   <div>
-                    <span class="jcecec">II JCPOLI</span>
+                    <span class="jcecec">HACKAPUC</span>
                   </div>
                   <div>
                     <span class="jcecec-sub">
-                      Jornada Científica da Escola Politécnica e de Artes
+                      Hackathon 2023 Científica da Escola Politécnica e de Artes
                     </span>
                   </div>
                   <hr />
                   <div>
                     <span id="description">
-                      O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida
+                      O tema será revelado no dia 17 de Outubro.
                     </span>
                   </div>
                 </div>
 
 
-              -->
+              
 
-                <!--
-                <div class="logo-container">
-                  <img
-                    id="cienciaemcasa"
-                    src="assets/img/cienciaemcasa_preto-removebg.png"
-                  />
-                  <img id="logo" src="assets/img/logo.png" />
+                
+                <div class="logo-container" style="width: 300px; height: 300px;">
+                  <img id="logo" src="assets/img/logo.png" 
+                    style="width: 300px; height: 300px;
+                          margin-left: 10px;"/>
                 </div>
-              -->
+              
 
-              <!--</div>-->
+              </div>
             </v-layout>
           </v-container>
         </v-carousel-item>
@@ -74,10 +72,7 @@ export default class Carousel extends Vue {
 
     this.items = [
       {
-        src: '/assets/img/slider/1.png'
-      },
-      {
-        src: "/assets/img/slider/2.png"
+        src: '/assets/img/slider/3.jpeg'
       }
     ]
   }
