@@ -408,6 +408,7 @@ h4 {
   margin-bottom: 3rem;
 }
 
+
 #mentores {
   position: relative;
   margin-top: "-600px";
@@ -469,6 +470,10 @@ h4 {
   #root {
     margin-bottom: -100px;
   }
+
+  #mentores {
+    bottom: 50px;
+  }
   
 }
 
@@ -477,19 +482,30 @@ h4 {
   #root {
     margin-bottom: -200px;
   }
+
+  #mentores {
+    bottom: -30px;
+  }
+
+  #geral {
+    bottom: 520px;
+  }
 }
 
 @media screen and (max-width: 371px) {
 
-#root {
-  margin-bottom: -400px;
-}
+  #root {
+    margin-bottom: -400px;
+  }
 
-#body {
-  bottom: 3000px;
-  padding-top: 0px;
-}
+  #body {
+    bottom: 3000px;
+    padding-top: 0px;
+  }
 
+  #mentores {
+    margin-top: 200px;
+  }
 
 }
 
@@ -509,9 +525,14 @@ h4 {
 
 @media screen and (max-width: 331px) {
 
-#root {
-  margin-bottom: -500px;
-}
+  #root {
+    margin-bottom: -500px;
+  }
+
+  #mentores {
+    margin-top: 300px;
+
+  }
 
 
 }
