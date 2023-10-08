@@ -66,7 +66,7 @@ let Courses = [
     institution: 'Professor da PUC Goiás',
     desc: `Este curso de docker tem o objetivo de...`,
     date: '19/10',
-    time: '9:00',
+    time: '09:00',
     place: 'Ainda não definido.',
     //link: ""
   },

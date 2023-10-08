@@ -29,7 +29,7 @@
     </Main>
 
     <div id="mentores">
-      <Main>
+      <Main id="body">
         <Paragraph title="Mentores"></Paragraph>
         <Speakers :speakers="speakers" :paginate="1" />            
       </Main>
@@ -80,7 +80,7 @@
     </div>
 
     <div id="checkpoint">
-      <Programacao></Programacao>
+      <Programacao id="checkpoint-element"></Programacao>
     </div>
 
     
@@ -382,6 +382,19 @@ export default class MiniCourses extends Vue {
   .button {
     margin-bottom: 1rem;
   }
+
+  #checkpoint {
+    bottom: 2500px;
+  }
+
+  #root {
+    margin-bottom: 0px;
+  }
+
+  #body {
+    top: 0.9%;
+    margin-top: 0px;
+  }
 }
 
 @media screen and (min-width: 800px) {
@@ -398,7 +411,7 @@ h4 {
 #mentores {
   position: relative;
   margin-top: "-600px";
-  bottom: 175px;
+  bottom: 100px;
   visibility: hidden;
   margin-bottom: 0px;
 }
@@ -409,24 +422,32 @@ h4 {
   
 }
 
+#body {
+  padding-top: 0px;  
+}
+
 #cursos {
   position: relative;
-  margin-bottom: 0px;
+  margin-bottom: 0px;  
 }
 
 #checkpoint {
   position: relative;
   margin-bottom: -1200px;
   padding-top: 0px;
-  bottom: 1550px;
+  bottom: 1430px;
   visibility: hidden;
+}
+
+#checkpoint-element {
+  margin-top: 0px;
 }
 
 #geral {
   position: relative;
   margin-bottom: 0px;
   visibility: visible;
-  bottom: 700px;
+  bottom: 600px;
   width: 70%;
   margin: 20px auto;
 }
@@ -434,6 +455,68 @@ h4 {
 #geral h2, h3 {
   color: #2776f5;
 }
+
+@media screen and (max-width: 576px) {
+
+}
+
+@media screen and (max-width: 532px) {
+
+  #body {
+    bottom: 1000px;
+  }
+
+  #root {
+    margin-bottom: -100px;
+  }
+  
+}
+
+@media screen and (max-width: 471px) {
+
+  #root {
+    margin-bottom: -200px;
+  }
+}
+
+@media screen and (max-width: 371px) {
+
+#root {
+  margin-bottom: -400px;
+}
+
+#body {
+  bottom: 3000px;
+  padding-top: 0px;
+}
+
+
+}
+
+@media screen and (max-width: 710px) {
+
+  #checkpoint {
+    bottom: 1710px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+
+  #checkpoint {
+    bottom: 1760px;
+  }
+}
+
+@media screen and (max-width: 331px) {
+
+#root {
+  margin-bottom: -500px;
+}
+
+
+}
+
+
 
 
 </style>
