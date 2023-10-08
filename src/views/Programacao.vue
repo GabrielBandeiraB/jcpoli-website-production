@@ -10,11 +10,11 @@
         </div>
         <div class="list">
           <div class="item" v-for="(o, i) in event.activities" :key="i">
-            <div>
-              <i :style="{gridArea: 'id'}" class="far fa-calendar-alt" title="Data"></i>
-              <i :style="{gridArea: 'ip'}" class="far fa-clock" title="Hora"></i>
-              <p :style="{gridArea: 'd'}">{{ o.date }}</p>
-              <p :style="{gridArea: 'p'}"> {{ o.time }} </p>
+            <div style="margin: 20px auto;">
+              <i :style="{gridArea: 'id'}" class="far fa-calendar-alt" title="Data" style="margin-right: 30px;"></i>
+              <i :style="{gridArea: 'ip'}" class="far fa-clock" title="Hora" style="margin-left: 30px;"></i>
+              <p :style="{gridArea: 'd'}" style="margin-right: 30px;">{{ o.date }}</p>
+              <p :style="{gridArea: 'p'}" style="margin-left: 30px;"> {{ o.time }} </p>
               <br>
               <br>
             </div>
@@ -89,7 +89,7 @@ export default class Programacao extends Vue {
   display: flex;
   margin-top: 22px;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 630px) {
   .programacao .list .item {
     flex-direction: column-reverse;
   }
@@ -114,7 +114,7 @@ export default class Programacao extends Vue {
   background-color: whitesmoke;
   box-shadow: 0 .46875rem 2.1875rem rgba(0,0,0,.03),0 .9375rem 1.40625rem rgba(0,0,0,.03),0 .25rem .53125rem rgba(0,0,0,.05),0 .125rem .1875rem rgba(0,0,0,.03);;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 630px) {
   .programacao .list .item > div:first-child {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, auto);
@@ -144,7 +144,7 @@ export default class Programacao extends Vue {
   justify-content: center;
   margin-left: 20px;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 630px) {
   .programacao .list .item > div:nth-child(2) {
     margin-left: unset;
     margin-bottom: 15px;
