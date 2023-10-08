@@ -128,6 +128,7 @@ export default class NavBar extends Vue {
   right: 300px;
   padding-left: 40px;
   margin-left: 40px;  
+  margin-top: 15px;
   
 }
 
