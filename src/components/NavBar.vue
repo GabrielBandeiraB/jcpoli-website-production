@@ -11,10 +11,12 @@
       </div>
       <ul>
         <router-link to="/" tag="li">Home</router-link>
-        <router-link to="/escola" tag="li">Escola</router-link>
-        <router-link to="/hackaton" tag="li">Hackaton</router-link>
+        <router-link to="/minicursos" tag="li">Hackathon</router-link>
         <router-link to="/palestras" tag="li">Desafios</router-link>
-        <router-link to="/minicursos" tag="li">Minicursos</router-link>
+        <router-link to="/escola" tag="li">Escola</router-link>        
+        <!--<router-link to="/hackaton" tag="li">Hackaton</router-link>-->
+        
+        
         <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
         
         <!--<router-link to="/exposicoes" tag="li">Exposições</router-link>-->
@@ -60,12 +62,14 @@
     <div class="nav-container desktop">
       <ul>
         <router-link to="/" tag="li">Home</router-link>
+        <router-link to="/minicursos" tag="li">Hackathon</router-link>
+        <router-link to="/palestras" tag="li">Desafios</router-link>
         <router-link to="/escola" tag="li">Escola</router-link>
         <!--<router-link to="/palestras" tag="li">Palestras</router-link>-->
 
-        <router-link to="/palestras" tag="li">Desafios</router-link>
-        <router-link to="/minicursos" tag="li">Minicursos</router-link>
-        <router-link to="/hackaton" tag="li">Hackaton</router-link>
+        
+        
+        <!--<router-link to="/hackaton" tag="li">Hackaton</router-link>-->
         <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
         
         <!--<router-link to="/exposicoes" tag="li">Exposições</router-link>-->
