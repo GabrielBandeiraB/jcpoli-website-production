@@ -270,34 +270,17 @@ export default class MiniCourses extends Vue {
   constructor() {
     super()    
     this.speakers = [
+      
       {
-        name: 'Michael Machado',
-        institution: 'Senior Partner da FlexSim Brasil em Campinas-SP',
-        speaking: 'Tendências na Simulação: casos e oportunidades',
-        description: `Engenheiro químico pela UEM (Universidade Estadual de Maringá) e consultor especializado em simulação dinâmica usando o FlexSim e otimização utilizando outros software específicos, com diversos modelos desenvolvidos para grandes empresas no Brasil como Vale, Harsco, Coca-Cola, Falcare, Fiat, DHL, Jabil, ViaStore, Ambev e outros. Capacitado pela FlexSim, USA, onde também participou de alguns projetos com clientes dos EUA. Pós-graduado em Gestão de Negócios & Operações pelo INSPER-SP (Ibmec-SP), mestrado pela UNICAMP em Pesquisa Operacional.  Pós-graduado em Marketing e Gestão de Negócios pelo INSPER-SP e MBA pela University of Denver (Colorado).
-`,
-        subjectResume: `
-    Simulação iniciou há alguns anos no Brasil como um assunto obscuro e que gerava um certo desconforto para as pessoas por se tratar de um hard skill que demandava muito conhecimento em programação para gerar soluções reativas no planejamento industrial, logístico e na área de saúde. Nos últimos anos, temos visto uma vertente bastante alterada com o surgimento de soluções modernas, que podem fazer com que métodos de Machine Learning e soluções de AI, quando trabalham em conjunto com simulação, podem desenvolver uma solução proativa e preventiva no planejamento operacional das empresas.
-`,
-        
-        customSize: '10%',
-        datentime: {
-          date: '11/05',
-          time: '19:00 - 20:30',
-          place: 'Online: Youtube'
-        }
-      },
-
-      {
-        name: 'Tereza Cristina da Silva Paes Ferreira Del Papa',
-        institution: 'Paes Del Papa Arquitetura',
-        speaking: 'Arquitetura Hospitalar',
+        name: 'André Luiz',
+        institution: '',
+        speaking: 'Engenharia de software',
         description: `Formada pela FAMIH-BH/MG, possui especialização em Arquitetura Hospitalar pelo IAB-SP e Administração Hospitalar pela São Camilo, em São Paulo. Em seu escritório, desenvolve projetos relevantes em várias cidades do país, de diversas naturezas e escalas. Com passagem pela docência, hoje tem tido a oportunidade de dividir seu trabalho com estudantes de arquitetura por meio de palestras. Além disso, em seu escritório recebe eventualmente estagiários,  contribuindo assim também com a formação de futuros profissionais.
 `,
         subjectResume: `
   As práticas profissionais da Arquitetura Hospitalar – um campo de atuação e o mercado de trabalho segundo a experiência da arquiteta urbanista
 `,
-        img: '/assets/img/speakers/Tereza_Cristina.jpg',
+        img: '/assets/img/speakers/andre.jpg',
         customSize: '100%',
         datentime: {
           date: '11/05',
@@ -307,9 +290,9 @@ export default class MiniCourses extends Vue {
       },
 
       {
-        name: 'Mateus Aparecido de Souza Gentile',
-        institution: 'GTMax',
-        speaking: 'Impressão 3D com a empresa nacional GTMax',
+        name: 'Fabrício Schlag',
+        institution: '',
+        speaking: 'Engenharia de software',
         description: `Atuo a 7 anos na empresa GTMAX3D líder nacional em fabricação de impressoras 3D, iniciei minha carreira na empresa como estagiário de técnico em eletrônica, durante meus primeiros 3 anos na empresa lidei diretamente com o setor de montagem dos equipamentos onde pude adquirir o máximo de conhecimento técnico possível.
   Com o reconhecimento da empresa ha 3 anos atuo como suporte técnico lidando diretamente com cliente e manutenções dos equipamentos comercializados pela empresa.
 
@@ -317,7 +300,7 @@ export default class MiniCourses extends Vue {
         subjectResume: `
   Experiências da empresa com o mercado de impressão 3D, seus produtos, oportunidades e mercado de trabalho.
 `,
-        img: '/assets/img/speakers/Mateus_Aparecido.jpg',
+        img: 'https://i.imgur.com/5jTG7on.jpg',
         customSize: '100%',
         datentime: {
           date: '11/05',

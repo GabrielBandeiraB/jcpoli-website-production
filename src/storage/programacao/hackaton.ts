@@ -13,15 +13,15 @@ export default [
     time: "22:00",},
     
     {date: "19/10",
-    description: "Apresentação dos pitchs",
+    description: "Checkpoint 3",
     place: "",
     speaker: "MVP",
     time: "14:00",},
 
     {date: "19/10",
-    description: "Apresentação dos pitchs e encerramento",
+    description: "Checkpoint 4",
     place: "",
-    speaker: "",
+    speaker: "Apresentação dos pitchs e encerramento",
     time: "18:30",},
 ]
 
