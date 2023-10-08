@@ -10,7 +10,7 @@
     <Main id="root">
       <h4 class="text-center">HACKATHON</h4>      
       <div class="button-container">
-        <button class="button" v-on:click="filterCourses">Geral</button>
+        <button class="button" v-on:click="mostrar_apenas_geral">Geral</button>
         <button class="button" v-on:click="mostrar_apenas_checkpoint">Checkpoints</button>
         <button class="button" v-on:click="filterCourses">Minicursos</button>
         <button class="button" v-on:click="mostrar_apenas_mentores">Mentores</button>
@@ -35,9 +35,31 @@
       </Main>
     </div>    
 
+    <div id="geral">
+      <h2>Hackapuc 2023</h2>
+      <hr style="border-top: 3px solid #333; margin: 20px auto;">
+      <p style="font-size: 18px;">
+        Temos a alegria de anunciar a Hackapuc 2023, que será realizada 
+        de 17 a 19 de outubro. A Hackapuc é um grande evento que envolve 
+        o desenvolvimento de uma solução inovadora para um determinado 
+        problema ou desafio. Os interessados devem formar grupos para 
+        participarem.
+      </p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <h3 style="text-align: left;">Inscrições</h3>
+      <hr style="border-top: 3px solid #333; margin: 20px auto;">      
+    </div>
+
     <div id="checkpoint">
       <Programacao></Programacao>
     </div>
+
+    
     
   </div>
 
@@ -175,7 +197,7 @@ export default class MiniCourses extends Vue {
     this.visibleCheckpoint = true;
   }
 
-  mostrat_apenas_geral() {
+  mostrar_apenas_geral() {
     if (this.visibleGeral) return
 
     if (this.visibleCursos)
@@ -372,4 +394,22 @@ h4 {
   visibility: hidden;
 }
 
+#geral {
+  position: relative;
+  margin-bottom: 0px;
+  visibility: hidden;
+  bottom: 700px;
+  width: 70%;
+  margin: 20px auto;
+}
+
+#geral h2, h3 {
+  color: #2776f5;
+}
+
+
 </style>
+
+
+
+
