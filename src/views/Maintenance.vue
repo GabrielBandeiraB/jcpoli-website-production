@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="what-is-up">
-      <img class="mb-5" src="/assets/img/lampada.png" />
+      <!--<img class="mb-5" src="/assets/img/lampada.png" />-->
       <div class="spinny-cogs">
         <i class="fa fa-cog" aria-hidden="true"></i>
         <i class="fa fa-5x fa-cog fa-spin" aria-hidden="true"></i>
