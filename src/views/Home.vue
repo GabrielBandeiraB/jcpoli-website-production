@@ -15,7 +15,7 @@
         >
           <v-layout id="whenwhere">
             <div>
-              <!-- <v-flex> -->
+              <!--
               <div class="icontitle">
                 <i class="fas fa-clock"></i>
                 <h5>QUANDO</h5>
@@ -24,8 +24,7 @@
                 De 17 a 19 de
                 <br />outubro de 2023
               </span>
-              <!-- </v-flex> -->
-              <!-- <v-flex> -->
+              
               <div class="icontitle">
                 <i class="fas fa-map-marked"></i>
                 <h5>ONDE</h5>
@@ -40,7 +39,7 @@
                 Av, 1ª Avenida, 458-590 - Setor Leste Universitário,
                 <br />Goiânia - GO, 74605-020
               </span>
-              <!-- </v-flex> -->
+              -->
             </div>
             <NavBar></NavBar>
           </v-layout>

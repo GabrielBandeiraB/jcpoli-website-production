@@ -25,17 +25,18 @@ const router = new Router({
         import(/* webpackChunkName: "account" */ "./views/Maintenance.vue")
     },
 
-    {
+    /*{
       path: "/minicursos",
       name: "minicursos",
       component: () =>
-        import(/* webpackChunkName: "minicurso" */ "./views/MiniCourses.vue")
-    },
+        import( "./views/MiniCourses.vue")
+    },*/
     {
       path: "/hackaton",
       name: "hackaton",
       component: () =>
         import(/* webpackChunkName: "hackaton" */"./views/Hackaton.vue")
+        //import(/* webpackChunkName: "minicurso" */ "./views/MiniCourses.vue")
     }, 
     {
       path: "/palestras",

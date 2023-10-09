@@ -61,11 +61,11 @@ export default class Dates extends Vue {
       event: 'Inscrição para a Hackathon 2023',
       disabled: false
     },
-    {
+    /*{
       date: 'De 17 a 21 de Outubro de 2023',
       event: 'IX Congresso de Ciência, Tecnologia e inovação da PUC Goiás',
       disabled: false
-    }
+    }*/
   ]
 
   constructor() {
