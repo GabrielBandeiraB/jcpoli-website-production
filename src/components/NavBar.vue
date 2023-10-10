@@ -126,7 +126,7 @@ export default class NavBar extends Vue {
 .navbar-h .nav-info .title {
   text-align: right;
   position: relative;
-  left: 150px;
+  left: 340px;
   font-size: 30px;
 }
 .navbar-h .nav-info > div {
