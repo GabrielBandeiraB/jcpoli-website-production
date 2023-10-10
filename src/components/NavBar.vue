@@ -30,23 +30,23 @@
           >          
         </a>
 
-        <span class="title"></span>
+        <span class="title">Escola de Ciencias Exatas e de Artes</span>
         <br />
         <span>
           
         </span>
       </div>
-
+<!--
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
           <br />Escola de Ciencias Exatas e de Artes <br />PUC GO
         </span>
 
         <span id="span-data-mobile" class="mobile sm-device">          
-          De 17 a 19 de Outubro de 2023 PUC Goiás
+          Escola de Ciencias Exatas e de Artes
         </span>
       </div>
-
+-->
       <div id="barra-mobile" class="mobile">
         <label for="open-mmenu">
           <i class="fas fa-bars"></i>
@@ -124,6 +124,9 @@ export default class NavBar extends Vue {
   left: -80px;
 }
 .navbar-h .nav-info .title {
+  text-align: left;
+  position: relative;
+  left: 250px;
   font-size: 30px;
 }
 .navbar-h .nav-info > div {

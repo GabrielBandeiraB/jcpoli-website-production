@@ -1,7 +1,7 @@
 <template>
   <div class="obs-page view">
     <PhotoHeader
-      title="Escola"
+      title="Escola Politecnica e de Artes"
       image="/assets/img/banner_escola.jpeg"
       description="Informações da Escola"
     ></PhotoHeader>
