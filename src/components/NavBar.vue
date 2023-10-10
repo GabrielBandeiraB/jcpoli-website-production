@@ -30,7 +30,7 @@
           >          
         </a>
 
-        <span class="title">Escola de Ciencias Exatas e de Artes</span>
+        <span class="title">Pontifícia Universidade Catolica de Goiás</span>
         <br />
         <span>
           
@@ -124,9 +124,9 @@ export default class NavBar extends Vue {
   left: -80px;
 }
 .navbar-h .nav-info .title {
-  text-align: left;
+  text-align: center;
   position: relative;
-  left: 250px;
+  left: 230px;
   font-size: 30px;
 }
 .navbar-h .nav-info > div {
