@@ -1,6 +1,6 @@
 
 export default [
-    {date: "18/10",
+    {date: "17/10",
     description: "Checkpoint 1",
     place: "",
     speaker: "Prazo final para inscrição dos grupos",
