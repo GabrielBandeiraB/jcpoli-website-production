@@ -59,7 +59,7 @@
         <router-link to="/escola" tag="li">Escola</router-link> -->
         <router-link to="/" tag="li">Home</router-link>  
         <router-link to="/hackaton" tag="li">Hackathon</router-link>
-        <router-link to="/manutencao" tag="li">Desafios CD</router-link>
+        <router-link to="/manutencao" tag="li">Desafio CD</router-link>
         <router-link to="/manutencao" tag="li">TCC</router-link>        
       </ul>
     </div>

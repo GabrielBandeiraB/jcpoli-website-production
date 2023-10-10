@@ -3,7 +3,7 @@
     <PhotoHeader
       title="Escola Politecnica e de Artes"
       image="/assets/img/banner_escola.jpeg"
-      description="Informações da Escola"
+      description=""
     ></PhotoHeader>
 
     <Main>
