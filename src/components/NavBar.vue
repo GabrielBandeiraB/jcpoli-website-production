@@ -10,10 +10,12 @@
         </dir>
       </div>
       <ul>
-        <router-link to="/" tag="li">Home</router-link>
-        <router-link to="/escola" tag="li">Escola</router-link>  
+        <!--<router-link to="/" tag="li">Home</router-link>
+        <router-link to="/escola" tag="li">Escola</router-link> -->
+        <router-link to="/" tag="li">Home</router-link>  
         <router-link to="/hackaton" tag="li">Hackathon</router-link>
         <router-link to="/manutencao" tag="li">Desafios</router-link>
+        <router-link to="/manutencao" tag="li">TCC</router-link>
       </ul>
     </div>
 
@@ -37,8 +39,7 @@
 
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
-          De 17 a 19 de Outubro de 2023
-          <br />PUC Goiás <br />Goiânia-GO
+          <br />Escola de Ciencias Exatas e de Artes <br />PUC GO
         </span>
 
         <span id="span-data-mobile" class="mobile sm-device">          
@@ -54,27 +55,12 @@
     </div>
     <div class="nav-container desktop">
       <ul>
-        <router-link to="/" tag="li">Home</router-link>
-        <router-link to="/escola" tag="li">Escola</router-link>
+        <!--<router-link to="/" tag="li">Home</router-link>
+        <router-link to="/escola" tag="li">Escola</router-link> -->
+        <router-link to="/" tag="li">Home</router-link>  
         <router-link to="/hackaton" tag="li">Hackathon</router-link>
-        <router-link to="/manutencao" tag="li">Desafios</router-link>
-
-        <!--<router-link to="/palestras" tag="li">Palestras</router-link>-->
-
-        
-        
-        <!--<router-link to="/hackaton" tag="li">Hackaton</router-link>-->
-        <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
-        
-        <!--<router-link to="/exposicoes" tag="li">Exposições</router-link>-->
-        <!--<router-link to="/anais" tag="li">Publicações</router-link>-->
-
-        <!--
-        <router-link to="/jges" tag="li">JGES</router-link>
-        <router-link to="/cadastro" tag="li">Inscrição</router-link>
-        -->
-        <!--<router-link to="/orientacoes" tag="li">Orientações</router-link>-->
-        
+        <router-link to="/manutencao" tag="li">Desafios CD</router-link>
+        <router-link to="/manutencao" tag="li">TCC</router-link>        
       </ul>
     </div>
   </div>

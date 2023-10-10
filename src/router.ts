@@ -7,14 +7,14 @@ Vue.use(Router);
 const router = new Router({
   mode: "history",
   routes: [
-    {
+    /*{
       path: "/",
       name: "home",
       component: Home
-    },
+    },*/
     {
-      path: "/escola",
-      name: "escola",
+      path: "/",
+      name: "home",
       component: () =>
         import(/* webpackChunkName: "evento2" */ "./views/Escola.vue")
     },

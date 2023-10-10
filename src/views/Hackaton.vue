@@ -8,12 +8,13 @@
     ></PhotoHeader>
 
     <Main id="root">
-      <h4 class="text-center">HACKATHON</h4>      
+      <h4 class="text-center"></h4>      
       <div class="button-container">
         <button class="button" v-on:click="mostrar_apenas_geral">Geral</button>
         <button class="button" v-on:click="mostrar_apenas_checkpoint">Checkpoints</button>
         <button class="button" v-on:click="filterCourses">Minicursos</button>
         <button class="button" v-on:click="mostrar_apenas_mentores">Mentores</button>
+        <button class="button" v-on:click="">Avaliadores (Faz nada)</button>
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
@@ -27,14 +28,12 @@
         </div>
       </div>                                  
     </Main>
-
     <div id="mentores">
       <Main id="body">
         <Paragraph title="Mentores"></Paragraph>
         <Speakers :speakers="speakers" :paginate="1" />            
       </Main>
     </div>    
-
     <div id="geral">
       <h2>Hackapuc 2023</h2>
       <hr style="border-top: 3px solid #333; margin: 20px auto;">
@@ -70,21 +69,15 @@
         do desafio será revelado. As equipes devem trabalhar para 
         poderem cuprir os checkpoints. Cada checkepoint representa 
         um marco no hackathon em que as equipes devem apresentar 
-        os trabalhos solicitados dentro de um prazo chamdo de 
-        checkpoint. Os checkpoints são de caráter eliminatório, o que 
-        sifnifica que a cada checkpoint menos equipes vão estar na 
-        disputa, funcionando como uma espécie de filtro. Os resultados 
-        vão ser avalidados por uma banca examinadora.
-      
+        os trabalhos solicitados dentro de um prazo. Os checkpoints 
+        são de caráter eliminatório, o que sifnifica que a cada 
+        checkpoint menos equipes vão estar na disputa. Os resultados 
+        serão avalidados pela banca examinadora e publicados no site.      
       </p>
     </div>
-
     <div id="checkpoint">
       <Programacao id="checkpoint-element"></Programacao>
     </div>
-
-    
-    
   </div>
 
     
