@@ -14,13 +14,10 @@
         <button class="button" v-on:click="mostrar_apenas_checkpoint">Checkpoints</button>
         <button class="button" v-on:click="filterCourses">Minicursos</button>
         <button class="button" v-on:click="mostrar_apenas_mentores">Mentores</button>
-        <button class="button" v-on:click="">Avaliadores (Faz nada)</button>
-        <!--<button class="button" v-on:click="filterCourses">12/05</button>
-        <button class="button" v-on:click="filterCourses">13/05</button>-->
+        <button class="button" v-on:click="">Avaliadores (Faz nada)</button>        
       </div>
       <div class="courses-list" id="cursos" >
-        <div v-for="(props, index) in coursesList" :key="index" v-if="flag">
-          <!--<h3 class="section-course">{{ props.curso }}</h3> -->
+        <div v-for="(props, index) in coursesList" :key="index" v-if="flag">          
           <div v-for="(course, index) in props.minicurso" :key="index">
             <MiniCourse :course="course"></MiniCourse>
             <hr />

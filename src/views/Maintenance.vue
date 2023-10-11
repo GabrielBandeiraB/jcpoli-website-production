@@ -12,13 +12,20 @@
     </div>
   </div>
 </template>
+
 <script>
+
 export default {
-  mounted: function() {
+
+  mounted() {
     console.log(this.$route.path);
   }
+
 };
 </script>
+
+
+
 <style lang="scss" scoped >
 * {
   margin: 0;
