@@ -569,6 +569,7 @@ export default class Escola extends Vue {
       place: 'Presencial: Auditório 1'
     }
   },
+  
 
   {
     name: 'João Paulo de Morais Alves',
