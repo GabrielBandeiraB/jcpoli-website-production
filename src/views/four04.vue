@@ -13,18 +13,13 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from "vue-property-decorator";
 
-@Component({
-  components: {
-  }
-})
+ export default {
+  components: {}
+ 
+ }
 
-export default class four04 extends Vue {
-    constructor(){
-        super();
-    }
-}
+
 
 </script>
 

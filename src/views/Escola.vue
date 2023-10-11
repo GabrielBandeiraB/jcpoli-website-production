@@ -212,7 +212,7 @@ import Paragraph from '@/components/organization/Paragraph.vue'
       Paragraph
     }
   }
-  
+
 </script>
 
 <style scoped>
@@ -249,6 +249,10 @@ import Paragraph from '@/components/organization/Paragraph.vue'
 .list-container h5 {
   margin: 2rem 0;
   color: black;
+}
+
+.list-cursos {
+  list-style-type: none;
 }
 
 .list-cursos li {
